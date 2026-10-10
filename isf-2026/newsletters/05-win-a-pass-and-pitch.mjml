@@ -1,0 +1,188 @@
+<mjml>
+  <mj-head>
+    <mj-title>Win a free pass to ISF Forum 2026, or $10,000 for your startup</mj-title>
+    <mj-preview>Answer one question on our socials to win a pass worth up to &#8358;100,000. Founders, pitch for a $10,000 grant before 30 October.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Georgia, 'Times New Roman', Times, serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text color="#2A3533" font-size="16px" line-height="1.75" padding="0px 40px" />
+      <mj-button font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="700" letter-spacing="2px" background-color="#F28C28" color="#0F1F1D" border-radius="3px" inner-padding="18px 40px" />
+      <mj-class name="label" font-family="Arial, Helvetica, sans-serif" font-size="11px" font-weight="700" letter-spacing="2.5px" line-height="1.5" color="#1E6F64" />
+      <mj-class name="h1" color="#0F1F1D" font-size="38px" line-height="1.15" />
+      <mj-class name="h2" color="#0F1F1D" font-size="28px" line-height="1.25" />
+      <mj-class name="small" font-family="Arial, Helvetica, sans-serif" font-size="12px" line-height="1.6" color="#5E6B68" />
+      <mj-class name="btn-dark" background-color="#0F1F1D" color="#FFFFFF" />
+    </mj-attributes>
+    <mj-style>
+      a { text-decoration: none; }
+      @media only screen and (max-width: 480px) {
+        .h1 div { font-size: 30px !important; }
+        .h2 div { font-size: 24px !important; }
+        .stat-num { font-size: 24px !important; }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#ECF0EF" width="600px">
+
+    <mj-section padding="24px 0 0 0"><mj-column></mj-column></mj-section>
+
+    <!-- Brand bar -->
+    <mj-section background-color="#2F988A">
+      <mj-column><mj-spacer height="4px" /></mj-column>
+    </mj-section>
+
+    <!-- ===== FIXED TOP: speakers animation. Keep in every newsletter. ===== -->
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/shared/isf-speakers-animated.gif" width="600px" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" alt="ISF Forum 2026 speakers. 27 and 28 November, International Conference Centre, Ibadan." />
+      </mj-column>
+    </mj-section>
+    <!-- ===== END FIXED TOP ===== -->
+
+    <!-- Intro -->
+    <mj-section background-color="#FFFFFF" padding="46px 0 44px 0">
+      <mj-column>
+        <mj-text mj-class="label" padding="0 40px 14px 40px">TWO WAYS TO WIN THIS MONTH</mj-text>
+        <mj-text mj-class="h1" css-class="h1">A free pass for you. $10,000 for your startup.</mj-text>
+        <mj-divider border-color="#2F988A" border-width="2px" width="48px" align="left" padding="22px 40px 24px 40px" />
+        <mj-text padding="0 40px 26px 40px">ISF Forum 2026 is less than two months away. Before then, we are giving away free passes, and one founder will leave Ibadan with a $10,000 grant. Here is how to get in on both.</mj-text>
+        <mj-text padding="0 40px">
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
+            <tr>
+              <td width="44" valign="top" style="border-top:1px solid #E2E8E6;padding:14px 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:700;letter-spacing:1px;color:#2F988A;">01</td>
+              <td style="border-top:1px solid #E2E8E6;padding:14px 0;font-family:Georgia,'Times New Roman',serif;font-size:17px;line-height:1.4;color:#0F1F1D;">Answer one question on our socials and win a pass worth up to &#8358;100,000</td>
+            </tr>
+            <tr>
+              <td width="44" valign="top" style="border-top:1px solid #E2E8E6;border-bottom:1px solid #E2E8E6;padding:14px 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:700;letter-spacing:1px;color:#2F988A;">02</td>
+              <td style="border-top:1px solid #E2E8E6;border-bottom:1px solid #E2E8E6;padding:14px 0;font-family:Georgia,'Times New Roman',serif;font-size:17px;line-height:1.4;color:#0F1F1D;">Pitch your startup for a $10,000 grant and $100,000 worth of support. Apply by 30&nbsp;October</td>
+            </tr>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- 01: The ISF Quiz -->
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/giveaway-oct/isf-quiz-question.jpg" width="600px" href="https://www.instagram.com/innovationandscaleforum/" alt="ISF Quiz, Question 03: Which of these came first? A. Cocoa House, B. University of Ibadan, C. Mapo Hall." />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFFFFF" padding="40px 0 50px 0">
+      <mj-column>
+        <mj-text mj-class="label" padding="0 40px 12px 40px">01 &middot; THE ISF QUIZ</mj-text>
+        <mj-text mj-class="h2" css-class="h2" padding="0 40px 16px 40px">Know Ibadan? Win your way in.</mj-text>
+        <mj-text padding="0 40px 24px 40px">Cocoa House, the University of Ibadan or Mapo Hall: which came first? Questions like this one go up on our social pages. Answer correctly and you are in the draw for a free pass, with prizes worth up to &#8358;100,000. That is a seat at the Gala Dinner and Awards Night.</mj-text>
+        <mj-text padding="0 40px 30px 40px">
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
+            <tr>
+              <td width="44" valign="top" style="border-top:1px solid #E2E8E6;padding:12px 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:700;color:#C8641A;">1</td>
+              <td style="border-top:1px solid #E2E8E6;padding:12px 0;font-family:Georgia,'Times New Roman',serif;font-size:16px;line-height:1.45;color:#0F1F1D;">Follow ISF Forum on Instagram, LinkedIn or X</td>
+            </tr>
+            <tr>
+              <td width="44" valign="top" style="border-top:1px solid #E2E8E6;padding:12px 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:700;color:#C8641A;">2</td>
+              <td style="border-top:1px solid #E2E8E6;padding:12px 0;font-family:Georgia,'Times New Roman',serif;font-size:16px;line-height:1.45;color:#0F1F1D;">Answer the question in the comments of the quiz post</td>
+            </tr>
+            <tr>
+              <td width="44" valign="top" style="border-top:1px solid #E2E8E6;border-bottom:1px solid #E2E8E6;padding:12px 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:700;color:#C8641A;">3</td>
+              <td style="border-top:1px solid #E2E8E6;border-bottom:1px solid #E2E8E6;padding:12px 0;font-family:Georgia,'Times New Roman',serif;font-size:16px;line-height:1.45;color:#0F1F1D;">Winners are picked at random from the correct answers and announced on our pages</td>
+            </tr>
+          </table>
+        </mj-text>
+        <mj-button href="https://www.instagram.com/innovationandscaleforum/" padding="0 40px 16px 40px">PLAY ON INSTAGRAM</mj-button>
+        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="13px" line-height="1.7" color="#5E6B68" align="center" padding="0 40px">Or play on <a href="https://www.linkedin.com/company/isfforum" style="color:#1E6F64;text-decoration:underline;">LinkedIn</a> and <a href="https://x.com/OfficialISF2026" style="color:#1E6F64;text-decoration:underline;">X</a>. More answers, more chances to win.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- 02: ISF Pitch Battle -->
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/giveaway-oct/isf-pitch-battle.jpg" width="600px" href="https://theisfforum.com/pitch" alt="ISF Pitch Battle. Applications are open. Pitch to the people who actually write the cheques." />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#0F1F1D" padding="40px 0 48px 0">
+      <mj-column>
+        <mj-text mj-class="label" color="#5CC2B1" padding="0 40px 12px 40px">02 &middot; ISF PITCH BATTLE &middot; APPLY BY 30 OCTOBER</mj-text>
+        <mj-text mj-class="h2" css-class="h2" color="#FFFFFF" padding="0 40px 16px 40px">Pitch to the people who write the cheques</mj-text>
+        <mj-text color="#D5DEDC" padding="0 40px 28px 40px">Founders, this is your stage. Shortlisted startups pitch live at ISF Forum 2026 in front of investors, bank leaders and partners. The winner takes home a $10,000 grant, plus $100,000 worth of support to help the business scale.</mj-text>
+        <mj-text padding="0 40px 32px 40px">
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
+            <tr>
+              <td width="33%" valign="top" style="border-top:1px solid #2A3D3A;border-bottom:1px solid #2A3D3A;padding:16px 8px 16px 0;">
+                <div class="stat-num" style="font-family:Georgia,'Times New Roman',serif;font-size:28px;line-height:1.1;color:#F28C28;">$10,000</div>
+                <div style="font-family:Arial,Helvetica,sans-serif;font-size:11px;letter-spacing:1px;line-height:1.5;color:#B9C7C4;padding-top:6px;">GRANT</div>
+              </td>
+              <td width="34%" valign="top" style="border-top:1px solid #2A3D3A;border-bottom:1px solid #2A3D3A;padding:16px 8px;">
+                <div class="stat-num" style="font-family:Georgia,'Times New Roman',serif;font-size:28px;line-height:1.1;color:#F28C28;">$100,000</div>
+                <div style="font-family:Arial,Helvetica,sans-serif;font-size:11px;letter-spacing:1px;line-height:1.5;color:#B9C7C4;padding-top:6px;">WORTH OF SUPPORT</div>
+              </td>
+              <td width="33%" valign="top" style="border-top:1px solid #2A3D3A;border-bottom:1px solid #2A3D3A;padding:16px 0 16px 8px;">
+                <div class="stat-num" style="font-family:Georgia,'Times New Roman',serif;font-size:28px;line-height:1.1;color:#FFFFFF;">30 Oct</div>
+                <div style="font-family:Arial,Helvetica,sans-serif;font-size:11px;letter-spacing:1px;line-height:1.5;color:#B9C7C4;padding-top:6px;">DEADLINE</div>
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+        <mj-button href="https://theisfforum.com/pitch" padding="0 40px 16px 40px">APPLY TO PITCH</mj-button>
+        <mj-text font-family="Arial, Helvetica, sans-serif" color="#B9C7C4" font-size="13px" line-height="1.7" align="center" padding="0 40px">Know a founder who should be on that stage? Forward them this email.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Closing call to action -->
+    <mj-section background-color="#FFFFFF" padding="46px 0 46px 0">
+      <mj-column>
+        <mj-text mj-class="h2" css-class="h2" align="center" padding="0 40px 14px 40px">Rather not leave it to chance?</mj-text>
+        <mj-text align="center" padding="0 52px">Passes start at &#8358;5,000. Delegate and VIP passes close on 1&nbsp;November.</mj-text>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" padding="26px 40px 14px 40px">GET YOUR PASS</mj-button>
+        <mj-text mj-class="small" align="center">27 and 28 November 2026 &middot; International Conference Centre, Ibadan</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Stay connected -->
+    <mj-section background-color="#FFFFFF" padding="0 0 44px 0">
+      <mj-column>
+        <mj-divider border-color="#E2E8E6" border-width="1px" padding="0 40px 40px 40px" />
+        <mj-text mj-class="label" align="center" padding="0 40px 12px 40px">STAY CLOSE TO THE BUILD-UP</mj-text>
+        <mj-text align="center" font-size="15px" padding="0 50px 24px 50px">New quiz questions, speakers and programme updates go out on our social channels first.</mj-text>
+        <mj-button mj-class="btn-dark" href="https://theisfforum.com" padding="0 40px 24px 40px">VISIT THEISFFORUM.COM</mj-button>
+        <mj-social mode="horizontal" align="center" icon-size="40px" padding="0" inner-padding="0 8px" border-radius="20px">
+          <mj-social-element name="instagram-noshare" href="https://www.instagram.com/innovationandscaleforum/" src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/social/isf-instagram.png" background-color="#FFFFFF" alt="Instagram"></mj-social-element>
+          <mj-social-element name="linkedin-noshare" href="https://www.linkedin.com/company/isfforum" src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/social/isf-linkedin.png" background-color="#FFFFFF" alt="LinkedIn"></mj-social-element>
+          <mj-social-element name="x-noshare" href="https://x.com/OfficialISF2026" src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/social/isf-x.png" background-color="#FFFFFF" alt="X"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <!-- Partners -->
+    <mj-section background-color="#FFFFFF" padding="0 0 36px 0">
+      <mj-column>
+        <mj-divider border-color="#E2E8E6" border-width="1px" padding="0 160px 30px 160px" />
+        <mj-text mj-class="label" align="center" padding="0 40px 4px 40px">HEADLINE ENTERPRISE FINANCE PARTNER</mj-text>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/sponsors-oct/sponsor-citihoms.png" width="280px" alt="Citihoms Finance Company" padding="0 0 22px 0" />
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/october/isf-partners.png" width="520px" alt="Partners of ISF Forum 2026" padding="0 20px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- ===== FIXED BOTTOM: Ibadan banner. Keep in every newsletter. ===== -->
+    <mj-section background-color="#0F1F1D">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" alt="Where big ideas meet big opportunities. ISF Forum 2026, 27 and 28 November, ICC Ibadan." />
+      </mj-column>
+    </mj-section>
+    <!-- ===== END FIXED BOTTOM ===== -->
+
+    <!-- Footer -->
+    <mj-section background-color="#0F1F1D" padding="34px 0 34px 0">
+      <mj-column>
+        <mj-text mj-class="label" color="#5CC2B1" align="center" padding="0 24px 12px 24px">ISF FORUM 2026 &middot; SCALE WITHOUT BORDERS</mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" color="#B9C7C4" font-size="12px" line-height="1.8" align="center" padding="0 24px 14px 24px">27 and 28 November 2026 &middot; International Conference Centre, Ibadan<br /><a href="https://theisfforum.com" style="color:#FFFFFF;">theisfforum.com</a> &nbsp;|&nbsp; <a href="https://www.instagram.com/innovationandscaleforum/" style="color:#FFFFFF;">Instagram</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/company/isfforum" style="color:#FFFFFF;">LinkedIn</a> &nbsp;|&nbsp; <a href="https://x.com/OfficialISF2026" style="color:#FFFFFF;">X</a><br /><a href="mailto:events@theisfforum.com" style="color:#FFFFFF;">events@theisfforum.com</a></mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" color="#7F918D" font-size="11px" line-height="1.6" align="center" padding="0 48px">You are receiving this email because you subscribed to updates from ISF Forum. <a href="{{UNSUBSCRIBE_URL}}" style="color:#B9C7C4;text-decoration:underline;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 24px 0"><mj-column></mj-column></mj-section>
+
+  </mj-body>
+</mjml>
