@@ -1,0 +1,232 @@
+<mjml>
+  <mj-head>
+    <mj-title>Happy New Month from ISF Forum 2026</mj-title>
+    <mj-preview>Happy new month from ISF Forum 2026. Today only, General tickets are 90% off with code ISFNG66.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Georgia, 'Times New Roman', Times, serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text color="#2A3533" font-size="16px" line-height="1.75" padding="0px 40px" />
+      <mj-button font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="700" letter-spacing="2px" background-color="#0F1F1D" color="#FFFFFF" border-radius="2px" inner-padding="17px 42px" />
+      <mj-class name="label" font-family="Arial, Helvetica, sans-serif" font-size="11px" font-weight="700" letter-spacing="2.5px" line-height="1.5" color="#1E6F64" />
+      <mj-class name="h1" color="#0F1F1D" font-size="40px" line-height="1.15" />
+      <mj-class name="h2" color="#0F1F1D" font-size="30px" line-height="1.2" />
+      <mj-class name="small" font-family="Arial, Helvetica, sans-serif" font-size="12px" line-height="1.6" color="#5E6B68" />
+    </mj-attributes>
+    <mj-style>
+      a { text-decoration: none; }
+      @media only screen and (max-width: 480px) {
+        .h1 div { font-size: 32px !important; }
+        .h2 div { font-size: 25px !important; }
+        .stat div { font-size: 32px !important; }
+        .stack-gap { padding-bottom: 12px !important; }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#ECF0EF" width="600px">
+
+    <mj-section padding="24px 0 0 0"><mj-column></mj-column></mj-section>
+
+    <!-- Brand bar and logo lockup -->
+    <mj-section background-color="#2F988A">
+      <mj-column><mj-spacer height="4px" /></mj-column>
+    </mj-section>
+    <mj-section background-color="#FFFFFF" padding="26px 0 22px 0">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/october/isf-header.png" width="520px" href="https://theisfforum.com" alt="Innovation and Scale Forum 2026 x Ibadan Start-up Fest. Scale Without Borders." />
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero -->
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/october/isf-today-we-are-66.jpg" width="600px" href="https://theisfforum.com" alt="Today we are 66. Happy Independence Day, Nigeria." />
+      </mj-column>
+    </mj-section>
+
+    <!-- Letter -->
+    <mj-section background-color="#FFFFFF" padding="48px 0 52px 0">
+      <mj-column>
+        <mj-text mj-class="label" padding="0 40px 14px 40px">THURSDAY, 1 OCTOBER 2026</mj-text>
+        <mj-text mj-class="h1" css-class="h1">Happy New Month.</mj-text>
+        <mj-divider border-color="#2F988A" border-width="2px" width="48px" align="left" padding="22px 40px 24px 40px" />
+        <mj-text padding="0 40px 18px 40px">October opens with Nigeria marking 66 years of independence. For everyone building businesses, institutions and markets on this continent, the anniversary is a fitting moment to ask how far the work being done here can travel.</mj-text>
+        <mj-text>That question sits at the heart of ISF Forum 2026. On 27 and 28 November, the International Conference Centre in Ibadan will convene the founders, investors, corporate leaders and policymakers whose decisions are carrying African enterprise across borders. We would be glad to count you among them.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Independence offer -->
+    <mj-section background-color="#F4F7F6" padding="50px 0 50px 0">
+      <mj-column>
+        <mj-text mj-class="label" align="center" padding="0 40px 12px 40px">INDEPENDENCE OFFER &middot; TODAY ONLY</mj-text>
+        <mj-text mj-class="h2" css-class="h2" align="center" padding="0 40px 16px 40px">90% off General tickets</mj-text>
+        <mj-text align="center" padding="0 48px 30px 48px">To celebrate Independence Day, General tickets to ISF Forum 2026 are available at 90% off for today only. The offer closes at midnight, West Africa Time, and will not be repeated.</mj-text>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/october/isf-independence-offer.jpg" width="520px" href="https://theisfforum.com" alt="Independence Offer. 24 hours only on General tickets. Use code ISFNG66 before midnight." padding="0 40px" />
+        <mj-text align="center" padding="32px 40px 0 40px">
+          <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="border-collapse:collapse;margin:0 auto;">
+            <tr>
+              <td align="center" style="background-color:#FFFFFF;border:1px solid #C5D3D0;padding:16px 44px 18px 44px;">
+                <div style="font-family:Arial,Helvetica,sans-serif;font-size:10px;font-weight:700;letter-spacing:2.5px;color:#5E6B68;line-height:1.4;">ENTER AT CHECKOUT</div>
+                <div style="font-family:Georgia,'Times New Roman',serif;font-size:28px;letter-spacing:5px;color:#0F1F1D;line-height:1.3;padding-top:6px;">ISFNG66</div>
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+        <mj-button href="https://theisfforum.com" padding="24px 40px 14px 40px">SECURE YOUR SEAT</mj-button>
+        <mj-text mj-class="small" align="center">Closes at 11:59 PM WAT on Thursday, 1 October</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Theme -->
+    <mj-section background-color="#FFFFFF" padding="52px 0 28px 0">
+      <mj-column>
+        <mj-text mj-class="label" padding="0 40px 12px 40px">THE 2026 THEME</mj-text>
+        <mj-text mj-class="h2" css-class="h2" padding="0 40px 18px 40px">Scale Without Borders</mj-text>
+        <mj-text>Every serious business on this continent eventually meets the same question: how to grow beyond its first market. Over two days, the Forum brings together the people best placed to answer it, from operators who have already made the move to the investors who finance it and the officials who shape the rules around it.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFFFFF" padding="0 34px 52px 34px">
+      <mj-column css-class="stack-gap" padding="0 6px">
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/october/isf-66-years-africa.jpg" width="254px" fluid-on-mobile="true" border="1px solid #E2E8E6" alt="66 years. Now let's scale it. A map of Africa with connections reaching out from Nigeria." />
+      </mj-column>
+      <mj-column padding="0 6px">
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/october/isf-66-years-ibadan.jpg" width="254px" fluid-on-mobile="true" alt="66 years. Now let's scale it. The Ibadan skyline with the Nigerian flag over Cocoa House." />
+      </mj-column>
+    </mj-section>
+
+    <!-- Audience -->
+    <mj-section background-color="#0F1F1D" padding="44px 24px 8px 24px">
+      <mj-column>
+        <mj-text mj-class="label" color="#5CC2B1" align="center" padding="0 16px 26px 16px">WHO WILL BE IN THE ROOM</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#0F1F1D" padding="0 24px">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-text css-class="stat" color="#5CC2B1" font-size="40px" line-height="1" align="center" padding="0 8px">3,000+</mj-text>
+          <mj-text font-family="Arial, Helvetica, sans-serif" color="#B9C7C4" font-size="10px" letter-spacing="2px" line-height="1.5" align="center" padding="10px 8px 30px 8px">IN PERSON</mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text css-class="stat" color="#5CC2B1" font-size="40px" line-height="1" align="center" padding="0 8px">10,000+</mj-text>
+          <mj-text font-family="Arial, Helvetica, sans-serif" color="#B9C7C4" font-size="10px" letter-spacing="2px" line-height="1.5" align="center" padding="10px 8px 30px 8px">ONLINE</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#0F1F1D" padding="0 24px">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-text css-class="stat" color="#5CC2B1" font-size="40px" line-height="1" align="center" padding="0 8px">50+</mj-text>
+          <mj-text font-family="Arial, Helvetica, sans-serif" color="#B9C7C4" font-size="10px" letter-spacing="2px" line-height="1.5" align="center" padding="10px 8px 30px 8px">SPEAKERS</mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text css-class="stat" color="#5CC2B1" font-size="40px" line-height="1" align="center" padding="0 8px">20+</mj-text>
+          <mj-text font-family="Arial, Helvetica, sans-serif" color="#B9C7C4" font-size="10px" letter-spacing="2px" line-height="1.5" align="center" padding="10px 8px 30px 8px">COUNTRIES</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#0F1F1D" padding="0 0 44px 0">
+      <mj-column>
+        <mj-divider border-color="#2A3D3A" border-width="1px" padding="0 120px 24px 120px" />
+        <mj-text color="#D5DEDC" font-size="15px" font-style="italic" line-height="1.7" align="center" padding="0 56px">Founders and operators, investors, corporate leaders, policymakers and ecosystem builders, gathered in one venue for two days.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Programme -->
+    <mj-section background-color="#FFFFFF" padding="52px 0 0 0">
+      <mj-column>
+        <mj-text mj-class="label" padding="0 40px 12px 40px">THE PROGRAMME</mj-text>
+        <mj-text mj-class="h2" css-class="h2" padding="0 40px 18px 40px">Two days in Ibadan</mj-text>
+        <mj-text padding="0 40px 28px 40px">More than 50 speakers from business, finance and government will take the stage across the two days.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFFFFF" padding="0 0 0 0">
+      <mj-column>
+        <mj-divider border-color="#E2E8E6" border-width="1px" padding="0 40px 22px 40px" />
+        <mj-text mj-class="label" font-size="10px" padding="0 40px 6px 40px">FRIDAY 27 NOVEMBER &middot; FROM 12 NOON</mj-text>
+        <mj-text color="#0F1F1D" font-size="21px" line-height="1.3" padding="0 40px 8px 40px">Builder&rsquo;s Day</mj-text>
+        <mj-text font-size="15px" line-height="1.7" padding="0 40px 24px 40px">An afternoon of accelerator finals and the opening sessions of the Deal Room, with a preview of the exhibition and an evening reception to close.</mj-text>
+
+        <mj-divider border-color="#E2E8E6" border-width="1px" padding="0 40px 22px 40px" />
+        <mj-text mj-class="label" font-size="10px" padding="0 40px 6px 40px">SATURDAY 28 NOVEMBER &middot; FROM 9 AM</mj-text>
+        <mj-text color="#0F1F1D" font-size="21px" line-height="1.3" padding="0 40px 8px 40px">The Forum</mj-text>
+        <mj-text font-size="15px" line-height="1.7" padding="0 40px 24px 40px">The Grand Opening in Thomas Hall leads into the headline keynote, leadership panels and the pitch competition finals. In the afternoon, delegates choose between the Agro Investment Summit, the Investment and Policy track, hands-on workshops and the full exhibition.</mj-text>
+
+        <mj-divider border-color="#E2E8E6" border-width="1px" padding="0 40px 22px 40px" />
+        <mj-text mj-class="label" font-size="10px" padding="0 40px 6px 40px">BOTH DAYS &middot; ONOSODE HALL</mj-text>
+        <mj-text color="#0F1F1D" font-size="21px" line-height="1.3" padding="0 40px 8px 40px">The Deal Room</mj-text>
+        <mj-text font-size="15px" line-height="1.7" padding="0 40px 24px 40px">A dedicated room where investors, corporate partners and government meet companies preparing to raise capital and expand into new markets.</mj-text>
+        <mj-divider border-color="#E2E8E6" border-width="1px" padding="0 40px 48px 40px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Gala and awards -->
+    <mj-section background-color="#FFFFFF" padding="0 24px 52px 24px">
+      <mj-column background-color="#0F1F1D" border-radius="3px" padding="46px 0 42px 0">
+        <mj-text mj-class="label" color="#5CC2B1" padding="0 32px 14px 32px">SATURDAY 28 NOVEMBER &middot; GALA DINNER &middot; 6:30 PM</mj-text>
+        <mj-text mj-class="h2" css-class="h2" color="#FFFFFF" padding="0 32px">The Scale Without Borders Award 2026</mj-text>
+        <mj-divider border-color="#2F988A" border-width="2px" width="48px" align="left" padding="22px 32px 24px 32px" />
+        <mj-text color="#D5DEDC" padding="0 32px 26px 32px">The Forum closes with an evening of recognition in Thomas Hall. The inaugural Scale Without Borders Award honours the African companies, leaders and institutions whose work has crossed markets and borders, with 18 categories presented live across five sectors.</mj-text>
+        <mj-text padding="0 32px">
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
+            <tr>
+              <td style="border-top:1px solid #2A3D3A;padding:12px 0;font-family:Georgia,'Times New Roman',serif;font-size:16px;color:#FFFFFF;">Companies and Growth</td>
+              <td align="right" style="border-top:1px solid #2A3D3A;padding:12px 0;font-family:Arial,Helvetica,sans-serif;font-size:11px;letter-spacing:1.5px;color:#5CC2B1;">3 AWARDS</td>
+            </tr>
+            <tr>
+              <td style="border-top:1px solid #2A3D3A;padding:12px 0;font-family:Georgia,'Times New Roman',serif;font-size:16px;color:#FFFFFF;">Technology and Innovation</td>
+              <td align="right" style="border-top:1px solid #2A3D3A;padding:12px 0;font-family:Arial,Helvetica,sans-serif;font-size:11px;letter-spacing:1.5px;color:#5CC2B1;">5 AWARDS</td>
+            </tr>
+            <tr>
+              <td style="border-top:1px solid #2A3D3A;padding:12px 0;font-family:Georgia,'Times New Roman',serif;font-size:16px;color:#FFFFFF;">Individuals</td>
+              <td align="right" style="border-top:1px solid #2A3D3A;padding:12px 0;font-family:Arial,Helvetica,sans-serif;font-size:11px;letter-spacing:1.5px;color:#5CC2B1;">4 AWARDS</td>
+            </tr>
+            <tr>
+              <td style="border-top:1px solid #2A3D3A;padding:12px 0;font-family:Georgia,'Times New Roman',serif;font-size:16px;color:#FFFFFF;">Institutions and Ecosystems</td>
+              <td align="right" style="border-top:1px solid #2A3D3A;padding:12px 0;font-family:Arial,Helvetica,sans-serif;font-size:11px;letter-spacing:1.5px;color:#5CC2B1;">3 AWARDS</td>
+            </tr>
+            <tr>
+              <td style="border-top:1px solid #2A3D3A;border-bottom:1px solid #2A3D3A;padding:12px 0;font-family:Georgia,'Times New Roman',serif;font-size:16px;color:#FFFFFF;">Public Sector</td>
+              <td align="right" style="border-top:1px solid #2A3D3A;border-bottom:1px solid #2A3D3A;padding:12px 0;font-family:Arial,Helvetica,sans-serif;font-size:11px;letter-spacing:1.5px;color:#5CC2B1;">3 AWARDS</td>
+            </tr>
+          </table>
+        </mj-text>
+        <mj-text color="#B9C7C4" font-size="14px" line-height="1.7" padding="24px 32px 0 32px">The evening will be covered by more than 10 leading media houses, including Business Insider, BusinessDay, TechCabal, Vanguard and The Nation. Dress code is smart formal.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Closing -->
+    <mj-section background-color="#FFFFFF" padding="0 0 48px 0">
+      <mj-column>
+        <mj-text mj-class="h2" css-class="h2" align="center" padding="0 40px 16px 40px">See you in Ibadan.</mj-text>
+        <mj-text align="center" padding="0 52px">General tickets remain at 90% off until midnight tonight. If a colleague belongs in this room, forward this email before the offer closes.</mj-text>
+        <mj-button href="https://theisfforum.com" padding="28px 40px 14px 40px">SECURE YOUR SEAT</mj-button>
+        <mj-text mj-class="small" align="center">Code ISFNG66 &middot; theisfforum.com</mj-text>
+        <mj-divider border-color="#E2E8E6" border-width="1px" padding="40px 160px 30px 160px" />
+        <mj-text font-style="italic" color="#5E6B68" font-size="15px" align="center" padding="0 40px 4px 40px">With best wishes for the month ahead,</mj-text>
+        <mj-text color="#0F1F1D" font-size="16px" align="center">The ISF Forum 2026 Team</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Partners -->
+    <mj-section background-color="#FFFFFF" padding="0 0 36px 0">
+      <mj-column>
+        <mj-text mj-class="small" font-size="11px" letter-spacing="1px" align="center" padding="0 40px 16px 40px">Headline Enterprise Finance Partner: <span style="color:#0F1F1D;font-weight:700;">Citihoms Finance Company</span></mj-text>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/october/isf-partners.png" width="520px" alt="Partners of ISF Forum 2026" padding="0 20px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#0F1F1D" padding="34px 0 34px 0">
+      <mj-column>
+        <mj-text mj-class="label" color="#5CC2B1" align="center" padding="0 24px 12px 24px">ISF FORUM 2026 &middot; SCALE WITHOUT BORDERS</mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" color="#B9C7C4" font-size="12px" line-height="1.8" align="center" padding="0 24px 14px 24px">27 and 28 November 2026 &middot; International Conference Centre, Ibadan<br /><a href="https://theisfforum.com" style="color:#FFFFFF;">theisfforum.com</a> &nbsp;|&nbsp; <a href="mailto:david@theisfforum.com" style="color:#FFFFFF;">david@theisfforum.com</a> &nbsp;|&nbsp; <a href="https://www.instagram.com/innovationandscaleforum/" style="color:#FFFFFF;">Instagram</a></mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" color="#7F918D" font-size="11px" line-height="1.6" align="center" padding="0 48px">You are receiving this email because you subscribed to updates from ISF Forum. <a href="{{UNSUBSCRIBE_URL}}" style="color:#B9C7C4;text-decoration:underline;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 24px 0"><mj-column></mj-column></mj-section>
+
+  </mj-body>
+</mjml>

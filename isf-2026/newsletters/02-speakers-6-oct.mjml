@@ -1,0 +1,225 @@
+<mjml>
+  <mj-head>
+    <mj-title>First speakers announced for ISF Forum 2026</mj-title>
+    <mj-preview>Kashifu Inuwa Abdullahi, Dr. Vincent Olatunji and more confirmed for ISF Forum 2026, 27 and 28 November in Ibadan.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Georgia, 'Times New Roman', Times, serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text color="#2A3533" font-size="16px" line-height="1.75" padding="0px 40px" />
+      <mj-button font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="700" letter-spacing="2px" background-color="#F28C28" color="#0F1F1D" border-radius="3px" inner-padding="18px 46px" />
+      <mj-class name="label" font-family="Arial, Helvetica, sans-serif" font-size="11px" font-weight="700" letter-spacing="2.5px" line-height="1.5" color="#1E6F64" />
+      <mj-class name="h1" color="#0F1F1D" font-size="38px" line-height="1.15" />
+      <mj-class name="h2" color="#0F1F1D" font-size="28px" line-height="1.25" />
+      <mj-class name="small" font-family="Arial, Helvetica, sans-serif" font-size="12px" line-height="1.6" color="#5E6B68" />
+      <mj-class name="spk-name" color="#FFFFFF" font-size="17px" line-height="1.3" align="center" padding="16px 10px 4px 10px" />
+      <mj-class name="spk-role" font-family="Arial, Helvetica, sans-serif" color="#9FC9C1" font-size="12px" line-height="1.5" align="center" padding="0 10px 34px 10px" />
+      <mj-class name="btn-teal" background-color="#2F988A" color="#FFFFFF" />
+      <mj-class name="btn-dark" background-color="#0F1F1D" color="#FFFFFF" />
+    </mj-attributes>
+    <mj-style>
+      a { text-decoration: none; }
+      @media only screen and (max-width: 480px) {
+        .h1 div { font-size: 30px !important; }
+        .h2 div { font-size: 24px !important; }
+        .stat div { font-size: 28px !important; }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#ECF0EF" width="600px">
+
+    <mj-section padding="24px 0 0 0"><mj-column></mj-column></mj-section>
+
+    <!-- Brand bar -->
+    <mj-section background-color="#2F988A">
+      <mj-column><mj-spacer height="4px" /></mj-column>
+    </mj-section>
+
+    <!-- Hero: speaker lineup -->
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-speakers-hero.jpg" width="600px" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" alt="ISF Forum 2026 speakers. 27 and 28 November 2026, International Conference Centre, Ibadan." />
+      </mj-column>
+    </mj-section>
+
+    <!-- Intro -->
+    <mj-section background-color="#FFFFFF" padding="46px 0 44px 0">
+      <mj-column>
+        <mj-text mj-class="label" padding="0 40px 14px 40px">SPEAKER ANNOUNCEMENT</mj-text>
+        <mj-text mj-class="h1" css-class="h1">First speakers announced</mj-text>
+        <mj-divider border-color="#2F988A" border-width="2px" width="48px" align="left" padding="22px 40px 24px 40px" />
+        <mj-text>ISF Forum 2026 brings the people who regulate, finance and build African business into one room. Here are the first names confirmed for the stage in Ibadan on 27 and 28 November.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Speaker grid -->
+    <mj-section background-color="#0F1F1D" padding="46px 20px 0 20px">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/speaker-kashifu-inuwa-abdullahi.jpg" width="150px" border-radius="75px" alt="Kashifu Inuwa Abdullahi" />
+          <mj-text mj-class="spk-name">Kashifu Inuwa Abdullahi, CCIE</mj-text>
+          <mj-text mj-class="spk-role">Director-General/CEO, NITDA</mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/speaker-vincent-olatunji.jpg" width="150px" border-radius="75px" alt="Dr. Vincent O. Olatunji" />
+          <mj-text mj-class="spk-name">Dr. Vincent O. Olatunji</mj-text>
+          <mj-text mj-class="spk-role">National Commissioner/CEO, NDPC</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#0F1F1D" padding="0 20px">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/speaker-victor-oluwole.jpg" width="150px" border-radius="75px" alt="Victor Oluwole" />
+          <mj-text mj-class="spk-name">Victor Oluwole</mj-text>
+          <mj-text mj-class="spk-role">Managing Director, Business Insider &amp; Pulse Africa</mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/speaker-satoshi-shinada.jpg" width="150px" border-radius="75px" alt="Satoshi Shinada" />
+          <mj-text mj-class="spk-name">Satoshi Shinada</mj-text>
+          <mj-text mj-class="spk-role">Partner/Co-founder, Verod&#8209;Kepple Africa Ventures</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#0F1F1D" padding="0 20px">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/speaker-nnanke-essien.jpg" width="150px" border-radius="75px" alt="Nnanke Essien" />
+          <mj-text mj-class="spk-name">Nnanke Essien</mj-text>
+          <mj-text mj-class="spk-role">Co-Founder, SiSa Consulting</mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/speaker-claire-lavielle.jpg" width="150px" border-radius="75px" alt="Claire Lavielle" />
+          <mj-text mj-class="spk-name">Claire Lavielle</mj-text>
+          <mj-text mj-class="spk-role">Scale Up Success Officer, Chapter54</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#0F1F1D" padding="0 0 46px 0">
+      <mj-column>
+        <mj-divider border-color="#2A3D3A" border-width="1px" padding="0 120px 24px 120px" />
+        <mj-text color="#D5DEDC" font-size="15px" font-style="italic" line-height="1.7" align="center" padding="0 48px 26px 48px">More than 50 speakers in all, including His Excellency Seyi Makinde, Executive Governor of Oyo State.</mj-text>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" padding="0 40px">SECURE YOUR SEAT</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Awards: nominations -->
+    <mj-section background-color="#FFFFFF" padding="50px 0 50px 0">
+      <mj-column>
+        <mj-text mj-class="label" padding="0 40px 12px 40px">THE SCALE WITHOUT BORDERS AWARD 2026</mj-text>
+        <mj-text mj-class="h2" css-class="h2" padding="0 40px 16px 40px">18 awards. Nominations close 31&nbsp;October.</mj-text>
+        <mj-text padding="0 40px 24px 40px">Know a company that has grown beyond the market it started in? Nominate it. Entry is free and open to any company operating in Africa, and every winner is announced live at the Gala on 28 November.</mj-text>
+        <mj-text padding="0 40px 30px 40px">
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
+            <tr>
+              <td width="50%" style="border-top:1px solid #E2E8E6;padding:10px 8px 10px 0;font-family:Georgia,'Times New Roman',serif;font-size:15px;color:#0F1F1D;">Fintech of the Year</td>
+              <td width="50%" style="border-top:1px solid #E2E8E6;padding:10px 0 10px 8px;font-family:Georgia,'Times New Roman',serif;font-size:15px;color:#0F1F1D;">Founder of the Year</td>
+            </tr>
+            <tr>
+              <td style="border-top:1px solid #E2E8E6;padding:10px 8px 10px 0;font-family:Georgia,'Times New Roman',serif;font-size:15px;color:#0F1F1D;">Scale-Up of the Year</td>
+              <td style="border-top:1px solid #E2E8E6;padding:10px 0 10px 8px;font-family:Georgia,'Times New Roman',serif;font-size:15px;color:#0F1F1D;">CEO of the Year</td>
+            </tr>
+            <tr>
+              <td style="border-top:1px solid #E2E8E6;border-bottom:1px solid #E2E8E6;padding:10px 8px 10px 0;font-family:Georgia,'Times New Roman',serif;font-size:15px;color:#0F1F1D;">Investor of the Year</td>
+              <td style="border-top:1px solid #E2E8E6;border-bottom:1px solid #E2E8E6;padding:10px 0 10px 8px;font-family:Georgia,'Times New Roman',serif;font-size:15px;color:#0F1F1D;">Bank of the Year</td>
+            </tr>
+          </table>
+        </mj-text>
+        <mj-button mj-class="btn-dark" href="https://awards.theisfforum.com/nominations" padding="0 40px 14px 40px">NOMINATE A COMPANY</mj-button>
+        <mj-text mj-class="small" align="center"><a href="https://awards.theisfforum.com/categories" style="color:#1E6F64;text-decoration:underline;">See all 18 categories</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Gala dinner -->
+    <mj-section background-color="#FFFFFF" padding="0 24px 50px 24px">
+      <mj-column background-color="#0F1F1D" border-radius="3px" padding="44px 0 40px 0">
+        <mj-text mj-class="label" color="#5CC2B1" padding="0 32px 14px 32px">SATURDAY 28 NOVEMBER &middot; 6 PM &middot; BLACK TIE</mj-text>
+        <mj-text mj-class="h2" css-class="h2" color="#FFFFFF" padding="0 32px">The Gala Dinner</mj-text>
+        <mj-divider border-color="#2F988A" border-width="2px" width="48px" align="left" padding="22px 32px 22px 32px" />
+        <mj-text color="#D5DEDC" padding="0 32px 24px 32px">Five hundred founders, investors, bank and regulator leaders and delegations from across the continent, seated at round tables of ten for dinner and the live announcement of all 18 awards.</mj-text>
+        <mj-text padding="0 32px 28px 32px">
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
+            <tr>
+              <td width="90" style="border-top:1px solid #2A3D3A;padding:11px 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;letter-spacing:1px;color:#5CC2B1;">6:00 PM</td>
+              <td style="border-top:1px solid #2A3D3A;padding:11px 0;font-family:Georgia,'Times New Roman',serif;font-size:15px;color:#FFFFFF;">Reception</td>
+            </tr>
+            <tr>
+              <td style="border-top:1px solid #2A3D3A;padding:11px 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;letter-spacing:1px;color:#5CC2B1;">7:30 PM</td>
+              <td style="border-top:1px solid #2A3D3A;padding:11px 0;font-family:Georgia,'Times New Roman',serif;font-size:15px;color:#FFFFFF;">Seated dinner and closing addresses</td>
+            </tr>
+            <tr>
+              <td style="border-top:1px solid #2A3D3A;border-bottom:1px solid #2A3D3A;padding:11px 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;letter-spacing:1px;color:#5CC2B1;">9:00 PM</td>
+              <td style="border-top:1px solid #2A3D3A;border-bottom:1px solid #2A3D3A;padding:11px 0;font-family:Georgia,'Times New Roman',serif;font-size:15px;color:#FFFFFF;">The 18 awards, announced live</td>
+            </tr>
+          </table>
+        </mj-text>
+        <mj-text color="#D5DEDC" font-size="15px" line-height="1.7" padding="0 32px 28px 32px">Host your team, clients or partners at a table of ten. Tables and corporate packages are booked directly with our events team.</mj-text>
+        <mj-button mj-class="btn-teal" href="mailto:events@theisfforum.com?subject=Gala%20table%20booking%3A%20ISF%20Forum%202026" inner-padding="18px 26px" padding="0 32px 14px 32px">BOOK A TABLE OF TEN</mj-button>
+        <mj-text font-family="Arial, Helvetica, sans-serif" color="#B9C7C4" font-size="12px" line-height="1.6" align="center" padding="0 32px">A Gala seat comes with your <a href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" style="color:#FFFFFF;text-decoration:underline;">forum pass</a>.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- The room -->
+    <mj-section background-color="#F4F7F6" padding="46px 0 0 0">
+      <mj-column>
+        <mj-text mj-class="label" padding="0 40px 12px 40px">THE ROOM</mj-text>
+        <mj-text mj-class="h2" css-class="h2" padding="0 40px 26px 40px">From 500 attendees to 3,000 in two years</mj-text>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-2024-main-hall.jpg" width="600px" alt="The main hall at ISF Summit 2024 in Ibadan." />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F4F7F6" padding="30px 30px 40px 30px">
+      <mj-group>
+        <mj-column width="33.33%">
+          <mj-text css-class="stat" color="#1E6F64" font-size="32px" line-height="1" align="center" padding="0 6px">500</mj-text>
+          <mj-text mj-class="small" font-size="10px" letter-spacing="2px" align="center" padding="8px 6px 0 6px">2022</mj-text>
+        </mj-column>
+        <mj-column width="33.33%">
+          <mj-text css-class="stat" color="#1E6F64" font-size="32px" line-height="1" align="center" padding="0 6px">1,000</mj-text>
+          <mj-text mj-class="small" font-size="10px" letter-spacing="2px" align="center" padding="8px 6px 0 6px">2023</mj-text>
+        </mj-column>
+        <mj-column width="33.33%">
+          <mj-text css-class="stat" color="#1E6F64" font-size="32px" line-height="1" align="center" padding="0 6px">3,000</mj-text>
+          <mj-text mj-class="small" font-size="10px" letter-spacing="2px" align="center" padding="8px 6px 0 6px">2024</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- Closing call to action -->
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" alt="Where big ideas meet big opportunities. ISF Forum 2026, 27 and 28 November, ICC Ibadan." />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFFFFF" padding="42px 0 46px 0">
+      <mj-column>
+        <mj-text mj-class="h2" css-class="h2" align="center" padding="0 40px 14px 40px">Delegate and VIP passes close on 1&nbsp;November.</mj-text>
+        <mj-text align="center" padding="0 52px">Secure your place in the room before they go. Student and General passes are available from &#8358;5,000.</mj-text>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" padding="28px 40px 14px 40px">GET YOUR PASS</mj-button>
+        <mj-text mj-class="small" align="center">27 and 28 November 2026 &middot; International Conference Centre, Ibadan</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Partners -->
+    <mj-section background-color="#FFFFFF" padding="0 0 36px 0">
+      <mj-column>
+        <mj-divider border-color="#E2E8E6" border-width="1px" padding="0 160px 30px 160px" />
+        <mj-text mj-class="small" font-size="11px" letter-spacing="1px" align="center" padding="0 40px 16px 40px">Headline Enterprise Finance Partner: <span style="color:#0F1F1D;font-weight:700;">Citihoms Finance Company</span></mj-text>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/october/isf-partners.png" width="520px" alt="Partners of ISF Forum 2026" padding="0 20px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#0F1F1D" padding="34px 0 34px 0">
+      <mj-column>
+        <mj-text mj-class="label" color="#5CC2B1" align="center" padding="0 24px 12px 24px">ISF FORUM 2026 &middot; SCALE WITHOUT BORDERS</mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" color="#B9C7C4" font-size="12px" line-height="1.8" align="center" padding="0 24px 14px 24px">27 and 28 November 2026 &middot; International Conference Centre, Ibadan<br /><a href="https://theisfforum.com" style="color:#FFFFFF;">theisfforum.com</a> &nbsp;|&nbsp; <a href="mailto:events@theisfforum.com" style="color:#FFFFFF;">events@theisfforum.com</a> &nbsp;|&nbsp; <a href="https://www.instagram.com/innovationandscaleforum/" style="color:#FFFFFF;">Instagram</a></mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" color="#7F918D" font-size="11px" line-height="1.6" align="center" padding="0 48px">You are receiving this email because you subscribed to updates from ISF Forum. <a href="{{UNSUBSCRIBE_URL}}" style="color:#B9C7C4;text-decoration:underline;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 24px 0"><mj-column></mj-column></mj-section>
+
+  </mj-body>
+</mjml>

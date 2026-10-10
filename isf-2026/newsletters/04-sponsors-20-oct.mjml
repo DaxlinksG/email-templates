@@ -1,0 +1,179 @@
+<mjml>
+  <mj-head>
+    <mj-title>Meet the companies backing ISF Forum 2026</mj-title>
+    <mj-preview>Moniepoint, Zeeh Africa, Cardify and more will be in Ibadan on 27 and 28 November. Meet them there, or join them as a sponsor.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Georgia, 'Times New Roman', Times, serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text color="#2A3533" font-size="16px" line-height="1.75" padding="0px 40px" />
+      <mj-button font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="700" letter-spacing="2px" background-color="#F28C28" color="#0F1F1D" border-radius="3px" inner-padding="18px 34px" />
+      <mj-class name="label" font-family="Arial, Helvetica, sans-serif" font-size="11px" font-weight="700" letter-spacing="2.5px" line-height="1.5" color="#1E6F64" />
+      <mj-class name="h1" color="#0F1F1D" font-size="36px" line-height="1.15" />
+      <mj-class name="h2" color="#0F1F1D" font-size="28px" line-height="1.25" />
+      <mj-class name="small" font-family="Arial, Helvetica, sans-serif" font-size="12px" line-height="1.6" color="#5E6B68" />
+      <mj-class name="btn-dark" background-color="#0F1F1D" color="#FFFFFF" />
+      <mj-class name="btn-teal" background-color="#2F988A" color="#FFFFFF" />
+      <mj-class name="logo" padding="6px 8px" />
+    </mj-attributes>
+    <mj-style>
+      a { text-decoration: none; }
+      @media only screen and (max-width: 480px) {
+        .h1 div { font-size: 29px !important; }
+        .h2 div { font-size: 24px !important; }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#ECF0EF" width="600px">
+
+    <mj-section padding="24px 0 0 0"><mj-column></mj-column></mj-section>
+
+    <!-- Header -->
+    <mj-section background-color="#050807">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/sponsors-oct/isf-header-dark.jpg" width="600px" href="https://theisfforum.com" alt="Innovation and Scale Forum 2026 x Ibadan Start-up Fest. Scale Without Borders." />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#2F988A">
+      <mj-column><mj-spacer height="4px" /></mj-column>
+    </mj-section>
+
+    <!-- Intro -->
+    <mj-section background-color="#FFFFFF" padding="46px 0 40px 0">
+      <mj-column>
+        <mj-text mj-class="label" padding="0 40px 14px 40px">OUR 2026 SPONSORS</mj-text>
+        <mj-text mj-class="h1" css-class="h1">Meet the companies backing ISF Forum 2026</mj-text>
+        <mj-divider border-color="#2F988A" border-width="2px" width="48px" align="left" padding="22px 40px 24px 40px" />
+        <mj-text padding="0 40px 22px 40px">These are the companies putting their names behind this year's Forum. Their teams will be in Ibadan on 27 and 28 November, and you can meet them there.</mj-text>
+        <mj-text font-size="15px" line-height="1.7" color="#3E4B48" padding="0 40px" container-background-color="#F4F7F6"><div style="padding:18px 20px;"><strong style="color:#0F1F1D;">New to ISF Forum?</strong> The Innovation and Scale Forum brings founders, investors, corporate leaders and policymakers together in Ibadan. It has grown from 500 attendees in 2022 to 3,000 in 2024. This year's theme is Scale Without Borders: how African businesses grow beyond the market they started in.</div></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Sponsor logos -->
+    <mj-section background-color="#FFFFFF" padding="0 40px 6px 40px">
+      <mj-column>
+        <mj-text mj-class="label" align="center" padding="0 0 4px 0">HEADLINE ENTERPRISE FINANCE PARTNER</mj-text>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/sponsors-oct/sponsor-citihoms.png" width="320px" alt="Citihoms Finance Company" padding="0 0 6px 0" />
+        <mj-divider border-color="#E2E8E6" border-width="1px" padding="0 0 22px 0" />
+        <mj-text mj-class="label" align="center" padding="0 0 4px 0">SPONSORS</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFFFFF" padding="0 40px">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-image mj-class="logo" src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/sponsors-oct/sponsor-moniepoint.png" width="216px" alt="Moniepoint Microfinance Bank" />
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image mj-class="logo" src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/sponsors-oct/sponsor-cardify.png" width="216px" alt="Cardify" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#FFFFFF" padding="0 40px">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-image mj-class="logo" src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/sponsors-oct/sponsor-zeeh-africa.png" width="216px" alt="Zeeh Africa" />
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image mj-class="logo" src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/sponsors-oct/sponsor-digital-encode.png" width="216px" alt="Digital Encode" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#FFFFFF" padding="0 40px">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-image mj-class="logo" src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/sponsors-oct/sponsor-impact-hub-ibadan.png" width="216px" alt="Impact Hub Ibadan" />
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image mj-class="logo" src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/sponsors-oct/sponsor-gevento.png" width="216px" alt="Gevento" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#FFFFFF" padding="0 40px">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-image mj-class="logo" src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/sponsors-oct/sponsor-nook-africa.png" width="216px" alt="Nook Africa" />
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image mj-class="logo" src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/sponsors-oct/sponsor-salesunbox.png" width="216px" alt="Salesunbox" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- Meet them -->
+    <mj-section background-color="#FFFFFF" padding="18px 0 50px 0">
+      <mj-column>
+        <mj-divider border-color="#E2E8E6" border-width="1px" padding="0 40px 34px 40px" />
+        <mj-text mj-class="h2" css-class="h2" align="center" padding="0 40px 14px 40px">Meet them in Ibadan</mj-text>
+        <mj-text align="center" padding="0 50px 26px 50px">Visit their stands at the exhibition, see what they are building and start the conversations that move your business forward. Passes start at &#8358;5,000.</mj-text>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" padding="0 40px 12px 40px">GET YOUR PASS</mj-button>
+        <mj-text mj-class="small" align="center">Delegate and VIP passes close on 1 November</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Past sponsors -->
+    <mj-section background-color="#F4F7F6" padding="46px 0 10px 0">
+      <mj-column>
+        <mj-text mj-class="label" align="center" padding="0 40px 12px 40px">IN GOOD COMPANY</mj-text>
+        <mj-text mj-class="h2" css-class="h2" align="center" padding="0 40px 14px 40px">Brands that have backed ISF Forum</mj-text>
+        <mj-text align="center" font-size="15px" padding="0 50px 26px 50px">Government agencies, banks, fintechs and the country's leading newsrooms have all stood behind ISF Forum.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F4F7F6" padding="0 24px 46px 24px">
+      <mj-column background-color="#FFFFFF" border-radius="4px" padding="18px 8px">
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/sponsors-oct/isf-past-sponsors.png" width="536px" alt="Past ISF Forum sponsors and partners including Oyo State Government, NITDA, Zeeh Africa, Cardify, SeedFi, Unified Payments, CNBC Africa, TechCabal, BusinessDay, The Nation, ThisDay, Punch, Vanguard and Business Insider Africa." />
+      </mj-column>
+    </mj-section>
+
+    <!-- Become a sponsor -->
+    <mj-section background-color="#0F1F1D">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/passes-oct/isf-exhibit-sponsor.jpg" width="600px" href="https://drive.google.com/file/d/1nahrLyQ-hnR2BPDv1LoRCVhQKkOgb8lN/view?usp=sharing" alt="3,000 people, your product. Exhibition and sponsorship for ISF Forum 2026." />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#0F1F1D" padding="40px 0 46px 0">
+      <mj-column>
+        <mj-text mj-class="label" color="#5CC2B1" padding="0 40px 12px 40px">BECOME A SPONSOR</mj-text>
+        <mj-text mj-class="h2" css-class="h2" color="#FFFFFF" padding="0 40px 16px 40px">Put your brand in front of 3,000 people</mj-text>
+        <mj-text color="#D5DEDC" padding="0 40px 26px 40px">Sponsorship and exhibition spaces are still open. Join the companies above and meet founders, investors, bank and regulator leaders and decision-makers from across the continent, on the stage, at the exhibition and at the Gala Dinner.</mj-text>
+        <mj-button mj-class="btn-teal" href="https://drive.google.com/file/d/1nahrLyQ-hnR2BPDv1LoRCVhQKkOgb8lN/view?usp=sharing" inner-padding="18px 26px" padding="0 40px 16px 40px">DOWNLOAD THE DECK</mj-button>
+        <mj-text font-family="Arial, Helvetica, sans-serif" color="#B9C7C4" font-size="13px" line-height="1.7" align="center" padding="0 40px">Prefer to talk it through? <a href="mailto:david@theisfforum.com?subject=Sponsorship%20enquiry%3A%20ISF%20Forum%202026" style="color:#FFFFFF;text-decoration:underline;white-space:nowrap;">Email our partnerships team</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Stay connected -->
+    <mj-section background-color="#FFFFFF" padding="44px 0 44px 0">
+      <mj-column>
+        <mj-text mj-class="label" align="center" padding="0 40px 12px 40px">STAY CLOSE TO THE BUILD-UP</mj-text>
+        <mj-text align="center" font-size="15px" padding="0 50px 24px 50px">Speakers, sponsors and programme updates go out on our website and social channels first.</mj-text>
+        <mj-button mj-class="btn-dark" href="https://theisfforum.com" padding="0 40px 24px 40px">VISIT THEISFFORUM.COM</mj-button>
+        <mj-social mode="horizontal" align="center" icon-size="40px" padding="0" inner-padding="0 8px" border-radius="20px">
+          <mj-social-element name="instagram-noshare" href="https://www.instagram.com/innovationandscaleforum/" src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/social/isf-instagram.png" background-color="#FFFFFF" alt="Instagram"></mj-social-element>
+          <mj-social-element name="linkedin-noshare" href="https://www.linkedin.com/company/isfforum" src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/social/isf-linkedin.png" background-color="#FFFFFF" alt="LinkedIn"></mj-social-element>
+          <mj-social-element name="x-noshare" href="https://x.com/OfficialISF2026" src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/social/isf-x.png" background-color="#FFFFFF" alt="X"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <!-- Partners -->
+    <mj-section background-color="#FFFFFF" padding="0 0 36px 0">
+      <mj-column>
+        <mj-divider border-color="#E2E8E6" border-width="1px" padding="0 160px 30px 160px" />
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/october/isf-partners.png" width="520px" alt="Partners of ISF Forum 2026" padding="0 20px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#0F1F1D" padding="34px 0 34px 0">
+      <mj-column>
+        <mj-text mj-class="label" color="#5CC2B1" align="center" padding="0 24px 12px 24px">ISF FORUM 2026 &middot; SCALE WITHOUT BORDERS</mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" color="#B9C7C4" font-size="12px" line-height="1.8" align="center" padding="0 24px 14px 24px">27 and 28 November 2026 &middot; International Conference Centre, Ibadan<br /><a href="https://theisfforum.com" style="color:#FFFFFF;">theisfforum.com</a> &nbsp;|&nbsp; <a href="https://www.instagram.com/innovationandscaleforum/" style="color:#FFFFFF;">Instagram</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/company/isfforum" style="color:#FFFFFF;">LinkedIn</a> &nbsp;|&nbsp; <a href="https://x.com/OfficialISF2026" style="color:#FFFFFF;">X</a></mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" color="#7F918D" font-size="11px" line-height="1.6" align="center" padding="0 48px">You are receiving this email because you subscribed to updates from ISF Forum. <a href="{{UNSUBSCRIBE_URL}}" style="color:#B9C7C4;text-decoration:underline;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 24px 0"><mj-column></mj-column></mj-section>
+
+  </mj-body>
+</mjml>

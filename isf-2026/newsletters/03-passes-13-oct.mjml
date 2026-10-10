@@ -1,0 +1,179 @@
+<mjml>
+  <mj-head>
+    <mj-title>Choose your pass for ISF Forum 2026</mj-title>
+    <mj-preview>Passes from &#8358;5,000, the Gala Dinner and Awards Night on 28 November, and the train from Lagos to Ibadan.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Georgia, 'Times New Roman', Times, serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text color="#2A3533" font-size="16px" line-height="1.75" padding="0px 40px" />
+      <mj-button font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="700" letter-spacing="2px" background-color="#F28C28" color="#0F1F1D" border-radius="3px" inner-padding="18px 40px" />
+      <mj-class name="label" font-family="Arial, Helvetica, sans-serif" font-size="11px" font-weight="700" letter-spacing="2.5px" line-height="1.5" color="#1E6F64" />
+      <mj-class name="h1" color="#0F1F1D" font-size="38px" line-height="1.15" />
+      <mj-class name="h2" color="#0F1F1D" font-size="28px" line-height="1.25" />
+      <mj-class name="small" font-family="Arial, Helvetica, sans-serif" font-size="12px" line-height="1.6" color="#5E6B68" />
+      <mj-class name="btn-dark" background-color="#0F1F1D" color="#FFFFFF" />
+    </mj-attributes>
+    <mj-style>
+      a { text-decoration: none; }
+      @media only screen and (max-width: 480px) {
+        .h1 div { font-size: 30px !important; }
+        .h2 div { font-size: 24px !important; }
+        .pass-name { font-size: 15px !important; }
+        .pass-price { font-size: 16px !important; }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#ECF0EF" width="600px">
+
+    <mj-section padding="24px 0 0 0"><mj-column></mj-column></mj-section>
+
+    <!-- Brand bar -->
+    <mj-section background-color="#2F988A">
+      <mj-column><mj-spacer height="4px" /></mj-column>
+    </mj-section>
+
+    <!-- Hero: Gala Dinner and Awards Night -->
+    <mj-section background-color="#0F1F1D">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/passes-oct/isf-gala-awards-night.jpg" width="600px" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" alt="ISF Forum 2026 Gala Dinner and Awards Night. A black tie event." />
+      </mj-column>
+    </mj-section>
+
+    <!-- Passes -->
+    <mj-section background-color="#FFFFFF" padding="46px 0 50px 0">
+      <mj-column>
+        <mj-text mj-class="label" padding="0 40px 14px 40px">PASSES NOW ON SALE</mj-text>
+        <mj-text mj-class="h1" css-class="h1">Choose your pass</mj-text>
+        <mj-divider border-color="#2F988A" border-width="2px" width="48px" align="left" padding="22px 40px 24px 40px" />
+        <mj-text padding="0 40px 28px 40px">ISF Forum 2026 runs on 27 and 28 November at the International Conference Centre, Ibadan, and closes with the Gala Dinner and Awards Night. Here is every way in.</mj-text>
+        <mj-text padding="0 40px 30px 40px">
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
+            <tr>
+              <td style="border-top:1px solid #E2E8E6;padding:14px 10px 14px 0;font-family:Georgia,'Times New Roman',serif;font-size:17px;line-height:1.35;color:#0F1F1D;"><span class="pass-name">Student / Emerging Talent Pass</span></td>
+              <td align="right" class="pass-price" style="border-top:1px solid #E2E8E6;padding:14px 0;font-family:Georgia,'Times New Roman',serif;font-size:18px;color:#1E6F64;white-space:nowrap;">&#8358;5,000</td>
+            </tr>
+            <tr>
+              <td style="border-top:1px solid #E2E8E6;padding:14px 10px 14px 0;font-family:Georgia,'Times New Roman',serif;font-size:17px;line-height:1.35;color:#0F1F1D;"><span class="pass-name">General Admission Pass</span></td>
+              <td align="right" class="pass-price" style="border-top:1px solid #E2E8E6;padding:14px 0;font-family:Georgia,'Times New Roman',serif;font-size:18px;color:#1E6F64;white-space:nowrap;">&#8358;15,000</td>
+            </tr>
+            <tr>
+              <td style="border-top:1px solid #E2E8E6;padding:14px 10px 14px 0;font-family:Georgia,'Times New Roman',serif;font-size:17px;line-height:1.35;color:#0F1F1D;"><span class="pass-name">ISF Delegate Pass</span><br /><span style="font-family:Arial,Helvetica,sans-serif;font-size:11px;letter-spacing:1px;color:#C8641A;">CLOSES 1 NOVEMBER</span></td>
+              <td align="right" class="pass-price" style="border-top:1px solid #E2E8E6;padding:14px 0;font-family:Georgia,'Times New Roman',serif;font-size:18px;color:#1E6F64;white-space:nowrap;">&#8358;75,000</td>
+            </tr>
+            <tr>
+              <td style="border-top:1px solid #E2E8E6;padding:14px 10px 14px 0;font-family:Georgia,'Times New Roman',serif;font-size:17px;line-height:1.35;color:#0F1F1D;"><span class="pass-name">VIP Forum Pass</span><br /><span style="font-family:Arial,Helvetica,sans-serif;font-size:11px;letter-spacing:1px;color:#C8641A;">CLOSES 1 NOVEMBER</span></td>
+              <td align="right" class="pass-price" style="border-top:1px solid #E2E8E6;padding:14px 0;font-family:Georgia,'Times New Roman',serif;font-size:18px;color:#1E6F64;white-space:nowrap;">&#8358;150,000</td>
+            </tr>
+            <tr>
+              <td style="border-top:1px solid #E2E8E6;border-bottom:1px solid #E2E8E6;padding:14px 10px 14px 0;font-family:Georgia,'Times New Roman',serif;font-size:17px;line-height:1.35;color:#0F1F1D;"><span class="pass-name">Gala Dinner and Awards Night</span><br /><span style="font-family:Arial,Helvetica,sans-serif;font-size:11px;letter-spacing:1px;color:#5E6B68;">28 NOVEMBER &middot; BLACK&nbsp;TIE</span></td>
+              <td align="right" class="pass-price" style="border-top:1px solid #E2E8E6;border-bottom:1px solid #E2E8E6;padding:14px 0;font-family:Georgia,'Times New Roman',serif;font-size:18px;color:#1E6F64;white-space:nowrap;">&#8358;100,000</td>
+            </tr>
+          </table>
+        </mj-text>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" padding="0 40px">GET YOUR PASS</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Gala -->
+    <mj-section background-color="#FFFFFF" padding="0 24px 50px 24px">
+      <mj-column background-color="#0F1F1D" border-radius="3px" padding="44px 0 40px 0">
+        <mj-text mj-class="label" color="#5CC2B1" padding="0 32px 14px 32px">SATURDAY 28 NOVEMBER &middot; 6 PM &middot; THOMAS HALL</mj-text>
+        <mj-text mj-class="h2" css-class="h2" color="#FFFFFF" padding="0 32px">The closing night</mj-text>
+        <mj-divider border-color="#2F988A" border-width="2px" width="48px" align="left" padding="22px 32px 22px 32px" />
+        <mj-text color="#D5DEDC" padding="0 32px 24px 32px">Five hundred founders, investors, bank and regulator leaders and delegations from across the continent, seated at round tables of ten for dinner and the live announcement of all 18 Scale Without Borders Awards.</mj-text>
+        <mj-text padding="0 32px 30px 32px">
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
+            <tr>
+              <td width="90" style="border-top:1px solid #2A3D3A;padding:11px 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;letter-spacing:1px;color:#5CC2B1;">6:00 PM</td>
+              <td style="border-top:1px solid #2A3D3A;padding:11px 0;font-family:Georgia,'Times New Roman',serif;font-size:15px;color:#FFFFFF;">Reception</td>
+            </tr>
+            <tr>
+              <td style="border-top:1px solid #2A3D3A;padding:11px 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;letter-spacing:1px;color:#5CC2B1;">7:30 PM</td>
+              <td style="border-top:1px solid #2A3D3A;padding:11px 0;font-family:Georgia,'Times New Roman',serif;font-size:15px;color:#FFFFFF;">Seated dinner and closing addresses</td>
+            </tr>
+            <tr>
+              <td style="border-top:1px solid #2A3D3A;border-bottom:1px solid #2A3D3A;padding:11px 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;letter-spacing:1px;color:#5CC2B1;">9:00 PM</td>
+              <td style="border-top:1px solid #2A3D3A;border-bottom:1px solid #2A3D3A;padding:11px 0;font-family:Georgia,'Times New Roman',serif;font-size:15px;color:#FFFFFF;">The 18 awards, announced live</td>
+            </tr>
+          </table>
+        </mj-text>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" inner-padding="18px 22px" padding="0 32px 16px 32px">BOOK YOUR GALA SEAT</mj-button>
+        <mj-text font-family="Arial, Helvetica, sans-serif" color="#B9C7C4" font-size="13px" line-height="1.7" align="center" padding="0 32px">Hosting your team or clients? <a href="mailto:events@theisfforum.com?subject=Gala%20table%20booking%3A%20ISF%20Forum%202026" style="color:#FFFFFF;text-decoration:underline;">Book a table of ten</a><br />Nominations close 31 October. <a href="https://awards.theisfforum.com/nominations" style="color:#FFFFFF;text-decoration:underline;">Nominate a company</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Exhibition and sponsorship -->
+    <mj-section background-color="#F4F7F6" padding="0">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/passes-oct/isf-exhibit-sponsor.jpg" width="600px" href="https://drive.google.com/file/d/1nahrLyQ-hnR2BPDv1LoRCVhQKkOgb8lN/view?usp=sharing" alt="3,000 people, your product. Exhibition and sponsorship for ISF Forum 2026." />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F4F7F6" padding="40px 0 46px 0">
+      <mj-column>
+        <mj-text mj-class="label" padding="0 40px 12px 40px">EXHIBITION AND SPONSORSHIP</mj-text>
+        <mj-text mj-class="h2" css-class="h2" padding="0 40px 16px 40px">Put your product in front of 3,000 people</mj-text>
+        <mj-text padding="0 40px 28px 40px">Exhibition stands and sponsorship packages are open to brands that want to meet founders, investors and decision-makers in Ibadan. Request the deck to see the options.</mj-text>
+        <mj-button mj-class="btn-dark" href="https://drive.google.com/file/d/1nahrLyQ-hnR2BPDv1LoRCVhQKkOgb8lN/view?usp=sharing" padding="0 40px">REQUEST THE DECK</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Travel -->
+    <mj-section background-color="#FFFFFF" padding="46px 0 44px 0">
+      <mj-column>
+        <mj-text mj-class="label" padding="0 40px 12px 40px">GETTING TO IBADAN</mj-text>
+        <mj-text color="#0F1F1D" font-size="22px" line-height="1.3" padding="0 40px 12px 40px">Lagos to Ibadan by train</mj-text>
+        <mj-text font-size="15px" line-height="1.75" padding="0 40px">The train runs from Mobolaji Johnson Station in Ebute Metta to Moniya Station in Ibadan in two and a half to three hours. On Fridays and Saturdays it leaves Lagos at 7:15 AM, 1:40 PM and 4:00 PM, with Regular class from &#8358;3,600. Allow time for the drive from Moniya to the ICC, and confirm times with the Nigerian Railway Corporation before you travel.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Closing call to action -->
+    <mj-section background-color="#FFFFFF" padding="0 0 46px 0">
+      <mj-column>
+        <mj-divider border-color="#E2E8E6" border-width="1px" padding="0 40px 40px 40px" />
+        <mj-text mj-class="h2" css-class="h2" align="center" padding="0 40px 14px 40px">Delegate and VIP passes close on 1&nbsp;November.</mj-text>
+        <mj-text align="center" padding="0 52px">Secure your place in the room before they go.</mj-text>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" padding="26px 40px 14px 40px">GET YOUR PASS</mj-button>
+        <mj-text mj-class="small" align="center">27 and 28 November 2026 &middot; International Conference Centre, Ibadan</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Stay connected -->
+    <mj-section background-color="#FFFFFF" padding="44px 0 44px 0">
+      <mj-column>
+        <mj-text mj-class="label" align="center" padding="0 40px 12px 40px">STAY CLOSE TO THE BUILD-UP</mj-text>
+        <mj-text align="center" font-size="15px" padding="0 50px 24px 50px">Speakers, sponsors and programme updates go out on our website and social channels first.</mj-text>
+        <mj-button mj-class="btn-dark" href="https://theisfforum.com" padding="0 40px 24px 40px">VISIT THEISFFORUM.COM</mj-button>
+        <mj-social mode="horizontal" align="center" icon-size="40px" padding="0" inner-padding="0 8px" border-radius="20px">
+          <mj-social-element name="instagram-noshare" href="https://www.instagram.com/innovationandscaleforum/" src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/social/isf-instagram.png" background-color="#FFFFFF" alt="Instagram"></mj-social-element>
+          <mj-social-element name="linkedin-noshare" href="https://www.linkedin.com/company/isfforum" src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/social/isf-linkedin.png" background-color="#FFFFFF" alt="LinkedIn"></mj-social-element>
+          <mj-social-element name="x-noshare" href="https://x.com/OfficialISF2026" src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/social/isf-x.png" background-color="#FFFFFF" alt="X"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <!-- Partners -->
+    <mj-section background-color="#FFFFFF" padding="0 0 36px 0">
+      <mj-column>
+        <mj-divider border-color="#E2E8E6" border-width="1px" padding="0 160px 30px 160px" />
+        <mj-text mj-class="label" align="center" padding="0 40px 4px 40px">HEADLINE ENTERPRISE FINANCE PARTNER</mj-text>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/sponsors-oct/sponsor-citihoms.png" width="280px" alt="Citihoms Finance Company" padding="0 0 22px 0" />
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/october/isf-partners.png" width="520px" alt="Partners of ISF Forum 2026" padding="0 20px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#0F1F1D" padding="34px 0 34px 0">
+      <mj-column>
+        <mj-text mj-class="label" color="#5CC2B1" align="center" padding="0 24px 12px 24px">ISF FORUM 2026 &middot; SCALE WITHOUT BORDERS</mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" color="#B9C7C4" font-size="12px" line-height="1.8" align="center" padding="0 24px 14px 24px">27 and 28 November 2026 &middot; International Conference Centre, Ibadan<br /><a href="https://theisfforum.com" style="color:#FFFFFF;">theisfforum.com</a> &nbsp;|&nbsp; <a href="https://www.instagram.com/innovationandscaleforum/" style="color:#FFFFFF;">Instagram</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/company/isfforum" style="color:#FFFFFF;">LinkedIn</a> &nbsp;|&nbsp; <a href="https://x.com/OfficialISF2026" style="color:#FFFFFF;">X</a><br /><a href="mailto:events@theisfforum.com" style="color:#FFFFFF;">events@theisfforum.com</a></mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" color="#7F918D" font-size="11px" line-height="1.6" align="center" padding="0 48px">You are receiving this email because you subscribed to updates from ISF Forum. <a href="{{UNSUBSCRIBE_URL}}" style="color:#B9C7C4;text-decoration:underline;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 24px 0"><mj-column></mj-column></mj-section>
+
+  </mj-body>
+</mjml>
