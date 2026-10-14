@@ -1,27 +1,21 @@
 <mjml>
   <mj-head>
-    <mj-title>Andela's co-founder, PalmPay's MD and Governor Makinde are coming to Ibadan</mj-title>
-    <mj-preview>Meet the people behind Africa's biggest companies at ISF Forum 2026, and here is how to get time with them.</mj-preview>
+    <mj-title>Andela. Flutterwave. PalmPay. One room in Ibadan.</mj-title>
+    <mj-preview>The people who built them are speaking at ISF Forum 2026. Here's how to get face time.</mj-preview>
     <mj-attributes>
       <mj-all font-family="Georgia, 'Times New Roman', Times, serif" />
       <mj-section padding="0px" />
       <mj-column padding="0px" />
       <mj-image padding="0px" />
-      <mj-text color="#2A3533" font-size="16px" line-height="1.75" padding="0px 40px" />
-      <mj-button font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="700" letter-spacing="2px" background-color="#F28C28" color="#0F1F1D" border-radius="3px" inner-padding="18px 40px" />
-      <mj-class name="label" font-family="Arial, Helvetica, sans-serif" font-size="11px" font-weight="700" letter-spacing="2.5px" line-height="1.5" color="#1E6F64" />
-      <mj-class name="h1" color="#0F1F1D" font-size="36px" line-height="1.15" />
-      <mj-class name="h2" color="#0F1F1D" font-size="28px" line-height="1.25" />
-      <mj-class name="small" font-family="Arial, Helvetica, sans-serif" font-size="12px" line-height="1.6" color="#5E6B68" />
-      <mj-class name="btn-dark" background-color="#0F1F1D" color="#FFFFFF" />
+      <mj-text color="#2A3533" font-size="16px" line-height="1.6" padding="0px 40px" />
+      <mj-button font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="700" letter-spacing="2px" background-color="#F28C28" color="#0F1F1D" border-radius="3px" inner-padding="20px 44px" />
+      <mj-class name="label" font-family="Arial, Helvetica, sans-serif" font-size="11px" font-weight="700" letter-spacing="2.5px" line-height="1.5" color="#5CC2B1" />
     </mj-attributes>
     <mj-style>
       a { text-decoration: none; }
       @media only screen and (max-width: 480px) {
-        .h1 div { font-size: 29px !important; }
-        .h2 div { font-size: 24px !important; }
-        .pass-name { font-size: 15px !important; }
-        .pass-price { font-size: 16px !important; }
+        .big div { font-size: 32px !important; }
+        .mid div { font-size: 24px !important; }
       }
     </mj-style>
   </mj-head>
@@ -31,15 +25,10 @@
     <mj-section padding="24px 0 0 0"><mj-column></mj-column></mj-section>
 
     <!-- Urgency bar -->
-    <mj-section background-color="#0F1F1D" padding="11px 0">
+    <mj-section background-color="#F28C28" padding="10px 0">
       <mj-column>
-        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="700" letter-spacing="1.5px" line-height="1.5" color="#FFFFFF" align="center" padding="0 20px"><span style="color:#F28C28;">NEW SPEAKERS CONFIRMED</span> &nbsp;&middot;&nbsp; DELEGATE AND VIP PASSES CLOSE 1&nbsp;NOVEMBER</mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="700" letter-spacing="1.5px" color="#0F1F1D" align="center" padding="0 20px">DELEGATE AND VIP PASSES CLOSE 1&nbsp;NOVEMBER</mj-text>
       </mj-column>
-    </mj-section>
-
-    <!-- Brand bar -->
-    <mj-section background-color="#2F988A">
-      <mj-column><mj-spacer height="4px" /></mj-column>
     </mj-section>
 
     <!-- ===== FIXED TOP: speakers animation. Keep in every newsletter. ===== -->
@@ -51,185 +40,110 @@
     <!-- ===== END FIXED TOP ===== -->
 
     <!-- Hook -->
-    <mj-section background-color="#FFFFFF" padding="44px 0 38px 0">
+    <mj-section background-color="#0F1F1D" padding="48px 0 34px 0">
       <mj-column>
-        <mj-text mj-class="label" padding="0 40px 14px 40px">JUST ANNOUNCED &middot; 27 AND 28 NOVEMBER &middot; ICC, IBADAN</mj-text>
-        <mj-text mj-class="h1" css-class="h1">The people who built Africa's biggest companies are coming to Ibadan</mj-text>
-        <mj-divider border-color="#2F988A" border-width="2px" width="48px" align="left" padding="22px 40px 24px 40px" />
-        <mj-text padding="0 40px 28px 40px">The co-founder of two unicorns. The man running a 35-million-user payments app. The investors writing Series A cheques. A Governor. More than 50 speakers in all, for two days, in one building, and you can talk to them.</mj-text>
-        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" padding="0 40px 12px 40px">GET YOUR PASS FROM &#8358;5,000</mj-button>
-        <mj-text mj-class="small" align="center" padding="0 40px">Delegate and VIP passes close 1 November.</mj-text>
+        <mj-text mj-class="label" align="center" padding="0 30px 14px 30px">JUST CONFIRMED</mj-text>
+        <mj-text css-class="big" font-size="40px" line-height="1.1" color="#FFFFFF" align="center" padding="0 30px 14px 30px">Andela. Flutterwave. PalmPay. NITDA.</mj-text>
+        <mj-text css-class="mid" font-size="26px" line-height="1.25" color="#F28C28" align="center" padding="0 30px">The people behind them. One room. Ibadan.</mj-text>
       </mj-column>
     </mj-section>
 
-    <!-- Speaker features -->
-    <mj-section background-color="#FFFFFF" padding="10px 0 22px 0">
+    <!-- Speaker grid -->
+    <mj-section background-color="#0F1F1D" padding="0 18px">
+      <mj-group>
+        <mj-column width="50%" padding="0 6px 18px 6px">
+          <mj-image src="https://theisfforum.com/speakers/posters/aboyeji.jpg" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" width="264px" border-radius="6px" alt="Iyin Aboyeji, speaker at ISF Forum 2026" />
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="700" line-height="1.4" color="#F28C28" align="center" padding="10px 4px 0 4px">Co-founded 2 unicorns: Andela and Flutterwave</mj-text>
+        </mj-column>
+        <mj-column width="50%" padding="0 6px 18px 6px">
+          <mj-image src="https://theisfforum.com/speakers/posters/chika-nwosu.jpg" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" width="264px" border-radius="6px" alt="Chika Nwosu, speaker at ISF Forum 2026" />
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="700" line-height="1.4" color="#F28C28" align="center" padding="10px 4px 0 4px">Runs PalmPay: 35M+ users</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#0F1F1D" padding="0 18px">
+      <mj-group>
+        <mj-column width="50%" padding="0 6px 18px 6px">
+          <mj-image src="https://theisfforum.com/speakers/posters/abdullahi.jpg" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" width="264px" border-radius="6px" alt="Kashifu Inuwa Abdullahi, speaker at ISF Forum 2026" />
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="700" line-height="1.4" color="#F28C28" align="center" padding="10px 4px 0 4px">Leading Nigeria's push to train 3M people in tech</mj-text>
+        </mj-column>
+        <mj-column width="50%" padding="0 6px 18px 6px">
+          <mj-image src="https://theisfforum.com/speakers/posters/shinada.jpg" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" width="264px" border-radius="6px" alt="Satoshi Shinada, speaker at ISF Forum 2026" />
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="700" line-height="1.4" color="#F28C28" align="center" padding="10px 4px 0 4px">Partner at a $43M fund backing African startups</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#0F1F1D" padding="0 18px">
+      <mj-group>
+        <mj-column width="50%" padding="0 6px 18px 6px">
+          <mj-image src="https://theisfforum.com/speakers/posters/adereni.jpg" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" width="264px" border-radius="6px" alt="Dr. Abiodun Adereni, speaker at ISF Forum 2026" />
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="700" line-height="1.4" color="#F28C28" align="center" padding="10px 4px 0 4px">HelpMum founder, Ashoka Fellow</mj-text>
+        </mj-column>
+        <mj-column width="50%" padding="0 6px 18px 6px">
+          <mj-image src="https://theisfforum.com/speakers/posters/moses.jpg" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" width="264px" border-radius="6px" alt="Babatunde Akin-Moses, speaker at ISF Forum 2026" />
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="700" line-height="1.4" color="#F28C28" align="center" padding="10px 4px 0 4px">Sycamore CEO, Borderless 100</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#0F1F1D" padding="14px 0 48px 0">
       <mj-column>
-        <mj-divider border-color="#E2E8E6" border-width="1px" padding="0 40px 34px 40px" />
-        <mj-text mj-class="label" padding="0 40px 10px 40px">WHO YOU WILL MEET</mj-text>
-        <mj-text mj-class="h2" css-class="h2" padding="0 40px">What they have built, and what to ask them</mj-text>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" padding="0 30px 12px 30px">MEET THEM. GET YOUR PASS</mj-button>
+        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="13px" color="#B9C7C4" align="center" padding="0 30px">From &#8358;5,000 &middot; 27 and 28 November &middot; ICC, Ibadan</mj-text>
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#FFFFFF" padding="0 40px 18px 40px">
-      <mj-column border-left="3px solid #2F988A" background-color="#F4F7F6" padding="22px 0 22px 0">
-        <mj-text mj-class="label" color="#C8641A" padding="0 22px 6px 22px">HOST STATE</mj-text>
-        <mj-text color="#0F1F1D" font-size="22px" line-height="1.25" padding="0 22px 2px 22px">His Excellency Seyi Makinde</mj-text>
-        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="13px" line-height="1.5" color="#1E6F64" padding="0 22px 12px 22px">Executive Governor, Oyo State</mj-text>
-        <mj-text font-size="15px" line-height="1.65" padding="0 22px 10px 22px">Governor of Oyo State, home of ISF Forum, which has grown here from 500 people in 2022 to 3,000 in 2024.</mj-text>
-        <mj-text font-size="15px" font-style="italic" line-height="1.6" color="#5E6B68" padding="0 22px">Ask him: what does Oyo State need from founders and investors next?</mj-text>
+    <!-- Host -->
+    <mj-section background-color="#FFFFFF" padding="36px 24px">
+      <mj-column width="40%" vertical-align="middle">
+        <mj-image src="https://theisfforum.com/speakers/makinde.jpg" width="200px" border-radius="6px" alt="His Excellency Seyi Makinde, Executive Governor of Oyo State" />
       </mj-column>
-    </mj-section>
-    <mj-section background-color="#FFFFFF" padding="0 40px 18px 40px">
-      <mj-column border-left="3px solid #2F988A" background-color="#F4F7F6" padding="22px 0 22px 0">
-        <mj-text mj-class="label" color="#C8641A" padding="0 22px 6px 22px">TWO UNICORNS</mj-text>
-        <mj-text color="#0F1F1D" font-size="22px" line-height="1.25" padding="0 22px 2px 22px">Iyin Aboyeji</mj-text>
-        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="13px" line-height="1.5" color="#1E6F64" padding="0 22px 12px 22px">Founding Partner, Future Africa</mj-text>
-        <mj-text font-size="15px" line-height="1.65" padding="0 22px 10px 22px">Co-founded Andela and Flutterwave, two of Africa's billion-dollar companies, before starting Future Africa to back the next wave. Officer of the Order of the Niger.</mj-text>
-        <mj-text font-size="15px" font-style="italic" line-height="1.6" color="#5E6B68" padding="0 22px">Ask him: what did Andela and Flutterwave get right early?</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#FFFFFF" padding="0 40px 18px 40px">
-      <mj-column border-left="3px solid #2F988A" background-color="#F4F7F6" padding="22px 0 22px 0">
-        <mj-text mj-class="label" color="#C8641A" padding="0 22px 6px 22px">35 MILLION USERS</mj-text>
-        <mj-text color="#0F1F1D" font-size="22px" line-height="1.25" padding="0 22px 2px 22px">Chika Nwosu</mj-text>
-        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="13px" line-height="1.5" color="#1E6F64" padding="0 22px 12px 22px">Managing Director, PalmPay</mj-text>
-        <mj-text font-size="15px" line-height="1.65" padding="0 22px 10px 22px">Leads PalmPay in Nigeria, which serves more than 35 million registered users, and led its nationwide &ldquo;PalmPay Dey for You&rdquo; push on safer payments.</mj-text>
-        <mj-text font-size="15px" font-style="italic" line-height="1.6" color="#5E6B68" padding="0 22px">Ask him: how do you build trust at 35 million users?</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#FFFFFF" padding="0 40px 18px 40px">
-      <mj-column border-left="3px solid #2F988A" background-color="#F4F7F6" padding="22px 0 22px 0">
-        <mj-text mj-class="label" color="#C8641A" padding="0 22px 6px 22px">NATIONAL TECH POLICY</mj-text>
-        <mj-text color="#0F1F1D" font-size="22px" line-height="1.25" padding="0 22px 2px 22px">Kashifu Inuwa Abdullahi</mj-text>
-        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="13px" line-height="1.5" color="#1E6F64" padding="0 22px 12px 22px">Director-General, NITDA</mj-text>
-        <mj-text font-size="15px" line-height="1.65" padding="0 22px 10px 22px">Heads the agency driving Nigeria's plan to train three million people in tech skills, including AI, and told the GITEX stage in Dubai that Nigeria's real strength is its people.</mj-text>
-        <mj-text font-size="15px" font-style="italic" line-height="1.6" color="#5E6B68" padding="0 22px">Ask him: where are the opportunities for founders in Nigeria's digital economy?</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#FFFFFF" padding="0 40px 18px 40px">
-      <mj-column border-left="3px solid #2F988A" background-color="#F4F7F6" padding="22px 0 22px 0">
-        <mj-text mj-class="label" color="#C8641A" padding="0 22px 6px 22px">$43M FUND</mj-text>
-        <mj-text color="#0F1F1D" font-size="22px" line-height="1.25" padding="0 22px 2px 22px">Satoshi Shinada</mj-text>
-        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="13px" line-height="1.5" color="#1E6F64" padding="0 22px 12px 22px">Partner and Co-founder, Verod-Kepple Africa Ventures</mj-text>
-        <mj-text font-size="15px" line-height="1.65" padding="0 22px 10px 22px">One of the partners behind a $43 million pan-African fund backing Series A and B startups, with Moove Africa and Koko Networks in its portfolio.</mj-text>
-        <mj-text font-size="15px" font-style="italic" line-height="1.6" color="#5E6B68" padding="0 22px">Ask him: what makes a startup ready for Series A?</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#FFFFFF" padding="0 40px 18px 40px">
-      <mj-column border-left="3px solid #2F988A" background-color="#F4F7F6" padding="22px 0 22px 0">
-        <mj-text mj-class="label" color="#C8641A" padding="0 22px 6px 22px">EARTHSHOT FINALIST</mj-text>
-        <mj-text color="#0F1F1D" font-size="22px" line-height="1.25" padding="0 22px 2px 22px">Olugbenga Olubanjo</mj-text>
-        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="13px" line-height="1.5" color="#1E6F64" padding="0 22px 12px 22px">Founder and CEO, Reeddi</mj-text>
-        <mj-text font-size="15px" line-height="1.65" padding="0 22px 10px 22px">One of 15 finalists in the first year of Prince William's Earthshot Prize, for Reeddi's solar battery rentals that bring power to homes and businesses.</mj-text>
-        <mj-text font-size="15px" font-style="italic" line-height="1.6" color="#5E6B68" padding="0 22px">Ask him: how do you build hardware that scales in Africa?</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#FFFFFF" padding="0 40px 18px 40px">
-      <mj-column border-left="3px solid #2F988A" background-color="#F4F7F6" padding="22px 0 22px 0">
-        <mj-text mj-class="label" color="#C8641A" padding="0 22px 6px 22px">ASHOKA FELLOW</mj-text>
-        <mj-text color="#0F1F1D" font-size="22px" line-height="1.25" padding="0 22px 2px 22px">Dr. Abiodun Adereni</mj-text>
-        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="13px" line-height="1.5" color="#1E6F64" padding="0 22px 12px 22px">Founder and CEO, HelpMum Africa</mj-text>
-        <mj-text font-size="15px" line-height="1.65" padding="0 22px 10px 22px">Founded HelpMum to reduce maternal and infant deaths, reaching more than 200 rural communities with tools like an AI vaccination tracker. The first Fellow backed by Ashoka and Lenovo.</mj-text>
-        <mj-text font-size="15px" font-style="italic" line-height="1.6" color="#5E6B68" padding="0 22px">Ask him: how do you scale impact and still raise funding?</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#FFFFFF" padding="0 40px 18px 40px">
-      <mj-column border-left="3px solid #2F988A" background-color="#F4F7F6" padding="22px 0 22px 0">
-        <mj-text mj-class="label" color="#C8641A" padding="0 22px 6px 22px">FINTECH BUILDER</mj-text>
-        <mj-text color="#0F1F1D" font-size="22px" line-height="1.25" padding="0 22px 2px 22px">Babatunde Akin-Moses</mj-text>
-        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="13px" line-height="1.5" color="#1E6F64" padding="0 22px 12px 22px">Chief Executive Officer, Sycamore</mj-text>
-        <mj-text font-size="15px" line-height="1.65" padding="0 22px 10px 22px">Co-founded Sycamore, which grew from digital lending into a wider financial-services platform, and is named on the Borderless 100 list.</mj-text>
-        <mj-text font-size="15px" font-style="italic" line-height="1.6" color="#5E6B68" padding="0 22px">Ask him: how do you grow a lender into a platform?</mj-text>
+      <mj-column width="60%" vertical-align="middle">
+        <mj-text mj-class="label" color="#1E6F64" padding="16px 16px 8px 16px">AND HOSTING US</mj-text>
+        <mj-text font-size="24px" line-height="1.25" color="#0F1F1D" padding="0 16px 8px 16px">H.E. Seyi Makinde</mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="14px" line-height="1.6" color="#5E6B68" padding="0 16px">Executive Governor of Oyo State, alongside 50+ speakers across two days.</mj-text>
       </mj-column>
     </mj-section>
 
-    <!-- Mid call to action -->
-    <mj-section background-color="#FFFFFF" padding="16px 0 46px 0">
+    <!-- How to meet them -->
+    <mj-section background-color="#F4F7F6" padding="40px 0 8px 0">
       <mj-column>
-        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" padding="0 40px">SAVE MY SEAT IN THE ROOM</mj-button>
+        <mj-text mj-class="label" color="#1E6F64" align="center" padding="0 30px 10px 30px">DON'T JUST WATCH. TALK TO THEM.</mj-text>
+        <mj-text css-class="mid" font-size="28px" line-height="1.25" color="#0F1F1D" align="center" padding="0 30px 24px 30px">3 places to get face time</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F4F7F6" padding="0 24px 40px 24px">
+      <mj-column width="33.33%" padding="0 5px 10px 5px">
+        <mj-text container-background-color="#FFFFFF" align="center" padding="20px 12px 4px 12px" font-size="30px" line-height="1" color="#F28C28">&#127864;</mj-text>
+        <mj-text container-background-color="#FFFFFF" align="center" padding="8px 12px 4px 12px" font-size="17px" line-height="1.3" color="#0F1F1D">Networking reception</mj-text>
+        <mj-text container-background-color="#FFFFFF" align="center" padding="0 12px 20px 12px" font-family="Arial, Helvetica, sans-serif" font-size="12px" line-height="1.5" color="#5E6B68">Fri 27 Nov, 5:30 PM</mj-text>
+      </mj-column>
+      <mj-column width="33.33%" padding="0 5px 10px 5px">
+        <mj-text container-background-color="#FFFFFF" align="center" padding="20px 12px 4px 12px" font-size="30px" line-height="1" color="#F28C28">&#127891;</mj-text>
+        <mj-text container-background-color="#FFFFFF" align="center" padding="8px 12px 4px 12px" font-size="17px" line-height="1.3" color="#0F1F1D">Masterclasses</mj-text>
+        <mj-text container-background-color="#FFFFFF" align="center" padding="0 12px 20px 12px" font-family="Arial, Helvetica, sans-serif" font-size="12px" line-height="1.5" color="#5E6B68">Sat 28 Nov, morning</mj-text>
+      </mj-column>
+      <mj-column width="33.33%" padding="0 5px 10px 5px">
+        <mj-text container-background-color="#FFFFFF" align="center" padding="20px 12px 4px 12px" font-size="30px" line-height="1" color="#F28C28">&#127942;</mj-text>
+        <mj-text container-background-color="#FFFFFF" align="center" padding="8px 12px 4px 12px" font-size="17px" line-height="1.3" color="#0F1F1D">Gala Dinner</mj-text>
+        <mj-text container-background-color="#FFFFFF" align="center" padding="0 12px 20px 12px" font-family="Arial, Helvetica, sans-serif" font-size="12px" line-height="1.5" color="#5E6B68">Sat 28 Nov, 6 PM</mj-text>
       </mj-column>
     </mj-section>
 
-    <!-- Also confirmed -->
-    <mj-section background-color="#F4F7F6" padding="42px 0 42px 0">
+    <!-- Founders strip -->
+    <mj-section background-color="#2F988A" padding="22px 0">
       <mj-column>
-        <mj-text mj-class="label" padding="0 40px 10px 40px">ALSO ON THE PROGRAMME</mj-text>
-        <mj-text mj-class="h2" css-class="h2" padding="0 40px 20px 40px">And they are just the start</mj-text>
-        <mj-text font-size="15px" line-height="1.9" padding="0 40px 18px 40px"><strong style="color:#0F1F1D;">Dr. Vincent Olatunji</strong>, National Commissioner, NDPC<br /><strong style="color:#0F1F1D;">Victor Oluwole</strong>, MD, Business Insider and Pulse Africa<br /><strong style="color:#0F1F1D;">Nathaneal Solomon</strong>, MD, Citihoms Finance Company<br /><strong style="color:#0F1F1D;">Tunde Buremo</strong>, Founder and CEO, Cardify Africa<br /><strong style="color:#0F1F1D;">David Nwosu</strong>, Country Manager Nigeria, EBANX<br /><strong style="color:#0F1F1D;">Kehinde Ogundare</strong>, Regional Manager, Zoho West Africa<br /><strong style="color:#0F1F1D;">Kenneth Akan</strong>, Senior Commercial Leader and TV Host, Silverbird<br /><strong style="color:#0F1F1D;">Claire Lavielle</strong>, Scale Up Success Officer, Chapter54<br /><strong style="color:#0F1F1D;">Nnanke Essien</strong>, Co-Founder, SiSa Consulting</mj-text>
-        <mj-text mj-class="small" padding="0 40px">Plus founders, bankers, investors and policymakers across the main stage, four parallel tracks and the workshops.</mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="15px" line-height="1.5" color="#FFFFFF" align="center" padding="0 30px"><strong>Founder?</strong> Pitch to them for a $10,000 grant. Closes 30 Oct. <a href="https://theisfforum.com/pitch" style="color:#0F1F1D;font-weight:700;text-decoration:underline;">Apply &rarr;</a></mj-text>
       </mj-column>
     </mj-section>
 
-    <!-- How to connect -->
-    <mj-section background-color="#0F1F1D" padding="46px 0 46px 0">
+    <!-- Final CTA -->
+    <mj-section background-color="#FFFFFF" padding="44px 0 40px 0">
       <mj-column>
-        <mj-text mj-class="label" color="#5CC2B1" padding="0 40px 12px 40px">DON'T JUST WATCH. TALK TO THEM.</mj-text>
-        <mj-text mj-class="h2" css-class="h2" color="#FFFFFF" padding="0 40px 16px 40px">Four ways to get time with the speakers</mj-text>
-        <mj-text color="#D5DEDC" padding="0 40px 24px 40px">ISF Forum is built for conversations, not just keynotes. Here is where they happen.</mj-text>
-        <mj-text padding="0 40px 32px 40px">
-          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-            <tr>
-              <td width="44" valign="top" style="border-top:1px solid #2A3D3A;padding:16px 0;font-family:Georgia,'Times New Roman',serif;font-size:22px;color:#F28C28;">1</td>
-              <td style="border-top:1px solid #2A3D3A;padding:16px 0;"><div style="font-family:Georgia,'Times New Roman',serif;font-size:17px;line-height:1.4;color:#FFFFFF;">Cocktail and networking reception</div><div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:1.6;color:#B9C7C4;padding-top:4px;">Friday 27 November, 5:30 PM, Omolayole Hall. Day one ends with drinks and open conversation with speakers and guests.</div></td>
-            </tr>
-            <tr>
-              <td width="44" valign="top" style="border-top:1px solid #2A3D3A;padding:16px 0;font-family:Georgia,'Times New Roman',serif;font-size:22px;color:#F28C28;">2</td>
-              <td style="border-top:1px solid #2A3D3A;padding:16px 0;"><div style="font-family:Georgia,'Times New Roman',serif;font-size:17px;line-height:1.4;color:#FFFFFF;">Masterclasses and parallel tracks</div><div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:1.6;color:#B9C7C4;padding-top:4px;">Saturday 28 November. Smaller rooms, four tracks and hands-on masterclasses, where you can put your questions directly.</div></td>
-            </tr>
-            <tr>
-              <td width="44" valign="top" style="border-top:1px solid #2A3D3A;padding:16px 0;font-family:Georgia,'Times New Roman',serif;font-size:22px;color:#F28C28;">3</td>
-              <td style="border-top:1px solid #2A3D3A;padding:16px 0;"><div style="font-family:Georgia,'Times New Roman',serif;font-size:17px;line-height:1.4;color:#FFFFFF;">The Gala Dinner and Awards Night</div><div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:1.6;color:#B9C7C4;padding-top:4px;">Saturday 28 November, Thomas Hall. 500 guests at round tables of ten, from reception at 6 PM to the 18 awards.</div></td>
-            </tr>
-            <tr>
-              <td width="44" valign="top" style="border-top:1px solid #2A3D3A;border-bottom:1px solid #2A3D3A;padding:16px 0;font-family:Georgia,'Times New Roman',serif;font-size:22px;color:#F28C28;">4</td>
-              <td style="border-top:1px solid #2A3D3A;border-bottom:1px solid #2A3D3A;padding:16px 0;"><div style="font-family:Georgia,'Times New Roman',serif;font-size:17px;line-height:1.4;color:#FFFFFF;">Pitch to them, if you are a founder</div><div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:1.6;color:#B9C7C4;padding-top:4px;">Apply to the ISF Pitch Battle by 30 October for a shot at a $10,000 grant and $100,000 worth of support. <a href="https://theisfforum.com/pitch" style="color:#F28C28;font-weight:700;">Apply to pitch &rarr;</a></div></td>
-            </tr>
-          </table>
-        </mj-text>
-        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" padding="0 40px 14px 40px">GET YOUR PASS</mj-button>
-        <mj-text font-family="Arial, Helvetica, sans-serif" color="#B9C7C4" font-size="13px" line-height="1.7" align="center" padding="0 40px">Bringing your team to the Gala? <a href="mailto:events@theisfforum.com?subject=Gala%20table%20booking%3A%20ISF%20Forum%202026" style="color:#FFFFFF;text-decoration:underline;">Book a table of ten</a></mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- Passes -->
-    <mj-section background-color="#FFFFFF" padding="46px 0 46px 0">
-      <mj-column>
-        <mj-text mj-class="label" padding="0 40px 12px 40px">PICK YOUR WAY IN</mj-text>
-        <mj-text mj-class="h2" css-class="h2" padding="0 40px 22px 40px">Every pass gets you into the room</mj-text>
-        <mj-text padding="0 40px 28px 40px">
-          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-            <tr>
-              <td style="border-top:1px solid #E2E8E6;padding:14px 10px 14px 0;font-family:Georgia,'Times New Roman',serif;font-size:17px;line-height:1.35;color:#0F1F1D;"><span class="pass-name">Student / Emerging Talent</span></td>
-              <td align="right" class="pass-price" style="border-top:1px solid #E2E8E6;padding:14px 0;font-family:Georgia,'Times New Roman',serif;font-size:18px;color:#1E6F64;white-space:nowrap;">&#8358;5,000</td>
-            </tr>
-            <tr>
-              <td style="border-top:1px solid #E2E8E6;padding:14px 10px 14px 0;font-family:Georgia,'Times New Roman',serif;font-size:17px;line-height:1.35;color:#0F1F1D;"><span class="pass-name">General Admission</span></td>
-              <td align="right" class="pass-price" style="border-top:1px solid #E2E8E6;padding:14px 0;font-family:Georgia,'Times New Roman',serif;font-size:18px;color:#1E6F64;white-space:nowrap;">&#8358;15,000</td>
-            </tr>
-            <tr>
-              <td style="border-top:1px solid #E2E8E6;padding:14px 10px 14px 0;font-family:Georgia,'Times New Roman',serif;font-size:17px;line-height:1.35;color:#0F1F1D;"><span class="pass-name">ISF Delegate</span><br /><span style="font-family:Arial,Helvetica,sans-serif;font-size:11px;font-weight:700;letter-spacing:1px;color:#C8641A;">CLOSES 1 NOVEMBER</span></td>
-              <td align="right" class="pass-price" style="border-top:1px solid #E2E8E6;padding:14px 0;font-family:Georgia,'Times New Roman',serif;font-size:18px;color:#1E6F64;white-space:nowrap;">&#8358;75,000</td>
-            </tr>
-            <tr>
-              <td style="border-top:1px solid #E2E8E6;border-bottom:1px solid #E2E8E6;padding:14px 10px 14px 0;font-family:Georgia,'Times New Roman',serif;font-size:17px;line-height:1.35;color:#0F1F1D;"><span class="pass-name">VIP Forum</span><br /><span style="font-family:Arial,Helvetica,sans-serif;font-size:11px;font-weight:700;letter-spacing:1px;color:#C8641A;">CLOSES 1 NOVEMBER</span></td>
-              <td align="right" class="pass-price" style="border-top:1px solid #E2E8E6;border-bottom:1px solid #E2E8E6;padding:14px 0;font-family:Georgia,'Times New Roman',serif;font-size:18px;color:#1E6F64;white-space:nowrap;">&#8358;150,000</td>
-            </tr>
-          </table>
-        </mj-text>
-        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" padding="0 40px 14px 40px">CHOOSE YOUR PASS</mj-button>
-        <mj-text mj-class="small" align="center" padding="0 40px 22px 40px">27 and 28 November 2026 &middot; International Conference Centre, Ibadan</mj-text>
-        <mj-text font-size="15px" line-height="1.7" color="#3E4B48" align="center" padding="0 50px"><strong style="color:#0F1F1D;">P.S.</strong> Know a founder who should meet these people? <a href="mailto:?subject=You%20should%20be%20at%20ISF%20Forum%202026&amp;body=Iyin%20Aboyeji%2C%20PalmPay%27s%20MD%20and%2050%2B%20speakers%20are%20at%20ISF%20Forum%202026%2C%2027%20and%2028%20November%20in%20Ibadan.%20Passes%20from%20N5%2C000%3A%20https%3A%2F%2Ftickets.theisfforum.com" style="color:#1E6F64;text-decoration:underline;">Send them the details</a>.</mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- Stay connected -->
-    <mj-section background-color="#FFFFFF" padding="0 0 44px 0">
-      <mj-column>
-        <mj-divider border-color="#E2E8E6" border-width="1px" padding="0 40px 40px 40px" />
-        <mj-text mj-class="label" align="center" padding="0 40px 12px 40px">MORE SPEAKER REVEALS ARE COMING</mj-text>
-        <mj-text align="center" font-size="15px" padding="0 50px 24px 50px">We announce new speakers, and run the ISF Quiz for free passes, on our socials first.</mj-text>
-        <mj-social mode="horizontal" align="center" icon-size="40px" padding="0" inner-padding="0 8px" border-radius="20px">
+        <mj-text css-class="mid" font-size="28px" line-height="1.25" color="#0F1F1D" align="center" padding="0 30px 20px 30px">Your seat is waiting.</mj-text>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" padding="0 30px 12px 30px">GET YOUR PASS FROM &#8358;5,000</mj-button>
+        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="13px" color="#C8641A" font-weight="700" align="center" padding="0 30px 26px 30px">Delegate and VIP passes close 1 November</mj-text>
+        <mj-social mode="horizontal" align="center" icon-size="36px" padding="0" inner-padding="0 8px" border-radius="18px">
           <mj-social-element name="instagram-noshare" href="https://www.instagram.com/innovationandscaleforum/" src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/social/isf-instagram.png" background-color="#FFFFFF" alt="Instagram"></mj-social-element>
           <mj-social-element name="linkedin-noshare" href="https://www.linkedin.com/company/isfforum" src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/social/isf-linkedin.png" background-color="#FFFFFF" alt="LinkedIn"></mj-social-element>
           <mj-social-element name="x-noshare" href="https://x.com/OfficialISF2026" src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/social/isf-x.png" background-color="#FFFFFF" alt="X"></mj-social-element>
@@ -238,11 +152,8 @@
     </mj-section>
 
     <!-- Partners -->
-    <mj-section background-color="#FFFFFF" padding="0 0 36px 0">
+    <mj-section background-color="#FFFFFF" padding="0 0 30px 0">
       <mj-column>
-        <mj-divider border-color="#E2E8E6" border-width="1px" padding="0 160px 30px 160px" />
-        <mj-text mj-class="label" align="center" padding="0 40px 4px 40px">HEADLINE ENTERPRISE FINANCE PARTNER</mj-text>
-        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/sponsors-oct/sponsor-citihoms.png" width="280px" alt="Citihoms Finance Company" padding="0 0 22px 0" />
         <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/october/isf-partners.png" width="520px" alt="Partners of ISF Forum 2026" padding="0 20px" />
       </mj-column>
     </mj-section>
@@ -256,10 +167,9 @@
     <!-- ===== END FIXED BOTTOM ===== -->
 
     <!-- Footer -->
-    <mj-section background-color="#0F1F1D" padding="34px 0 34px 0">
+    <mj-section background-color="#0F1F1D" padding="28px 0 30px 0">
       <mj-column>
-        <mj-text mj-class="label" color="#5CC2B1" align="center" padding="0 24px 12px 24px">ISF FORUM 2026 &middot; SCALE WITHOUT BORDERS</mj-text>
-        <mj-text font-family="Arial, Helvetica, sans-serif" color="#B9C7C4" font-size="12px" line-height="1.8" align="center" padding="0 24px 14px 24px">27 and 28 November 2026 &middot; International Conference Centre, Ibadan<br /><a href="https://theisfforum.com" style="color:#FFFFFF;">theisfforum.com</a> &nbsp;|&nbsp; <a href="https://www.instagram.com/innovationandscaleforum/" style="color:#FFFFFF;">Instagram</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/company/isfforum" style="color:#FFFFFF;">LinkedIn</a> &nbsp;|&nbsp; <a href="https://x.com/OfficialISF2026" style="color:#FFFFFF;">X</a><br /><a href="mailto:events@theisfforum.com" style="color:#FFFFFF;">events@theisfforum.com</a></mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" color="#B9C7C4" font-size="12px" line-height="1.8" align="center" padding="0 24px 12px 24px"><a href="https://theisfforum.com" style="color:#FFFFFF;">theisfforum.com</a> &nbsp;|&nbsp; <a href="mailto:events@theisfforum.com" style="color:#FFFFFF;">events@theisfforum.com</a></mj-text>
         <mj-text font-family="Arial, Helvetica, sans-serif" color="#7F918D" font-size="11px" line-height="1.6" align="center" padding="0 48px">You are receiving this email because you subscribed to updates from ISF Forum. <a href="{{UNSUBSCRIBE_URL}}" style="color:#B9C7C4;text-decoration:underline;">Unsubscribe</a></mj-text>
       </mj-column>
     </mj-section>
