@@ -1,52 +1,74 @@
 <mjml>
   <mj-head>
-    <mj-title>Who is speaking at ISF Forum this November</mj-title>
-    <mj-preview>Iyin Aboyeji, Chika Nwosu and Governor Makinde join us in Ibadan on 27 and 28 November.</mj-preview>
+    <mj-title>Six weeks to ISF Forum: what has come together</mj-title>
+    <mj-preview>50+ speakers, two accelerator finals and 18 awards at the ICC Ibadan on 27 and 28 November.</mj-preview>
     <mj-attributes>
       <mj-all font-family="Arial, Helvetica, sans-serif" />
       <mj-section padding="0px" />
       <mj-column padding="0px" />
       <mj-image padding="0px" />
-      <mj-text color="#222222" font-size="16px" line-height="1.6" padding="0 32px 16px 32px" />
+      <mj-text color="#222222" font-size="16px" line-height="1.65" padding="0 36px 16px 36px" />
     </mj-attributes>
+    <mj-style>
+      a { color: #1E6F64; }
+      .lead { color: #1E6F64; }
+    </mj-style>
   </mj-head>
 
-  <mj-body background-color="#F5F5F5" width="600px">
+  <mj-body background-color="#F2F4F3" width="600px">
 
-    <mj-section padding="20px 0 0 0"><mj-column></mj-column></mj-section>
-
-    <!-- FIXED TOP: speakers animation -->
-    <mj-section background-color="#FFFFFF">
+    <!-- Top line -->
+    <mj-section padding="22px 0 10px 0">
       <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/shared/isf-speakers-animated.gif" width="600px" href="https://theisfforum.com/forum#the-room" alt="Photos of ISF Forum 2026 speakers, 27 and 28 November, International Conference Centre, Ibadan" />
+        <mj-text font-size="12px" line-height="1.5" color="#5E6B68" letter-spacing="1px" align="center" padding="0 24px">ISF FORUM 2026 &middot; 27 AND 28 NOVEMBER &middot; ICC IBADAN</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Header photo (still from the trailer, links to the page with the film) -->
+    <mj-section background-color="#FFFFFF" border-radius="6px 6px 0 0">
+      <mj-column>
+        <mj-image src="https://theisfforum.com/video/isf-trailer-poster.jpg" width="600px" border-radius="6px 6px 0 0" href="https://theisfforum.com/forum" alt="A speaker in conversation with delegates at a previous ISF Forum in Ibadan" />
       </mj-column>
     </mj-section>
 
     <!-- Letter -->
-    <mj-section background-color="#FFFFFF" padding="32px 0 8px 0">
+    <mj-section background-color="#FFFFFF" padding="34px 0 6px 0">
       <mj-column>
         <mj-text>Hi {{firstName}},</mj-text>
-        <mj-text>You are receiving this because you are part of the {{community}} community, and I wanted to share a quick update before your day gets busy.</mj-text>
-        <mj-text>We now have more than 50 speakers confirmed for ISF Forum 2026, which takes place on 27 and 28 November at the International Conference Centre in Ibadan. A few I am looking forward to hearing: Iyin Aboyeji of Future Africa, who co-founded Andela and Flutterwave; Chika Nwosu, who leads PalmPay; Kashifu Inuwa Abdullahi of NITDA; and Claire Lavielle of Chapter54, who helps European companies expand into Africa. Governor Seyi Makinde will host us.</mj-text>
-        <mj-text>The part I enjoy most is the time between sessions: the networking reception on Friday evening, the masterclasses on Saturday morning and the Gala Dinner that night.</mj-text>
+        <mj-text>You are receiving this because you are part of the {{community}} community. ISF Forum 2026 is six weeks away, on 27 and 28 November at the International Conference Centre in Ibadan, so here is what has come together.</mj-text>
+        <mj-text><strong class="lead">More than 50 speakers.</strong> Iyin Aboyeji of Future Africa, who co-founded Andela and Flutterwave. Chika Nwosu of PalmPay. Kashifu Inuwa Abdullahi of NITDA. Dr. Vincent Olatunji of the NDPC. Satoshi Shinada of Verod-Kepple Africa Ventures. Claire Lavielle of Chapter54. Governor Seyi Makinde will host us.</mj-text>
+        <mj-text><strong class="lead">Friday is builders' day.</strong> Two accelerator finals run side by side, the top three companies join our investor pipeline, and the evening ends with a networking reception.</mj-text>
+        <mj-text><strong class="lead">Saturday is the Forum.</strong> Masterclasses in the morning, the keynote at 11:30, four afternoon tracks, then the Gala Dinner, where the 18 Scale Without Borders Awards are presented. Nominations are open, with no entry fee.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Second photo -->
+    <mj-section background-color="#FFFFFF" padding="0 36px 26px 36px">
+      <mj-column>
+        <mj-image src="https://theisfforum.com/editions/winners.jpg" width="528px" border-radius="4px" href="https://theisfforum.com/forum" alt="Award recipients on stage at ISF Summit 2024" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0 0 8px 0">
+      <mj-column>
         <mj-text>Passes start at &#8358;5,000 for students and &#8358;15,000 for general admission. Delegate (&#8358;75,000) and VIP (&#8358;150,000) passes close on 1 November.</mj-text>
-        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="4px" inner-padding="14px 28px" align="left" padding="4px 32px 20px 32px">Choose your pass</mj-button>
-        <mj-text>If you would rather read more first, you can <a href="https://theisfforum.com/forum#the-room" style="color:#1E6F64;text-decoration:underline;">see the full speaker list on our website</a>.</mj-text>
-        <mj-text padding="8px 32px 32px 32px">Warm regards,<br />David Adeleke<br />Convener, ISF Forum</mj-text>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="4px" inner-padding="14px 30px" align="left" padding="4px 36px 22px 36px">Choose your pass</mj-button>
+        <mj-text>The full programme, every speaker and the award categories are on <a href="https://theisfforum.com/forum" style="color:#1E6F64;text-decoration:underline;">the ISF Forum website</a>.</mj-text>
+        <mj-text padding="6px 36px 34px 36px">See you in Ibadan,<br />David Adeleke<br /><span style="color:#5E6B68;">Convener, ISF Forum</span></mj-text>
       </mj-column>
     </mj-section>
 
     <!-- FIXED BOTTOM: Ibadan banner -->
-    <mj-section background-color="#FFFFFF">
+    <mj-section background-color="#FFFFFF" border-radius="0 0 6px 6px">
       <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" href="https://theisfforum.com/forum#the-room" alt="ISF Forum 2026 banner showing the Ibadan skyline" />
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" border-radius="0 0 6px 6px" href="https://theisfforum.com/forum" alt="ISF Forum 2026 banner showing the Ibadan skyline" />
       </mj-column>
     </mj-section>
 
     <!-- Footer -->
-    <mj-section padding="20px 0 28px 0">
+    <mj-section padding="22px 0 30px 0">
       <mj-column>
-        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">ISF Forum, Ibadan, Oyo State, Nigeria</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">ISF Forum &middot; Ibadan, Oyo State, Nigeria</mj-text>
         <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">You are receiving this email because you are part of the {{community}} community.</mj-text>
         <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px"><a href="{{UNSUBSCRIBE_URL}}" style="color:#666666;text-decoration:underline;">Unsubscribe</a></mj-text>
       </mj-column>
