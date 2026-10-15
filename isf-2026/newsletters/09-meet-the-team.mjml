@@ -1,0 +1,125 @@
+<mjml>
+  <mj-head>
+    <mj-title>Meet the team behind ISF Forum 2026</mj-title>
+    <mj-preview>Six people in Ibadan are building two days for 3,000 founders, investors and leaders.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text color="#222222" font-size="16px" line-height="1.65" padding="0 36px 16px 36px" />
+    </mj-attributes>
+    <mj-style>
+      a { color: #1E6F64; }
+      @media only screen and (max-width: 480px) {
+        .hero div { font-size: 34px !important; }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#F2F4F3" width="600px">
+
+    <!-- Top line -->
+    <mj-section padding="22px 0 10px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.5" color="#5E6B68" align="center" padding="0 24px">ISF Forum 2026 &middot; 27 and 28 November &middot; ICC Ibadan</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Header (text, not an image) -->
+    <mj-section background-color="#0F1F1D" border-radius="6px 6px 0 0" padding="46px 0 42px 0">
+      <mj-column>
+        <mj-text align="center" font-size="13px" font-weight="700" letter-spacing="3px" color="#5CC2B1" padding="0 30px 12px 30px">THE PEOPLE BEHIND IT</mj-text>
+        <mj-text css-class="hero" align="center" font-family="Georgia, 'Times New Roman', serif" font-size="44px" line-height="1.1" color="#FFFFFF" padding="0 30px 14px 30px">Meet the team</mj-text>
+        <mj-divider border-color="#2F988A" border-width="3px" width="56px" padding="0 0 16px 0" />
+        <mj-text align="center" font-size="15px" line-height="1.6" color="#B9C7C4" padding="0 50px">Six people in Ibadan, building two days for 3,000 founders, investors and leaders.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Letter -->
+    <mj-section background-color="#FFFFFF" padding="36px 0 18px 0">
+      <mj-column>
+        <mj-text>Hi {{firstName}},</mj-text>
+        <mj-text>You are receiving this because you are part of the {{community}} community. Behind every session, award and handshake at ISF Forum is a small team, and ahead of 27 and 28 November at the International Conference Centre in Ibadan, we would like you to meet them.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Team grid -->
+    <mj-section background-color="#FFFFFF" padding="0 20px">
+      <mj-group>
+        <mj-column width="50%" padding="0 8px 30px 8px">
+          <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/team-oct/team-david-adeleke.jpg" width="150px" alt="Portrait of David Adeleke" padding="0 0 14px 0" />
+          <mj-text align="center" font-size="17px" font-weight="700" line-height="1.3" color="#0F1F1D" padding="0 6px 3px 6px">David Adeleke</mj-text>
+          <mj-text align="center" font-size="12px" font-weight="700" letter-spacing="0.5px" line-height="1.4" color="#1E6F64" padding="0 6px 8px 6px">Head of Event</mj-text>
+          <mj-text align="center" font-size="14px" line-height="1.5" color="#4A5653" padding="0 10px">The person behind ISF Forum since the first edition in 2022.</mj-text>
+        </mj-column>
+        <mj-column width="50%" padding="0 8px 30px 8px">
+          <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/team-oct/team-tosin-kolawole.jpg" width="150px" alt="Portrait of Tosin Kolawole" padding="0 0 14px 0" />
+          <mj-text align="center" font-size="17px" font-weight="700" line-height="1.3" color="#0F1F1D" padding="0 6px 3px 6px">Tosin Kolawole</mj-text>
+          <mj-text align="center" font-size="12px" font-weight="700" letter-spacing="0.5px" line-height="1.4" color="#1E6F64" padding="0 6px 8px 6px">Dinner and Awards Lead</mj-text>
+          <mj-text align="center" font-size="14px" line-height="1.5" color="#4A5653" padding="0 10px">Runs the Gala Dinner and the 18 Scale Without Borders Awards.</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#FFFFFF" padding="0 20px">
+      <mj-group>
+        <mj-column width="50%" padding="0 8px 30px 8px">
+          <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/team-oct/team-marvelous-oyeyemi.jpg" width="150px" alt="Portrait of Marvelous Oyeyemi" padding="0 0 14px 0" />
+          <mj-text align="center" font-size="17px" font-weight="700" line-height="1.3" color="#0F1F1D" padding="0 6px 3px 6px">Marvelous Oyeyemi</mj-text>
+          <mj-text align="center" font-size="12px" font-weight="700" letter-spacing="0.5px" line-height="1.4" color="#1E6F64" padding="0 6px 8px 6px">Admin and Operations Lead</mj-text>
+          <mj-text align="center" font-size="14px" line-height="1.5" color="#4A5653" padding="0 10px">Keeps two days, six halls and 3,000 guests running on time.</mj-text>
+        </mj-column>
+        <mj-column width="50%" padding="0 8px 30px 8px">
+          <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/team-oct/team-lolia-kienka.jpg" width="150px" alt="Portrait of Lolia Kienka" padding="0 0 14px 0" />
+          <mj-text align="center" font-size="17px" font-weight="700" line-height="1.3" color="#0F1F1D" padding="0 6px 3px 6px">Lolia Kienka</mj-text>
+          <mj-text align="center" font-size="12px" font-weight="700" letter-spacing="0.5px" line-height="1.4" color="#1E6F64" padding="0 6px 8px 6px">Sponsorship and Partnerships</mj-text>
+          <mj-text align="center" font-size="14px" line-height="1.5" color="#4A5653" padding="0 10px">Works with the companies backing this year&#39;s Forum.</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#FFFFFF" padding="0 20px">
+      <mj-group>
+        <mj-column width="50%" padding="0 8px 30px 8px">
+          <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/team-oct/team-samson-samuel.jpg" width="150px" alt="Portrait of Samson Samuel" padding="0 0 14px 0" />
+          <mj-text align="center" font-size="17px" font-weight="700" line-height="1.3" color="#0F1F1D" padding="0 6px 3px 6px">Samson Samuel</mj-text>
+          <mj-text align="center" font-size="12px" font-weight="700" letter-spacing="0.5px" line-height="1.4" color="#1E6F64" padding="0 6px 8px 6px">Creative Director</mj-text>
+          <mj-text align="center" font-size="14px" line-height="1.5" color="#4A5653" padding="0 10px">The eye behind everything you will see at ISF Forum.</mj-text>
+        </mj-column>
+        <mj-column width="50%" padding="0 8px 30px 8px">
+          <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/team-oct/team-david-ibekwe.jpg" width="150px" alt="Portrait of David Ibekwe" padding="0 0 14px 0" />
+          <mj-text align="center" font-size="17px" font-weight="700" line-height="1.3" color="#0F1F1D" padding="0 6px 3px 6px">David Ibekwe</mj-text>
+          <mj-text align="center" font-size="12px" font-weight="700" letter-spacing="0.5px" line-height="1.4" color="#1E6F64" padding="0 6px 8px 6px">Communications and Marketing Lead</mj-text>
+          <mj-text align="center" font-size="14px" line-height="1.5" color="#4A5653" padding="0 10px">The voice behind our emails and social pages.</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- Close -->
+    <mj-section background-color="#FFFFFF" padding="6px 0 8px 0">
+      <mj-column>
+        <mj-divider border-color="#E2E8E6" border-width="1px" padding="0 36px 26px 36px" />
+        <mj-text>We would love to meet you in Ibadan. Passes start at &#8358;5,000, and Delegate and VIP passes close on 1 November.</mj-text>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="4px" inner-padding="14px 30px" align="left" padding="4px 36px 22px 36px">Get your pass</mj-button>
+        <mj-text>You can follow the team&#39;s build-up on <a href="https://www.linkedin.com/company/isfforum" style="color:#1E6F64;text-decoration:underline;">ISF Forum&#39;s LinkedIn page</a>.</mj-text>
+        <mj-text padding="6px 36px 34px 36px">See you in Ibadan,<br />David Adeleke<br /><span style="color:#5E6B68;">Head of Event, ISF Forum</span></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- FIXED BOTTOM: Ibadan banner -->
+    <mj-section background-color="#FFFFFF" border-radius="0 0 6px 6px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" border-radius="0 0 6px 6px" href="https://theisfforum.com/forum" alt="ISF Forum 2026 banner showing the Ibadan skyline" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section padding="22px 0 30px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">ISF Forum &middot; Ibadan, Oyo State, Nigeria &middot; <a href="https://theisfforum.com/forum" style="color:#666666;">theisfforum.com</a></mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">You are receiving this email because you are part of the {{community}} community.</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px"><a href="{{UNSUBSCRIBE_URL}}" style="color:#666666;text-decoration:underline;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
