@@ -20,7 +20,7 @@
     <!-- Top line -->
     <mj-section padding="22px 0 10px 0">
       <mj-column>
-        <mj-text font-size="12px" line-height="1.5" color="#5E6B68" letter-spacing="1px" align="center" padding="0 24px">ISF FORUM 2026 &middot; 27 AND 28 NOVEMBER &middot; ICC IBADAN</mj-text>
+        <mj-text font-size="12px" line-height="1.5" color="#5E6B68" align="center" padding="0 24px">ISF Forum 2026 &middot; 27 and 28 November &middot; ICC Ibadan</mj-text>
       </mj-column>
     </mj-section>
 
