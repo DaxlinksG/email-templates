@@ -1,0 +1,56 @@
+<mjml>
+  <mj-head>
+    <mj-title>Who is speaking at ISF Forum this November</mj-title>
+    <mj-preview>Iyin Aboyeji, Chika Nwosu and Governor Makinde join us in Ibadan on 27 and 28 November.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text color="#222222" font-size="16px" line-height="1.6" padding="0 32px 16px 32px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#F5F5F5" width="600px">
+
+    <mj-section padding="20px 0 0 0"><mj-column></mj-column></mj-section>
+
+    <!-- FIXED TOP: speakers animation -->
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/shared/isf-speakers-animated.gif" width="600px" href="https://theisfforum.com/forum#the-room" alt="Photos of ISF Forum 2026 speakers, 27 and 28 November, International Conference Centre, Ibadan" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Letter -->
+    <mj-section background-color="#FFFFFF" padding="32px 0 8px 0">
+      <mj-column>
+        <mj-text>Hi {{firstName}},</mj-text>
+        <mj-text>You are receiving this because you are part of the {{community}} community, and I wanted to share a quick update before your day gets busy.</mj-text>
+        <mj-text>We now have more than 50 speakers confirmed for ISF Forum 2026, which takes place on 27 and 28 November at the International Conference Centre in Ibadan. A few I am looking forward to hearing: Iyin Aboyeji of Future Africa, who co-founded Andela and Flutterwave; Chika Nwosu, who leads PalmPay; Kashifu Inuwa Abdullahi of NITDA; and Claire Lavielle of Chapter54, who helps European companies expand into Africa. Governor Seyi Makinde will host us.</mj-text>
+        <mj-text>The part I enjoy most is the time between sessions: the networking reception on Friday evening, the masterclasses on Saturday morning and the Gala Dinner that night.</mj-text>
+        <mj-text>Passes start at &#8358;5,000 for students and &#8358;15,000 for general admission. Delegate (&#8358;75,000) and VIP (&#8358;150,000) passes close on 1 November.</mj-text>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="4px" inner-padding="14px 28px" align="left" padding="4px 32px 20px 32px">Choose your pass</mj-button>
+        <mj-text>If you would rather read more first, you can <a href="https://theisfforum.com/forum#the-room" style="color:#1E6F64;text-decoration:underline;">see the full speaker list on our website</a>.</mj-text>
+        <mj-text padding="8px 32px 32px 32px">Warm regards,<br />David Adeleke<br />Convener, ISF Forum</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- FIXED BOTTOM: Ibadan banner -->
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" href="https://theisfforum.com/forum#the-room" alt="ISF Forum 2026 banner showing the Ibadan skyline" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section padding="20px 0 28px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">ISF Forum, Ibadan, Oyo State, Nigeria</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">You are receiving this email because you are part of the {{community}} community.</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px"><a href="{{UNSUBSCRIBE_URL}}" style="color:#666666;text-decoration:underline;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
