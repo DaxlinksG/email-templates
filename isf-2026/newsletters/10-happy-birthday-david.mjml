@@ -1,0 +1,69 @@
+<mjml>
+  <mj-head>
+    <mj-title>Happy birthday to our convener, David Adeleke</mj-title>
+    <mj-preview>He is spending it 33,000 feet in the air. Here is how to send him a birthday note.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text color="#222222" font-size="16px" line-height="1.65" padding="0 36px 16px 36px" />
+    </mj-attributes>
+    <mj-style>
+      a { color: #1E6F64; }
+      @media only screen and (max-width: 480px) {
+        .hero div { font-size: 34px !important; }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#F2F4F3" width="600px">
+
+    <!-- Top line -->
+    <mj-section padding="22px 0 10px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.5" color="#5E6B68" align="center" padding="0 24px">ISF Forum 2026 &middot; 27 and 28 November &middot; ICC Ibadan</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Celebration header -->
+    <mj-section background-color="#0F1F1D" border-radius="6px 6px 0 0" padding="44px 0 40px 0">
+      <mj-column>
+        <mj-text align="center" font-size="13px" font-weight="700" letter-spacing="3px" color="#5CC2B1" padding="0 30px 20px 30px">22 OCTOBER</mj-text>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/team-oct/team-david-adeleke.jpg" width="200px" alt="Portrait of David Adeleke, Convener of ISF Forum" padding="0 0 24px 0" />
+        <mj-text css-class="hero" align="center" font-family="Georgia, 'Times New Roman', serif" font-size="42px" line-height="1.1" color="#FFFFFF" padding="0 30px 12px 30px">Happy birthday, David</mj-text>
+        <mj-text align="center" font-size="15px" line-height="1.6" color="#B9C7C4" padding="0 50px">Convener of ISF Forum, since the very first edition</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Letter -->
+    <mj-section background-color="#FFFFFF" padding="36px 0 8px 0">
+      <mj-column>
+        <mj-text>Hi {{firstName}},</mj-text>
+        <mj-text>You are receiving this because you are part of the {{community}} community, and today is a special day for all of us at ISF Forum. It is the birthday of David Adeleke, who started the Forum in Ibadan in 2022 and has led every edition since.</mj-text>
+        <mj-text>David is marking the day 33,000 feet in the air, which feels right for someone who has spent four editions helping African businesses grow beyond the market they started in. When he lands, he goes straight back to preparing for 27 and 28 November at the International Conference Centre in Ibadan.</mj-text>
+        <mj-text>If ISF Forum, or David himself, has been part of your journey, he would love to hear from you. A short note on his birthday post goes a long way.</mj-text>
+        <mj-button href="https://www.linkedin.com/posts/adelekedavid_this-year-im-celebrating-my-birthday-33000-activity-7518756566439772160-_wfv" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="4px" inner-padding="14px 30px" align="left" padding="4px 36px 24px 36px">Wish David a happy birthday on LinkedIn</mj-button>
+        <mj-text>And if you have not booked your place yet, there is still time to join us. <a href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" style="color:#1E6F64;text-decoration:underline;">Passes for ISF Forum 2026 start at &#8358;5,000</a>.</mj-text>
+        <mj-text padding="6px 36px 34px 36px">Warm regards,<br />David Ibekwe<br /><span style="color:#5E6B68;">Communications and Marketing Lead, ISF Forum</span></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- FIXED BOTTOM: Ibadan banner -->
+    <mj-section background-color="#FFFFFF" border-radius="0 0 6px 6px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" border-radius="0 0 6px 6px" alt="ISF Forum 2026 banner showing the Ibadan skyline" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section padding="22px 0 30px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">ISF Forum &middot; Ibadan, Oyo State, Nigeria</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">You are receiving this email because you are part of the {{community}} community.</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px"><a href="{{UNSUBSCRIBE_URL}}" style="color:#666666;text-decoration:underline;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
