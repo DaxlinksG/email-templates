@@ -30,7 +30,7 @@
     <mj-section background-color="#0F1F1D" border-radius="6px 6px 0 0" padding="44px 0 40px 0">
       <mj-column>
         <mj-text align="center" font-size="13px" font-weight="700" letter-spacing="3px" color="#5CC2B1" padding="0 30px 20px 30px">22 OCTOBER</mj-text>
-        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/team-oct/team-david-adeleke.jpg" width="200px" alt="Portrait of David Adeleke, Convener of ISF Forum" padding="0 0 24px 0" />
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/team-oct/team-david-adeleke-dark.jpg" width="200px" alt="Portrait of David Adeleke, Convener of ISF Forum" padding="0 0 24px 0" />
         <mj-text css-class="hero" align="center" font-family="Georgia, 'Times New Roman', serif" font-size="42px" line-height="1.1" color="#FFFFFF" padding="0 30px 12px 30px">Happy birthday, David</mj-text>
         <mj-text align="center" font-size="15px" line-height="1.6" color="#B9C7C4" padding="0 50px">Convener of ISF Forum, since the very first edition</mj-text>
       </mj-column>
