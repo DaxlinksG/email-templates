@@ -58,7 +58,7 @@
     <!-- Call to action -->
     <mj-section background-color="#FFFFFF" padding="34px 0 10px 0">
       <mj-column>
-        <mj-text>Applications close on Saturday 31 October. The form is on our Pitch Battle page and only takes a few minutes of your week.</mj-text>
+        <mj-text>Applications close on Saturday 31 October. The application form is on our Pitch Battle page.</mj-text>
         <mj-button href="https://theisfforum.com/pitch" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="4px" inner-padding="15px 32px" align="left" padding="4px 36px 24px 36px">Apply to pitch by 31 October</mj-button>
         <mj-text>Know a founder who belongs on that stage? Forward this email to them today.</mj-text>
         <mj-text padding="6px 36px 34px 36px">See you in Ibadan,<br />David Adeleke<br /><span style="color:#5E6B68;">Convener, ISF Forum</span></mj-text>
