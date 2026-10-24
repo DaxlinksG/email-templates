@@ -1,0 +1,85 @@
+<mjml>
+  <mj-head>
+    <mj-title>Pitch Battle applications close on 31 October</mj-title>
+    <mj-preview>Pitch live to investors in Ibadan on 27 and 28 November, with up to $10,000 in prizes.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text color="#222222" font-size="16px" line-height="1.65" padding="0 36px 16px 36px" />
+    </mj-attributes>
+    <mj-style>
+      a { color: #1E6F64; }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#F2F4F3" width="600px">
+
+    <!-- Deadline bar -->
+    <mj-section padding="20px 0 0 0"><mj-column></mj-column></mj-section>
+    <mj-section background-color="#2F988A" border-radius="6px 6px 0 0" padding="11px 0">
+      <mj-column>
+        <mj-text font-size="14px" font-weight="700" line-height="1.4" color="#FFFFFF" align="center" padding="0 20px">Pitch Battle applications close on Saturday 31 October</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Header -->
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/pitch-oct/pitch-header.jpg" width="600px" href="https://theisfforum.com/pitch" alt="ISF Pitch Battle: pitch your way to $10,000 and turn your business into the next big opportunity" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Letter -->
+    <mj-section background-color="#FFFFFF" padding="36px 0 10px 0">
+      <mj-column>
+        <mj-text>Hi {{firstName}},</mj-text>
+        <mj-text>You are receiving this because you are part of the {{community}} community. If you are building a business, this one is for you.</mj-text>
+        <mj-text>Founders selected for the ISF Pitch Battle will pitch live at ISF Forum 2026, on 27 and 28 November at the International Conference Centre in Ibadan. You will stand in front of a full conference audience and the investors in the room, the people who can back you, partner with you and open doors you have been knocking on for months.</mj-text>
+        <mj-text>The winner takes up to $10,000 plus other prizes. For many founders, a few minutes on that stage will be worth even more.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- What you get (dark band) -->
+    <mj-section background-color="#000000" padding="34px 22px 30px 22px">
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text font-size="12px" font-weight="700" letter-spacing="2px" color="#5CC2B1" padding="0 14px 12px 14px">WHAT SELECTED FOUNDERS GET</mj-text>
+        <mj-text font-size="16px" line-height="1.5" color="#FFFFFF" padding="0 14px 10px 14px">&#10003;&nbsp; A live pitch in front of investors</mj-text>
+        <mj-text font-size="16px" line-height="1.5" color="#FFFFFF" padding="0 14px 10px 14px">&#10003;&nbsp; Growth-focused masterclasses</mj-text>
+        <mj-text font-size="16px" line-height="1.5" color="#FFFFFF" padding="0 14px 10px 14px">&#10003;&nbsp; Top-tier mentors and facilitators</mj-text>
+        <mj-text font-size="16px" line-height="1.5" color="#FFFFFF" padding="0 14px 18px 14px">&#10003;&nbsp; Up to $10,000 plus other prizes</mj-text>
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/pitch-oct/pitch-stage-photos.jpg" width="260px" alt="Founders pitching on stage at the Ibadan Start-up Fest" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Call to action -->
+    <mj-section background-color="#FFFFFF" padding="34px 0 10px 0">
+      <mj-column>
+        <mj-text>Applications close on Saturday 31 October. The form is on our Pitch Battle page and only takes a few minutes of your week.</mj-text>
+        <mj-button href="https://theisfforum.com/pitch" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="4px" inner-padding="15px 32px" align="left" padding="4px 36px 24px 36px">Apply to pitch by 31 October</mj-button>
+        <mj-text>Know a founder who belongs on that stage? Forward this email to them today.</mj-text>
+        <mj-text padding="6px 36px 34px 36px">See you in Ibadan,<br />David Adeleke<br /><span style="color:#5E6B68;">Convener, ISF Forum</span></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- FIXED BOTTOM: Ibadan banner -->
+    <mj-section background-color="#FFFFFF" border-radius="0 0 6px 6px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" border-radius="0 0 6px 6px" alt="ISF Forum 2026 banner showing the Ibadan skyline" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section padding="22px 0 30px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">ISF Forum &middot; Ibadan, Oyo State, Nigeria</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">You are receiving this email because you are part of the {{community}} community.</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px"><a href="{{UNSUBSCRIBE_URL}}" style="color:#666666;text-decoration:underline;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
