@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
-    <mj-title>Happy new month: 25 days to ISF Forum</mj-title>
-    <mj-preview>Passes from &#8358;5,000 for ISF Forum 2026 at the ICC Ibadan on 27 and 28 November.</mj-preview>
+    <mj-title>Happy new month: 26 days to ISF Forum</mj-title>
+    <mj-preview>Passes from &#8358;5,000 for ISF Forum 2026 at the ICC Ibadan on Saturday 28 November.</mj-preview>
     <mj-attributes>
       <mj-all font-family="Arial, Helvetica, sans-serif" />
       <mj-section padding="0px" />
@@ -22,7 +22,7 @@
     <!-- Top line -->
     <mj-section padding="22px 0 10px 0">
       <mj-column>
-        <mj-text font-size="12px" line-height="1.5" color="#5E6B68" align="center" padding="0 24px">ISF Forum 2026 &middot; 27 and 28 November &middot; ICC Ibadan</mj-text>
+        <mj-text font-size="12px" line-height="1.5" color="#5E6B68" align="center" padding="0 24px">ISF Forum 2026 &middot; Saturday 28 November &middot; ICC Ibadan</mj-text>
       </mj-column>
     </mj-section>
 
@@ -30,10 +30,10 @@
     <mj-section background-color="#0F1F1D" border-radius="6px 6px 0 0" padding="40px 0 38px 0">
       <mj-column>
         <mj-text align="center" font-size="13px" font-weight="700" letter-spacing="3px" color="#5CC2B1" padding="0 30px 6px 30px">HAPPY NEW MONTH</mj-text>
-        <mj-text css-class="count" align="center" font-family="Georgia, 'Times New Roman', serif" font-size="120px" line-height="1" color="#F28C28" padding="0 30px 4px 30px">25</mj-text>
+        <mj-text css-class="count" align="center" font-family="Georgia, 'Times New Roman', serif" font-size="120px" line-height="1" color="#F28C28" padding="0 30px 4px 30px">26</mj-text>
         <mj-text align="center" font-family="Georgia, 'Times New Roman', serif" font-size="26px" line-height="1.2" color="#FFFFFF" padding="0 30px 16px 30px">days to Ibadan</mj-text>
         <mj-divider border-color="#2F988A" border-width="3px" width="56px" padding="0 0 16px 0" />
-        <mj-text align="center" font-size="15px" line-height="1.6" color="#B9C7C4" padding="0 40px">Friday 27 and Saturday 28 November &middot; International Conference Centre, Ibadan</mj-text>
+        <mj-text align="center" font-size="15px" line-height="1.6" color="#B9C7C4" padding="0 40px">Saturday 28 November &middot; International Conference Centre, Ibadan</mj-text>
       </mj-column>
     </mj-section>
 
@@ -41,8 +41,8 @@
     <mj-section background-color="#FFFFFF" padding="36px 0 8px 0">
       <mj-column>
         <mj-text>Happy new month, and happy new week.</mj-text>
-        <mj-text>November is the month we have been building towards all year. In 25 days, founders, investors, bankers and policymakers will meet in Ibadan for two days of sessions, deals and conversations, ending with the Gala Dinner and the 18 Scale Without Borders Awards.</mj-text>
-        <mj-text>If you have not booked yet, Student passes are &#8358;5,000 and General Admission is &#8358;15,000.</mj-text>
+        <mj-text>November is the month we have been building towards all year. In 26 days, founders, investors, bankers and policymakers will meet at the International Conference Centre in Ibadan for a full day of masterclasses, the keynote, four afternoon tracks and conversations that move businesses forward. The day ends with the Gala Dinner and the 18 Scale Without Borders Awards.</mj-text>
+        <mj-text>If you have not booked yet, Basic passes are &#8358;5,000 and General Admission is &#8358;15,000.</mj-text>
         <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="4px" inner-padding="14px 30px" align="left" padding="4px 36px 22px 36px">Get your pass</mj-button>
       </mj-column>
     </mj-section>
@@ -52,7 +52,7 @@
       <mj-column background-color="#EEF6F4" border-radius="6px" padding="22px 0 8px 0">
         <mj-text font-size="13px" font-weight="700" letter-spacing="1px" color="#1E6F64" padding="0 24px 6px 24px">COMING FROM LAGOS?</mj-text>
         <mj-text font-size="17px" line-height="1.5" color="#0F1F1D" padding="0 24px 10px 24px">Book your train now. We will handle your transport between Moniya Station and the venue, both ways.</mj-text>
-        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 16px 24px">Trains run from Mobolaji Johnson Station in Ebute Metta to Moniya, Ibadan, in about two and a half to three hours. On Fridays and Saturdays they leave Lagos at 7:15 AM, 1:40 PM and 4:00 PM, with Regular class from &#8358;3,600. Reply to this email with your train time and we will plan your pickup.</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 16px 24px">Trains run from Mobolaji Johnson Station in Ebute Metta to Moniya, Ibadan, in about two and a half to three hours. On Saturday the 7:15 AM train from Lagos is the one to catch for the full day, and Regular class starts at &#8358;3,600. Reply to this email with your train time and we will plan your pickup.</mj-text>
       </mj-column>
     </mj-section>
 
