@@ -1,0 +1,70 @@
+<mjml>
+  <mj-head>
+    <mj-title>Happy new month: 25 days to ISF Forum</mj-title>
+    <mj-preview>Passes from &#8358;5,000 for ISF Forum 2026 at the ICC Ibadan on 27 and 28 November.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text color="#222222" font-size="16px" line-height="1.65" padding="0 36px 16px 36px" />
+    </mj-attributes>
+    <mj-style>
+      a { color: #1E6F64; }
+      @media only screen and (max-width: 480px) {
+        .count div { font-size: 96px !important; }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#F2F4F3" width="600px">
+
+    <!-- Top line -->
+    <mj-section padding="22px 0 10px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.5" color="#5E6B68" align="center" padding="0 24px">ISF Forum 2026 &middot; 27 and 28 November &middot; ICC Ibadan</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Countdown -->
+    <mj-section background-color="#0F1F1D" border-radius="6px 6px 0 0" padding="40px 0 38px 0">
+      <mj-column>
+        <mj-text align="center" font-size="13px" font-weight="700" letter-spacing="3px" color="#5CC2B1" padding="0 30px 6px 30px">HAPPY NEW MONTH</mj-text>
+        <mj-text css-class="count" align="center" font-family="Georgia, 'Times New Roman', serif" font-size="120px" line-height="1" color="#F28C28" padding="0 30px 4px 30px">25</mj-text>
+        <mj-text align="center" font-family="Georgia, 'Times New Roman', serif" font-size="26px" line-height="1.2" color="#FFFFFF" padding="0 30px 16px 30px">days to Ibadan</mj-text>
+        <mj-divider border-color="#2F988A" border-width="3px" width="56px" padding="0 0 16px 0" />
+        <mj-text align="center" font-size="15px" line-height="1.6" color="#B9C7C4" padding="0 40px">Friday 27 and Saturday 28 November &middot; International Conference Centre, Ibadan</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Letter -->
+    <mj-section background-color="#FFFFFF" padding="36px 0 8px 0">
+      <mj-column>
+        <mj-text>Hi {{firstName}},</mj-text>
+        <mj-text>You are receiving this because you are part of the {{community}} community. Happy new month, and happy new week.</mj-text>
+        <mj-text>November is the month we have been building towards all year. In 25 days, founders, investors, bankers and policymakers will meet in Ibadan for two days of sessions, deals and conversations, ending with the Gala Dinner and the 18 Scale Without Borders Awards.</mj-text>
+        <mj-text>If you have not booked yet, Student passes are &#8358;5,000 and General Admission is &#8358;15,000.</mj-text>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="4px" inner-padding="14px 30px" align="left" padding="4px 36px 22px 36px">Get your pass</mj-button>
+        <mj-text>Here is to a great November, and to seeing you in Ibadan.</mj-text>
+        <mj-text padding="6px 36px 34px 36px">Warm regards,<br />David Adeleke<br /><span style="color:#5E6B68;">Convener, ISF Forum</span></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- FIXED BOTTOM: Ibadan banner -->
+    <mj-section background-color="#FFFFFF" border-radius="0 0 6px 6px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" border-radius="0 0 6px 6px" alt="ISF Forum 2026 banner showing the Ibadan skyline" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section padding="22px 0 30px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">ISF Forum &middot; Ibadan, Oyo State, Nigeria</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">You are receiving this email because you are part of the {{community}} community.</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px"><a href="{{UNSUBSCRIBE_URL}}" style="color:#666666;text-decoration:underline;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
