@@ -40,11 +40,24 @@
     <!-- Letter -->
     <mj-section background-color="#FFFFFF" padding="36px 0 8px 0">
       <mj-column>
-        <mj-text>Hi {{firstName}},</mj-text>
-        <mj-text>You are receiving this because you are part of the {{community}} community. Happy new month, and happy new week.</mj-text>
+        <mj-text>Happy new month, and happy new week.</mj-text>
         <mj-text>November is the month we have been building towards all year. In 25 days, founders, investors, bankers and policymakers will meet in Ibadan for two days of sessions, deals and conversations, ending with the Gala Dinner and the 18 Scale Without Borders Awards.</mj-text>
         <mj-text>If you have not booked yet, Student passes are &#8358;5,000 and General Admission is &#8358;15,000.</mj-text>
         <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="4px" inner-padding="14px 30px" align="left" padding="4px 36px 22px 36px">Get your pass</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Travelling from Lagos -->
+    <mj-section background-color="#FFFFFF" padding="4px 36px 26px 36px">
+      <mj-column background-color="#EEF6F4" border-radius="6px" padding="22px 0 8px 0">
+        <mj-text font-size="13px" font-weight="700" letter-spacing="1px" color="#1E6F64" padding="0 24px 6px 24px">COMING FROM LAGOS?</mj-text>
+        <mj-text font-size="17px" line-height="1.5" color="#0F1F1D" padding="0 24px 10px 24px">Book your train now. We will handle your transport between Moniya Station and the venue, both ways.</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 16px 24px">Trains run from Mobolaji Johnson Station in Ebute Metta to Moniya, Ibadan, in about two and a half to three hours. On Fridays and Saturdays they leave Lagos at 7:15 AM, 1:40 PM and 4:00 PM, with Regular class from &#8358;3,600. Reply to this email with your train time and we will plan your pickup.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0 0 8px 0">
+      <mj-column>
         <mj-text>Here is to a great November, and to seeing you in Ibadan.</mj-text>
         <mj-text padding="6px 36px 34px 36px">Warm regards,<br />David Adeleke<br /><span style="color:#5E6B68;">Convener, ISF Forum</span></mj-text>
       </mj-column>
