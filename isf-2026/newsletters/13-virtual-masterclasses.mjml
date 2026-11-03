@@ -37,11 +37,11 @@
     <!-- Posters -->
     <mj-section background-color="#FFFFFF" padding="30px 24px 8px 24px">
       <mj-column width="50%" padding="0 6px 18px 6px">
-        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/masterclass-nov/masterclass-1-investors-deck.jpg" alt="Virtual Masterclass: How Investors Read Your Deck, with Oladimeji Timothy, Country Director, inDrive Nigeria. Thursday 5 November 2026, 6:00 PM WAT, on Zoom." border-radius="6px" />
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/masterclass-nov/masterclass-1-investors-deck.jpg" alt="Virtual Masterclass: How Investors Read Your Deck, with Oladimeji Timothy, Country Director, inDrive Nigeria. Thursday 5 November 2026, 6:00 PM WAT, on Zoom." border-radius="6px" href="https://theisfforum.com/forum" />
         <mj-text font-size="14px" line-height="1.5" color="#3E4B48" align="center" padding="10px 0 0 0">Thursday 5 November, 6:00 PM WAT</mj-text>
       </mj-column>
       <mj-column width="50%" padding="0 6px 18px 6px">
-        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/masterclass-nov/masterclass-2-numbers-that-matter.jpg" alt="Virtual Masterclass: The Numbers That Matter, Traction, Unit Economics and Your Funding Ask, with Yvonne-Faith Elaigwu, Head of Operations and Governance, OnePipe. Thursday 12 November 2026, 6:00 PM WAT, on Zoom." border-radius="6px" />
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/masterclass-nov/masterclass-2-numbers-that-matter.jpg" alt="Virtual Masterclass: The Numbers That Matter, Traction, Unit Economics and Your Funding Ask, with Yvonne-Faith Elaigwu, Head of Operations and Governance, OnePipe. Thursday 12 November 2026, 6:00 PM WAT, on Zoom." border-radius="6px" href="https://theisfforum.com/forum" />
         <mj-text font-size="14px" line-height="1.5" color="#3E4B48" align="center" padding="10px 0 0 0">Thursday 12 November, 6:00 PM WAT</mj-text>
       </mj-column>
     </mj-section>
@@ -52,7 +52,7 @@
         <mj-text>Founders are welcome. Share your details and we will send you the Zoom link.</mj-text>
         <mj-button href="https://docs.google.com/forms/d/e/1FAIpQLSdxDAwtyYrubnd839tW7-UhuUfAxdFs5mtvIThYTWdy_Unpxg/viewform" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="4px" inner-padding="14px 30px" align="left" padding="4px 36px 22px 36px">Register your interest</mj-button>
         <mj-text><strong>Applied to the Pitch Battle for the $10,000 grant?</strong> Please check your email, including spam, and keep an eye on your inbox over the coming days.</mj-text>
-        <mj-text>The Forum itself is on Saturday 28 November at the International Conference Centre, Ibadan. <a href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" style="color:#1E6F64;text-decoration:underline;">Basic passes start at &#8358;5,000</a>.</mj-text>
+        <mj-text>The Forum itself is on Saturday 28 November at the International Conference Centre, Ibadan. See the <a href="https://theisfforum.com/forum" style="color:#1E6F64;text-decoration:underline;">full programme and speakers</a>, or <a href="https://theisfforum.com/ticketing" style="color:#1E6F64;text-decoration:underline;">get a Basic pass from &#8358;5,000</a>.</mj-text>
         <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 36px 10px 36px">P.S. Do people actually watch your WhatsApp status? Join the ISF Scale Squad: share our flyers and posts on your status, groups and pages, and drop a screenshot in the group each time. Our most active members receive passes to ISF Forum 2026, a few top promoters get a cash stipend, and the top sharers are shouted out every week.</mj-text>
         <mj-button href="https://chat.whatsapp.com/DsRcIiB3aLSLNEgpGBg7aG?mode=gi_t" background-color="#25D366" color="#0F1F1D" font-size="14px" font-weight="700" border-radius="4px" inner-padding="10px 22px" align="left" padding="0 36px 22px 36px">Join the ISF Scale Squad</mj-button>
         <mj-text padding="6px 36px 34px 36px">See you on Zoom,<br />David Adeleke<br /><span style="color:#5E6B68;">Convener, ISF Forum</span></mj-text>
@@ -62,7 +62,7 @@
     <!-- FIXED BOTTOM: Ibadan banner -->
     <mj-section background-color="#FFFFFF" border-radius="0 0 6px 6px">
       <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" border-radius="0 0 6px 6px" alt="ISF Forum 2026 banner showing the Ibadan skyline" />
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" border-radius="0 0 6px 6px" href="https://theisfforum.com/forum" alt="ISF Forum 2026 banner showing the Ibadan skyline" />
       </mj-column>
     </mj-section>
 
