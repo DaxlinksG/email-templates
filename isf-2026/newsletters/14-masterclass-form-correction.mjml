@@ -1,0 +1,41 @@
+<mjml>
+  <mj-head>
+    <mj-title>Masterclass sign-up link is now working</mj-title>
+    <mj-preview>Sorry about the earlier link. You can register for the 5 and 12 November sessions now.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text color="#222222" font-size="16px" line-height="1.65" padding="0 36px 16px 36px" />
+    </mj-attributes>
+    <mj-style>a { color: #1E6F64; }</mj-style>
+  </mj-head>
+  <mj-body background-color="#F2F4F3" width="600px">
+    <mj-section padding="22px 0 10px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.5" color="#5E6B68" align="center" padding="0 24px">ISF Forum 2026 &middot; Saturday 28 November &middot; ICC Ibadan</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFFFFF" border-radius="6px 6px 0 0" padding="36px 0 8px 0">
+      <mj-column>
+        <mj-text>A quick correction. The sign-up link in our earlier email for the Virtual Masterclasses was not opening for some of you. That is fixed, and we are sorry for the trouble.</mj-text>
+        <mj-text>Both sessions are live on Zoom at 6:00 PM WAT: How Investors Read Your Deck on Thursday 5 November, and The Numbers That Matter on Thursday 12 November.</mj-text>
+        <mj-button href="https://docs.google.com/forms/d/e/1FAIpQLSdxDAwtyYrubnd839tW7-UhuUfAxdFs5mtvIThYTWdy_Unpxg/viewform" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="4px" inner-padding="14px 30px" align="left" padding="4px 36px 22px 36px">Register your interest</mj-button>
+        <mj-text padding="6px 36px 34px 36px">Warm regards,<br />David Adeleke<br /><span style="color:#5E6B68;">Convener, ISF Forum</span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFFFFF" border-radius="0 0 6px 6px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" border-radius="0 0 6px 6px" href="https://theisfforum.com/forum" alt="ISF Forum 2026 banner showing the Ibadan skyline" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="22px 0 30px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">ISF Forum &middot; Ibadan, Oyo State, Nigeria</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">You are receiving this email because you subscribed to updates from ISF Forum.</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px"><a href="{{UNSUBSCRIBE_URL}}" style="color:#666666;text-decoration:underline;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
