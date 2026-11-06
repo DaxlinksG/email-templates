@@ -83,6 +83,16 @@
       </mj-column>
     </mj-section>
 
+    <!-- Follow us -->
+    <mj-section background-color="#FFFFFF" padding="14px 36px 8px 36px">
+      <mj-column background-color="#0F1F1D" border-radius="6px" padding="26px 0 10px 0">
+        <mj-text font-size="13px" font-weight="700" letter-spacing="2px" color="#5CC2B1" align="center" padding="0 24px 8px 24px">STAY IN THE LOOP</mj-text>
+        <mj-text font-size="17px" line-height="1.5" color="#FFFFFF" align="center" padding="0 24px 8px 24px">Follow ISF Forum on social media for speaker announcements, masterclass reminders and everything happening in the run-up to 28 November.</mj-text>
+        <mj-button href="https://www.instagram.com/innovationandscaleforum" background-color="#F28C28" color="#0F1F1D" font-size="14px" font-weight="700" border-radius="4px" inner-padding="10px 22px" align="center" padding="8px 24px 8px 24px">Follow on Instagram</mj-button>
+        <mj-button href="https://www.linkedin.com/company/isfforum" background-color="#FFFFFF" color="#0F1F1D" font-size="14px" font-weight="700" border-radius="4px" inner-padding="10px 22px" align="center" padding="0 24px 22px 24px">Follow on LinkedIn</mj-button>
+      </mj-column>
+    </mj-section>
+
     <!-- Sign-off -->
     <mj-section background-color="#FFFFFF" padding="18px 0 8px 0">
       <mj-column>
