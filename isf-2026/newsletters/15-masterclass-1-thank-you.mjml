@@ -1,0 +1,108 @@
+<mjml>
+  <mj-head>
+    <mj-title>Thank you for joining us last night, and what's next</mj-title>
+    <mj-preview>Masterclass 2 is Thursday 12 November, and ISF Forum 2026 is on Saturday 28 November in Ibadan.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text color="#222222" font-size="16px" line-height="1.65" padding="0 36px 16px 36px" />
+    </mj-attributes>
+    <mj-style>
+      a { color: #1E6F64; }
+      @media only screen and (max-width: 480px) {
+        .hero div { font-size: 30px !important; }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#F2F4F3" width="600px">
+
+    <mj-section padding="22px 0 10px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.5" color="#5E6B68" align="center" padding="0 24px">ISF Forum 2026 &middot; Saturday 28 November &middot; ICC Ibadan</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Header -->
+    <mj-section background-color="#0F1F1D" border-radius="6px 6px 0 0" padding="38px 0 34px 0">
+      <mj-column>
+        <mj-text align="center" font-size="13px" font-weight="700" letter-spacing="3px" color="#5CC2B1" padding="0 30px 12px 30px">VIRTUAL MASTERCLASS</mj-text>
+        <mj-text css-class="hero" align="center" font-family="Georgia, 'Times New Roman', serif" font-size="38px" line-height="1.15" color="#FFFFFF" padding="0 30px 14px 30px">Thank you for joining us</mj-text>
+        <mj-text align="center" font-size="15px" line-height="1.6" color="#B9C7C4" padding="0 44px">How Investors Read Your Deck, and what comes next</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Intro -->
+    <mj-section background-color="#FFFFFF" padding="34px 0 0 0">
+      <mj-column>
+        <mj-text>Hi there,</mj-text>
+        <mj-text>Thank you for joining How Investors Read Your Deck last night. The turnout and the questions were brilliant, and a big thank you to Oladimeji Timothy, Country Director of inDrive Nigeria, for being so generous with his time.</mj-text>
+        <mj-text>Three quick things before you go back to your deck:</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- 1 -->
+    <mj-section background-color="#FFFFFF" padding="4px 36px 12px 36px">
+      <mj-column background-color="#EEF6F4" border-radius="6px" padding="22px 0 6px 0">
+        <mj-text font-size="13px" font-weight="700" letter-spacing="1px" color="#1E6F64" padding="0 24px 6px 24px">1. KEEP THE MOMENTUM GOING</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 8px 24px">Our second masterclass is on <strong>Thursday 12 November at 6:00 PM WAT</strong>:</mj-text>
+        <mj-text font-size="19px" line-height="1.35" font-weight="700" color="#0F1F1D" padding="0 24px 6px 24px">The Numbers That Matter: Traction, Unit Economics and Your Funding Ask</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 10px 24px">With Yvonne-Faith Elaigwu, Head of Operations and Governance, OnePipe.</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 16px 24px">If last night was about how investors read your deck, this one is about the numbers they look for inside it. You're already registered, so look out for the link next week.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- 2 -->
+    <mj-section background-color="#FFFFFF" padding="0 36px 12px 36px">
+      <mj-column background-color="#EEF6F4" border-radius="6px" padding="22px 0 6px 0">
+        <mj-text font-size="13px" font-weight="700" letter-spacing="1px" color="#1E6F64" padding="0 24px 6px 24px">2. PUT IT TO WORK IN THE ROOM</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 10px 24px">On <strong>Saturday 28 November</strong>, ISF Forum 2026 brings founders, investors and government together at the International Conference Centre, Ibadan, jointly convened with the Oyo State Government. You'll find:</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 8px 24px">&bull;&nbsp; <strong>Deck Teardown:</strong> real founder decks rebuilt live by investors including Satoshi Shinada (Verod-Kepple Africa Ventures) and Babatunde Akin-Moses (Sycamore)</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 8px 24px">&bull;&nbsp; <strong>Funding Your Next 12 Months:</strong> every kind of money open to your business this year</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 8px 24px">&bull;&nbsp; <strong>A Deal Room</strong> where founders meet investors one on one</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 16px 24px">&bull;&nbsp; <strong>Speakers</strong> including Kashifu Inuwa Abdullahi (DG, NITDA) and Chika Nwosu (MD, PalmPay)</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="6px 0 0 0">
+      <mj-column>
+        <mj-text>Basic passes start at &#8358;5,000.</mj-text>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="4px" inner-padding="14px 30px" align="left" padding="4px 36px 26px 36px">Get your pass</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- 3 -->
+    <mj-section background-color="#FFFFFF" padding="0 36px 8px 36px">
+      <mj-column background-color="#EEF6F4" border-radius="6px" padding="22px 0 6px 0">
+        <mj-text font-size="13px" font-weight="700" letter-spacing="1px" color="#1E6F64" padding="0 24px 6px 24px">3. BRING A FOUNDER</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 16px 24px">If someone you know is raising, forward them this email so they can join us on 12 November.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Sign-off -->
+    <mj-section background-color="#FFFFFF" padding="18px 0 8px 0">
+      <mj-column>
+        <mj-text>See you next Thursday, and in Ibadan.</mj-text>
+        <mj-text padding="6px 36px 34px 36px">Warm regards,<br />David Adeleke<br /><span style="color:#5E6B68;">Convener, ISF Forum 2026<br />david@theisfforum.com</span></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- FIXED BOTTOM: Ibadan banner -->
+    <mj-section background-color="#FFFFFF" border-radius="0 0 6px 6px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" border-radius="0 0 6px 6px" href="https://theisfforum.com/forum" alt="ISF Forum 2026 banner showing the Ibadan skyline" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="22px 0 30px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">ISF Forum &middot; Ibadan, Oyo State, Nigeria</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">You are receiving this email because you registered for an ISF Forum Virtual Masterclass.</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px"><a href="{{UNSUBSCRIBE_URL}}" style="color:#666666;text-decoration:underline;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
