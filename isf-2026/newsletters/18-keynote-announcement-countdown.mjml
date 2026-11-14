@@ -1,0 +1,115 @@
+<mjml>
+  <mj-head>
+    <mj-title>14 days to ISF Forum: meet our keynote speaker</mj-title>
+    <mj-preview>Hon. Bimbo Adekanmbi FCCA is our keynote speaker. Here is how to get ready for 28 November.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text color="#222222" font-size="16px" line-height="1.65" padding="0 36px 16px 36px" />
+    </mj-attributes>
+    <mj-style>
+      a { color: #1E6F64; }
+      @media only screen and (max-width: 480px) {
+        .count div { font-size: 96px !important; }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#F2F4F3" width="600px">
+
+    <mj-section padding="22px 0 10px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.5" color="#5E6B68" align="center" padding="0 24px">ISF Forum 2026 &middot; Saturday 28 November &middot; ICC Ibadan</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Countdown -->
+    <mj-section background-color="#0F1F1D" border-radius="6px 6px 0 0" padding="38px 0 34px 0">
+      <mj-column>
+        <mj-text align="center" font-size="13px" font-weight="700" letter-spacing="3px" color="#5CC2B1" padding="0 30px 6px 30px">THE COUNTDOWN IS ON</mj-text>
+        <mj-text css-class="count" align="center" font-family="Georgia, 'Times New Roman', serif" font-size="120px" line-height="1" color="#F28C28" padding="0 30px 4px 30px">14</mj-text>
+        <mj-text align="center" font-family="Georgia, 'Times New Roman', serif" font-size="26px" line-height="1.2" color="#FFFFFF" padding="0 30px 16px 30px">days to Ibadan</mj-text>
+        <mj-divider border-color="#2F988A" border-width="3px" width="56px" padding="0 0 16px 0" />
+        <mj-text align="center" font-size="15px" line-height="1.6" color="#B9C7C4" padding="0 40px">Saturday 28 November &middot; International Conference Centre, Ibadan</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Keynote hero -->
+    <mj-section background-color="#FFFFFF" padding="32px 36px 8px 36px">
+      <mj-column>
+        <mj-text font-size="13px" font-weight="700" letter-spacing="2px" color="#1E6F64" padding="0 0 8px 0">KEYNOTE SPEAKER ANNOUNCED</mj-text>
+        <mj-text font-family="Georgia, 'Times New Roman', serif" font-size="28px" line-height="1.25" color="#0F1F1D" padding="0 0 16px 0">Hon. Bimbo Adekanmbi, FCCA, will deliver the keynote</mj-text>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/8eeb61c8626e3356d8a8e267a4251ba393bf5df7/isf-2026/keynote-nov/keynote-bimbo-adekanmbi.jpg" width="400px" border-radius="6px" align="center" href="https://theisfforum.com/forum" alt="Keynote speaker Hon. Bimbo Adekanmbi, FCCA, at ISF Forum 2026, 28 November, International Conference Centre, Ibadan." />
+      </mj-column>
+    </mj-section>
+
+    <!-- Bio -->
+    <mj-section background-color="#FFFFFF" padding="22px 0 6px 0">
+      <mj-column>
+        <mj-text>We are pleased to announce Hon. Abimbola (Bimbo) Adekanmbi as keynote speaker at ISF Forum 2026. A chartered accountant and public administrator, he previously served as Oyo State's Deputy Chief of Staff and Commissioner for Finance, Budget and Planning, with a career spanning international consulting and senior public service.</mj-text>
+        <mj-text>He is a passionate advocate for economic diversification, youth empowerment and business-friendly environments that prepare local talent to compete globally. If you are building a business in Nigeria, this is a keynote to hear in person.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Get ready -->
+    <mj-section background-color="#FFFFFF" padding="8px 36px 14px 36px">
+      <mj-column background-color="#EEF6F4" border-radius="6px" padding="22px 0 8px 0">
+        <mj-text font-size="13px" font-weight="700" letter-spacing="1px" color="#1E6F64" padding="0 24px 10px 24px">START GETTING READY</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 10px 24px"><strong>1. Get your pass.</strong> Basic passes start at &#8358;5,000 and General Admission is &#8358;15,000.</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 10px 24px"><strong>2. Plan your trip.</strong> Coming from Lagos? Book your train now. The 7:15 AM train on Saturday is the one to catch, and we will handle your transport between Moniya Station and the venue, both ways.</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 10px 24px"><strong>3. Bring your questions.</strong> Think about what you want to ask the regulators, the investors and the speakers, and bring your cards and your one-line pitch.</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 16px 24px"><strong>4. Pitching?</strong> Pitch Battle applications close tomorrow, Sunday 15 November.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="6px 0 8px 0">
+      <mj-column>
+        <mj-button href="https://theisfforum.com" background-color="#F28C28" color="#0F1F1D" font-size="17px" font-weight="700" border-radius="4px" inner-padding="15px 34px" align="center" padding="8px 36px 16px 36px">Get my pass</mj-button>
+        <mj-button href="https://theisfforum.com/pitch" background-color="#1E6F64" color="#FFFFFF" font-size="14px" font-weight="700" border-radius="4px" inner-padding="10px 22px" align="center" padding="0 36px 22px 36px">Apply to pitch</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Bio poster -->
+    <mj-section background-color="#FFFFFF" padding="0 36px 18px 36px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/8eeb61c8626e3356d8a8e267a4251ba393bf5df7/isf-2026/keynote-nov/keynote-bimbo-bio.jpg" width="400px" border-radius="6px" align="center" href="https://theisfforum.com/forum" alt="Meet our speaker: a profile of Hon. Bimbo Adekanmbi, FCCA, keynote speaker at ISF Forum 2026, 28 November 2026, ICC Ibadan." />
+      </mj-column>
+    </mj-section>
+
+    <!-- Follow us -->
+    <mj-section background-color="#FFFFFF" padding="0 36px 8px 36px">
+      <mj-column background-color="#0F1F1D" border-radius="6px" padding="24px 0 8px 0">
+        <mj-text font-size="13px" font-weight="700" letter-spacing="2px" color="#5CC2B1" align="center" padding="0 24px 8px 24px">STAY IN THE LOOP</mj-text>
+        <mj-text font-size="16px" line-height="1.5" color="#FFFFFF" align="center" padding="0 24px 6px 24px">Follow ISF Forum for speaker announcements and updates in the run-up to 28 November.</mj-text>
+        <mj-button href="https://www.instagram.com/innovationandscaleforum" background-color="#F28C28" color="#0F1F1D" font-size="14px" font-weight="700" border-radius="4px" inner-padding="10px 22px" align="center" padding="8px 24px 8px 24px">Follow on Instagram</mj-button>
+        <mj-button href="https://www.linkedin.com/company/isfforum" background-color="#FFFFFF" color="#0F1F1D" font-size="14px" font-weight="700" border-radius="4px" inner-padding="10px 22px" align="center" padding="0 24px 22px 24px">Follow on LinkedIn</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Sign-off -->
+    <mj-section background-color="#FFFFFF" padding="18px 0 8px 0">
+      <mj-column>
+        <mj-text>Forward this to a founder who should be in the room.</mj-text>
+        <mj-text padding="6px 36px 34px 36px">See you in Ibadan,<br />David Adeleke<br /><span style="color:#5E6B68;">Convener, ISF Forum 2026</span></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- FIXED BOTTOM: Ibadan banner -->
+    <mj-section background-color="#FFFFFF" border-radius="0 0 6px 6px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" border-radius="0 0 6px 6px" href="https://theisfforum.com/forum" alt="ISF Forum 2026 banner showing the Ibadan skyline" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="22px 0 30px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">ISF Forum &middot; Ibadan, Oyo State, Nigeria</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">You are receiving this email because you subscribed to updates from ISF Forum.</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px"><a href="{{UNSUBSCRIBE_URL}}" style="color:#666666;text-decoration:underline;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
