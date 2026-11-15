@@ -45,15 +45,57 @@
     </mj-section>
 
     <!-- Halls -->
-    <mj-section background-color="#FFFFFF" padding="0 36px 12px 36px">
-      <mj-column background-color="#EEF6F4" border-radius="6px" padding="22px 0 8px 0">
-        <mj-text font-size="13px" font-weight="700" letter-spacing="1px" color="#1E6F64" padding="0 24px 12px 24px">FIVE HALLS, RUNNING AT THE SAME TIME</mj-text>
-        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 12px 24px"><strong>Thomas Hall: the main stage.</strong><br />Keynotes, the big panels, and the Pitch Battle Final, where the top founders pitch live in front of the whole Forum.</mj-text>
-        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 12px 24px"><strong>Omolayole Hall: Build and Fund.</strong><br />Deck Teardown, where investors take real pitch decks apart<br />Funding Your Next 12 Months<br />The Creator Economy<br />Don't Get Hacked, with a live breach drill<br />Selling Beyond Nigeria</mj-text>
-        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 12px 24px"><strong>Ogunlana Hall: AI and Digital.</strong><br />Energy as a Growth Strategy<br />AI on Monday, with tools you can use this week<br />Ask the Regulators<br />Fail Forward</mj-text>
-        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 12px 24px"><strong>Onosode Hall: hands-on.</strong><br />Fix My Startup Live<br />Talent Without Borders<br />Agritech: From Farm to Phone to Market</mj-text>
-        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 12px 24px"><strong>Aganga Hall: founders' room.</strong><br />The Pitch Battle<br />A legal masterclass on getting investor-ready<br />The Deal Room, where founders meet investors</mj-text>
-        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 16px 24px"><strong>The Gallery.</strong><br />The exhibition all day, and a legal clinic at no cost for founders and small businesses.</mj-text>
+    <mj-section background-color="#FFFFFF" padding="8px 0 0 0">
+      <mj-column>
+        <mj-text font-size="13px" font-weight="700" letter-spacing="1px" color="#1E6F64" padding="0 36px 12px 36px">FIVE HALLS, RUNNING AT THE SAME TIME</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0 36px 10px 36px">
+      <mj-column background-color="#0F1F1D" border-left="4px solid #F28C28" border-radius="6px" padding="16px 0 8px 0">
+        <mj-text font-size="11px" font-weight="700" letter-spacing="1.5px" line-height="1.4" color="#5CC2B1" padding="0 20px 4px 20px">MAIN STAGE</mj-text>
+        <mj-text font-size="18px" font-weight="700" line-height="1.3" color="#FFFFFF" padding="0 20px 6px 20px">Thomas Hall</mj-text>
+        <mj-text font-size="14px" line-height="1.65" color="#D5E2DF" padding="0 20px 8px 20px">Keynotes, the big panels, and the Pitch Battle Final, where the top founders pitch live in front of the whole Forum.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0 36px 10px 36px">
+      <mj-column background-color="#EEF6F4" border-left="4px solid #2F988A" border-radius="6px" padding="16px 0 8px 0">
+        <mj-text font-size="11px" font-weight="700" letter-spacing="1.5px" line-height="1.4" color="#1E6F64" padding="0 20px 4px 20px">BUILD AND FUND</mj-text>
+        <mj-text font-size="18px" font-weight="700" line-height="1.3" color="#0F1F1D" padding="0 20px 6px 20px">Omolayole Hall</mj-text>
+        <mj-text font-size="14px" line-height="1.65" color="#3E4B48" padding="0 20px 8px 20px"><span style="display:inline-block;background:#FFFFFF;border:1px solid #CFE4DF;border-radius:14px;padding:4px 11px;margin:0 6px 6px 0;font-size:13px;line-height:1.4;color:#1F3A36;">Deck Teardown, where investors take real decks apart</span><span style="display:inline-block;background:#FFFFFF;border:1px solid #CFE4DF;border-radius:14px;padding:4px 11px;margin:0 6px 6px 0;font-size:13px;line-height:1.4;color:#1F3A36;">Funding Your Next 12 Months</span><span style="display:inline-block;background:#FFFFFF;border:1px solid #CFE4DF;border-radius:14px;padding:4px 11px;margin:0 6px 6px 0;font-size:13px;line-height:1.4;color:#1F3A36;">The Creator Economy</span><span style="display:inline-block;background:#FFFFFF;border:1px solid #CFE4DF;border-radius:14px;padding:4px 11px;margin:0 6px 6px 0;font-size:13px;line-height:1.4;color:#1F3A36;">Don't Get Hacked, with a live breach drill</span><span style="display:inline-block;background:#FFFFFF;border:1px solid #CFE4DF;border-radius:14px;padding:4px 11px;margin:0 6px 6px 0;font-size:13px;line-height:1.4;color:#1F3A36;">Selling Beyond Nigeria</span></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0 36px 10px 36px">
+      <mj-column background-color="#EEF6F4" border-left="4px solid #2F988A" border-radius="6px" padding="16px 0 8px 0">
+        <mj-text font-size="11px" font-weight="700" letter-spacing="1.5px" line-height="1.4" color="#1E6F64" padding="0 20px 4px 20px">AI AND DIGITAL</mj-text>
+        <mj-text font-size="18px" font-weight="700" line-height="1.3" color="#0F1F1D" padding="0 20px 6px 20px">Ogunlana Hall</mj-text>
+        <mj-text font-size="14px" line-height="1.65" color="#3E4B48" padding="0 20px 8px 20px"><span style="display:inline-block;background:#FFFFFF;border:1px solid #CFE4DF;border-radius:14px;padding:4px 11px;margin:0 6px 6px 0;font-size:13px;line-height:1.4;color:#1F3A36;">Energy as a Growth Strategy</span><span style="display:inline-block;background:#FFFFFF;border:1px solid #CFE4DF;border-radius:14px;padding:4px 11px;margin:0 6px 6px 0;font-size:13px;line-height:1.4;color:#1F3A36;">AI on Monday, with tools you can use this week</span><span style="display:inline-block;background:#FFFFFF;border:1px solid #CFE4DF;border-radius:14px;padding:4px 11px;margin:0 6px 6px 0;font-size:13px;line-height:1.4;color:#1F3A36;">Ask the Regulators</span><span style="display:inline-block;background:#FFFFFF;border:1px solid #CFE4DF;border-radius:14px;padding:4px 11px;margin:0 6px 6px 0;font-size:13px;line-height:1.4;color:#1F3A36;">Fail Forward</span></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0 36px 10px 36px">
+      <mj-column background-color="#EEF6F4" border-left="4px solid #2F988A" border-radius="6px" padding="16px 0 8px 0">
+        <mj-text font-size="11px" font-weight="700" letter-spacing="1.5px" line-height="1.4" color="#1E6F64" padding="0 20px 4px 20px">HANDS-ON</mj-text>
+        <mj-text font-size="18px" font-weight="700" line-height="1.3" color="#0F1F1D" padding="0 20px 6px 20px">Onosode Hall</mj-text>
+        <mj-text font-size="14px" line-height="1.65" color="#3E4B48" padding="0 20px 8px 20px"><span style="display:inline-block;background:#FFFFFF;border:1px solid #CFE4DF;border-radius:14px;padding:4px 11px;margin:0 6px 6px 0;font-size:13px;line-height:1.4;color:#1F3A36;">Fix My Startup Live</span><span style="display:inline-block;background:#FFFFFF;border:1px solid #CFE4DF;border-radius:14px;padding:4px 11px;margin:0 6px 6px 0;font-size:13px;line-height:1.4;color:#1F3A36;">Talent Without Borders</span><span style="display:inline-block;background:#FFFFFF;border:1px solid #CFE4DF;border-radius:14px;padding:4px 11px;margin:0 6px 6px 0;font-size:13px;line-height:1.4;color:#1F3A36;">Agritech: From Farm to Phone to Market</span></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0 36px 10px 36px">
+      <mj-column background-color="#EEF6F4" border-left="4px solid #2F988A" border-radius="6px" padding="16px 0 8px 0">
+        <mj-text font-size="11px" font-weight="700" letter-spacing="1.5px" line-height="1.4" color="#1E6F64" padding="0 20px 4px 20px">FOUNDERS' ROOM</mj-text>
+        <mj-text font-size="18px" font-weight="700" line-height="1.3" color="#0F1F1D" padding="0 20px 6px 20px">Aganga Hall</mj-text>
+        <mj-text font-size="14px" line-height="1.65" color="#3E4B48" padding="0 20px 8px 20px"><span style="display:inline-block;background:#FFFFFF;border:1px solid #CFE4DF;border-radius:14px;padding:4px 11px;margin:0 6px 6px 0;font-size:13px;line-height:1.4;color:#1F3A36;">The Pitch Battle</span><span style="display:inline-block;background:#FFFFFF;border:1px solid #CFE4DF;border-radius:14px;padding:4px 11px;margin:0 6px 6px 0;font-size:13px;line-height:1.4;color:#1F3A36;">A legal masterclass on getting investor-ready</span><span style="display:inline-block;background:#FFFFFF;border:1px solid #CFE4DF;border-radius:14px;padding:4px 11px;margin:0 6px 6px 0;font-size:13px;line-height:1.4;color:#1F3A36;">The Deal Room, where founders meet investors</span></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0 36px 10px 36px">
+      <mj-column background-color="#EEF6F4" border-left="4px solid #2F988A" border-radius="6px" padding="16px 0 8px 0">
+        <mj-text font-size="11px" font-weight="700" letter-spacing="1.5px" line-height="1.4" color="#1E6F64" padding="0 20px 4px 20px">ALL DAY</mj-text>
+        <mj-text font-size="18px" font-weight="700" line-height="1.3" color="#0F1F1D" padding="0 20px 6px 20px">The Gallery</mj-text>
+        <mj-text font-size="14px" line-height="1.65" color="#3E4B48" padding="0 20px 8px 20px">The exhibition, plus a legal clinic at no cost for founders and small businesses.</mj-text>
       </mj-column>
     </mj-section>
 
