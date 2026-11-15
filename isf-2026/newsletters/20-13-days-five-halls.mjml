@@ -1,0 +1,97 @@
+<mjml>
+  <mj-head>
+    <mj-title>Happy Sunday. 13 days to ISF Forum 2026</mj-title>
+    <mj-preview>Five halls, one day, and the full agenda lands this week.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text color="#222222" font-size="16px" line-height="1.65" padding="0 36px 16px 36px" />
+    </mj-attributes>
+    <mj-style>
+      a { color: #1E6F64; }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#F2F4F3" width="600px">
+
+    <mj-section padding="22px 0 10px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.5" color="#5E6B68" align="center" padding="0 24px">ISF Forum 2026 &middot; Saturday 28 November &middot; ICC Ibadan</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Countdown animation -->
+    <mj-section background-color="#FFFFFF" border-radius="6px 6px 0 0" padding="0">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/80943cb04bf09c68d007184b2d3a02324922fae7/isf-2026/countdown-nov/isf-13-days-countdown.gif" width="420px" align="center" border-radius="6px 6px 0 0" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" alt="ISF Forum 2026: 13 days to go. Saturday 28 November 2026, International Conference Centre, Ibadan, Oyo State." />
+      </mj-column>
+    </mj-section>
+
+    <!-- Main button above the fold -->
+    <mj-section background-color="#FFFFFF" padding="22px 0 6px 0">
+      <mj-column>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#F28C28" color="#0F1F1D" font-size="17px" font-weight="700" border-radius="4px" inner-padding="15px 34px" align="center" padding="0 36px 18px 36px">Get my pass</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Intro -->
+    <mj-section background-color="#FFFFFF" padding="0">
+      <mj-column>
+        <mj-text>Happy Sunday from the ISF team.</mj-text>
+        <mj-text>We are 13 days from Saturday 28 November at the International Conference Centre (ICC), Ibadan, and the programme is nearly locked. The full agenda goes out later this week. One day will not be enough to see all of it, so start planning your route now.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Halls -->
+    <mj-section background-color="#FFFFFF" padding="0 36px 12px 36px">
+      <mj-column background-color="#EEF6F4" border-radius="6px" padding="22px 0 8px 0">
+        <mj-text font-size="13px" font-weight="700" letter-spacing="1px" color="#1E6F64" padding="0 24px 12px 24px">FIVE HALLS, RUNNING AT THE SAME TIME</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 12px 24px"><strong>Thomas Hall: the main stage.</strong><br />Keynotes, the big panels, and the Pitch Battle Final, where the top founders pitch live in front of the whole Forum.</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 12px 24px"><strong>Omolayole Hall: Build and Fund.</strong><br />Deck Teardown, where investors take real pitch decks apart<br />Funding Your Next 12 Months<br />The Creator Economy<br />Don't Get Hacked, with a live breach drill<br />Selling Beyond Nigeria</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 12px 24px"><strong>Ogunlana Hall: AI and Digital.</strong><br />Energy as a Growth Strategy<br />AI on Monday, with tools you can use this week<br />Ask the Regulators<br />Fail Forward</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 12px 24px"><strong>Onosode Hall: hands-on.</strong><br />Fix My Startup Live<br />Talent Without Borders<br />Agritech: From Farm to Phone to Market</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 12px 24px"><strong>Aganga Hall: founders' room.</strong><br />The Pitch Battle<br />A legal masterclass on getting investor-ready<br />The Deal Room, where founders meet investors</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 16px 24px"><strong>The Gallery.</strong><br />The exhibition all day, and a legal clinic at no cost for founders and small businesses.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Evening -->
+    <mj-section background-color="#0F1F1D" padding="26px 0 10px 0">
+      <mj-column>
+        <mj-text font-size="13px" font-weight="700" letter-spacing="2px" color="#5CC2B1" padding="0 36px 8px 36px">IN THE EVENING</mj-text>
+        <mj-text font-size="16px" line-height="1.6" color="#FFFFFF" padding="0 36px 16px 36px">The Scale Without Borders Award Gala and Dinner, by invitation, from 6:00 PM.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Pitch Battle last call -->
+    <mj-section background-color="#FFFFFF" padding="26px 0 6px 0">
+      <mj-column>
+        <mj-text><strong>Pitch Battle applications close tonight.</strong> If you have been meaning to apply, this is the last call. <a href="https://theisfforum.com/pitch" style="color:#1E6F64;text-decoration:underline;">Apply here</a>.</mj-text>
+        <mj-text>Basic passes start at &#8358;5,000 and General Admission is &#8358;15,000.</mj-text>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="4px" inner-padding="14px 32px" align="center" padding="4px 36px 20px 36px">Get my pass</mj-button>
+        <mj-text>Bring your team, and forward this to the founder who needs to be in these rooms.</mj-text>
+        <mj-text padding="6px 36px 34px 36px">See you in Ibadan,<br />The ISF Forum 2026 team</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- FIXED BOTTOM: Ibadan banner -->
+    <mj-section background-color="#FFFFFF" border-radius="0 0 6px 6px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" border-radius="0 0 6px 6px" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" alt="ISF Forum 2026 banner showing the Ibadan skyline" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section padding="22px 0 30px 0">
+      <mj-column>
+        <mj-text font-size="13px" line-height="1.6" color="#666666" align="center" padding="0 32px 8px 32px">Follow us: <a href="https://www.instagram.com/innovationandscaleforum" style="color:#1E6F64;">Instagram</a> &middot; <a href="https://www.linkedin.com/company/isfforum" style="color:#1E6F64;">LinkedIn</a></mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">ISF Forum &middot; Ibadan, Oyo State, Nigeria</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">You are receiving this email because you subscribed to updates from ISF Forum.</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px"><a href="{{UNSUBSCRIBE_URL}}" style="color:#666666;text-decoration:underline;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
