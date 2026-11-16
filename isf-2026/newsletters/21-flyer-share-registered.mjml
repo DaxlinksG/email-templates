@@ -10,28 +10,36 @@
       <mj-text color="#222222" font-size="16px" line-height="1.65" padding="0 36px 16px 36px" />
     </mj-attributes>
     <mj-style>
-      a { color: #1E6F64; }
+      a { color: #B83C27; }
       @media only screen and (max-width: 480px) {
-        .hero div { font-size: 30px !important; }
+        .hero div { font-size: 31px !important; }
       }
     </mj-style>
   </mj-head>
 
-  <mj-body background-color="#F2F4F3" width="600px">
+  <mj-body background-color="#F5F5F5" width="600px">
 
     <mj-section padding="22px 0 10px 0">
       <mj-column>
-        <mj-text font-size="12px" line-height="1.5" color="#5E6B68" align="center" padding="0 24px">ISF Forum 2026 &middot; Saturday 28 November &middot; ICC Ibadan</mj-text>
+        <mj-text font-size="12px" line-height="1.5" color="#6B6B6B" align="center" padding="0 24px">ISF Forum 2026 &middot; Saturday 28 November &middot; ICC Ibadan</mj-text>
       </mj-column>
     </mj-section>
 
     <!-- Hero -->
-    <mj-section background-color="#0F1F1D" border-radius="6px 6px 0 0" padding="40px 0 12px 0">
+    <mj-section background-color="#FFFFFF" border-radius="6px 6px 0 0" padding="38px 0 8px 0">
       <mj-column>
-        <mj-text align="center" font-size="13px" font-weight="700" letter-spacing="3px" color="#5CC2B1" padding="0 30px 14px 30px">A VERY SMALL FAVOUR</mj-text>
-        <mj-text css-class="hero" align="center" font-family="Georgia, 'Times New Roman', serif" font-size="38px" line-height="1.15" color="#FFFFFF" padding="0 30px 14px 30px">Your face. Our flyer. <span style="color:#F28C28;">Your whole feed jealous.</span></mj-text>
-        <mj-text align="center" font-size="16px" line-height="1.6" color="#B9C7C4" padding="0 40px 22px 40px">No design skills needed. No Canva. No asking a friend to resize it.</mj-text>
-        <mj-button href="https://theisfforum.com/flyer" background-color="#F28C28" color="#0F1F1D" font-size="17px" font-weight="700" border-radius="4px" inner-padding="15px 34px" align="center" padding="0 36px 30px 36px">Put my face on it</mj-button>
+        <mj-text align="center" font-size="12px" font-weight="700" letter-spacing="1.5px" line-height="1" padding="0 30px 18px 30px"><span style="background:#D0442D;color:#FFFFFF;padding:7px 12px;display:inline-block;">I'M ATTENDING</span></mj-text>
+        <mj-text css-class="hero" align="center" font-size="38px" font-weight="700" line-height="1.12" color="#141414" padding="0 28px 14px 28px">Your face. Our flyer.<br /><span style="color:#B83C27;">Your whole feed jealous.</span></mj-text>
+        <mj-text align="center" font-size="16px" line-height="1.6" color="#555555" padding="0 40px 22px 40px">No design skills. No Canva. No asking a friend to resize it.</mj-text>
+        <mj-button href="https://theisfforum.com/flyer" background-color="#B83C27" color="#FFFFFF" font-size="17px" font-weight="700" border-radius="6px" inner-padding="16px 36px" align="center" padding="0 36px 28px 36px">Put my face on it</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Flyer example -->
+    <mj-section background-color="#EDEDED" padding="26px 0 8px 0">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/d445e774325bbc10dd091c61a6784cb296f9525d/isf-2026/flyer-nov/flyer-example.jpg" width="330px" align="center" href="https://theisfforum.com/flyer" alt="Example attendee flyer: See you in Ibadan. I'm attending ISF Forum 2026, with the attendee's photo, name and role, Saturday 28 November 2026, International Conference Centre, Ibadan." />
+        <mj-text align="center" font-size="14px" line-height="1.5" color="#555555" padding="14px 30px 22px 30px">Here is mine. It took about a minute.</mj-text>
       </mj-column>
     </mj-section>
 
@@ -39,34 +47,31 @@
     <mj-section background-color="#FFFFFF" padding="32px 0 0 0">
       <mj-column>
         <mj-text>Hi there,</mj-text>
-        <mj-text>You registered for ISF Forum 2026. Excellent decision. The only thing missing now is proof.</mj-text>
-        <mj-text>So we built a page where you become the poster. Your photo, your name, front and centre, ready to post. Here is the whole process:</mj-text>
+        <mj-text>You registered for ISF Forum 2026. Excellent decision. The only thing missing now is proof. Here is how to get yours:</mj-text>
       </mj-column>
     </mj-section>
 
-    <!-- Steps -->
-    <mj-section background-color="#FFFFFF" padding="0 36px 12px 36px">
-      <mj-column background-color="#EEF6F4" border-left="4px solid #F28C28" border-radius="6px" padding="18px 0 6px 0">
-        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 20px 12px 20px"><strong style="color:#0F1F1D;">1. Pick a photo.</strong> Your best one. We will not judge the other 400. It stays on your device.</mj-text>
-        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 20px 12px 20px"><strong style="color:#0F1F1D;">2. Type your name.</strong> Add your role or company for extra swagger.</mj-text>
-        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 20px 12px 20px"><strong style="color:#0F1F1D;">3. Download it and copy the caption.</strong> We wrote it so you do not have to stare at a blinking cursor.</mj-text>
+    <!-- How to -->
+    <mj-section background-color="#FFFFFF" padding="0 36px 8px 36px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/d445e774325bbc10dd091c61a6784cb296f9525d/isf-2026/flyer-nov/flyer-how-to.png" width="520px" align="center" border-radius="6px" href="https://theisfforum.com/flyer" alt="How it works. Step 1: add your photo. Step 2: type your name and, if you like, your role or company. Step 3: tap Download my flyer, or Share flyer." />
       </mj-column>
     </mj-section>
 
     <!-- Ask -->
-    <mj-section background-color="#FFFFFF" padding="6px 0 0 0">
+    <mj-section background-color="#FFFFFF" padding="14px 0 0 0">
       <mj-column>
-        <mj-text>Then post it everywhere: LinkedIn, Instagram, WhatsApp status, the family group that never replies. Tag us on <a href="https://www.instagram.com/innovationandscaleforum" style="color:#1E6F64;text-decoration:underline;">Instagram</a> or <a href="https://www.linkedin.com/company/isfforum" style="color:#1E6F64;text-decoration:underline;">LinkedIn</a> so we can cheer you on.</mj-text>
-        <mj-button href="https://theisfforum.com/flyer" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="4px" inner-padding="14px 32px" align="center" padding="4px 36px 22px 36px">Make my flyer</mj-button>
+        <mj-text>There is a suggested caption on the page too, so you do not have to stare at a blinking cursor. Then post it everywhere: LinkedIn, Instagram, WhatsApp status, the family group that never replies. Tag us on <a href="https://www.instagram.com/innovationandscaleforum" style="color:#B83C27;text-decoration:underline;">Instagram</a> or <a href="https://www.linkedin.com/company/isfforum" style="color:#B83C27;text-decoration:underline;">LinkedIn</a> so we can cheer you on.</mj-text>
+        <mj-button href="https://theisfforum.com/flyer" background-color="#B83C27" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="6px" inner-padding="15px 34px" align="center" padding="4px 36px 22px 36px">Make my flyer</mj-button>
         <mj-text>P.S. Someone in your circle is still &ldquo;thinking about it&rdquo;. Seeing your flyer might be the nudge they need.</mj-text>
-        <mj-text padding="6px 36px 30px 36px">See you in Ibadan,<br />David Adeleke<br /><span style="color:#5E6B68;">Convener, ISF Forum 2026</span></mj-text>
+        <mj-text padding="6px 36px 30px 36px">See you in Ibadan,<br />David Adeleke<br /><span style="color:#6B6B6B;">Convener, ISF Forum 2026</span></mj-text>
       </mj-column>
     </mj-section>
 
-    <!-- Countdown animation -->
-    <mj-section background-color="#FFFFFF" padding="0 0 24px 0">
+    <!-- Black strip, echoing the flyer -->
+    <mj-section background-color="#141414" padding="20px 0 8px 0">
       <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/e111a0adfb0b442825b2c9f14e2fcd9f0303e4e5/isf-2026/countdown-nov/isf-12-days-countdown.gif" width="360px" align="center" border-radius="6px" href="https://theisfforum.com/flyer" alt="ISF Forum 2026: 12 days to go. Saturday 28 November 2026, International Conference Centre, Ibadan, Oyo State." />
+        <mj-text align="center" font-size="16px" line-height="1.5" color="#FFFFFF" padding="0 30px 12px 30px">Let's make the right connections.</mj-text>
       </mj-column>
     </mj-section>
 
