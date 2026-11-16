@@ -1,0 +1,90 @@
+<mjml>
+  <mj-head>
+    <mj-title>Plot twist: your face is on our flyer</mj-title>
+    <mj-preview>Add a photo, add your name, and make your whole feed jealous.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text color="#222222" font-size="16px" line-height="1.65" padding="0 36px 16px 36px" />
+    </mj-attributes>
+    <mj-style>
+      a { color: #1E6F64; }
+      @media only screen and (max-width: 480px) {
+        .hero div { font-size: 30px !important; }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#F2F4F3" width="600px">
+
+    <mj-section padding="22px 0 10px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.5" color="#5E6B68" align="center" padding="0 24px">ISF Forum 2026 &middot; Saturday 28 November &middot; ICC Ibadan</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero -->
+    <mj-section background-color="#0F1F1D" border-radius="6px 6px 0 0" padding="40px 0 12px 0">
+      <mj-column>
+        <mj-text align="center" font-size="13px" font-weight="700" letter-spacing="3px" color="#5CC2B1" padding="0 30px 14px 30px">A VERY SMALL FAVOUR</mj-text>
+        <mj-text css-class="hero" align="center" font-family="Georgia, 'Times New Roman', serif" font-size="38px" line-height="1.15" color="#FFFFFF" padding="0 30px 14px 30px">Your face. Our flyer. <span style="color:#F28C28;">Your whole feed jealous.</span></mj-text>
+        <mj-text align="center" font-size="16px" line-height="1.6" color="#B9C7C4" padding="0 40px 22px 40px">No design skills needed. No Canva. No asking a friend to resize it.</mj-text>
+        <mj-button href="https://theisfforum.com/flyer" background-color="#F28C28" color="#0F1F1D" font-size="17px" font-weight="700" border-radius="4px" inner-padding="15px 34px" align="center" padding="0 36px 30px 36px">Put my face on it</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Intro -->
+    <mj-section background-color="#FFFFFF" padding="32px 0 0 0">
+      <mj-column>
+        <mj-text>Hi there,</mj-text>
+        <mj-text>You registered for ISF Forum 2026. Excellent decision. The only thing missing now is proof.</mj-text>
+        <mj-text>So we built a page where you become the poster. Your photo, your name, front and centre, ready to post. Here is the whole process:</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Steps -->
+    <mj-section background-color="#FFFFFF" padding="0 36px 12px 36px">
+      <mj-column background-color="#EEF6F4" border-left="4px solid #F28C28" border-radius="6px" padding="18px 0 6px 0">
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 20px 12px 20px"><strong style="color:#0F1F1D;">1. Pick a photo.</strong> Your best one. We will not judge the other 400. It stays on your device.</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 20px 12px 20px"><strong style="color:#0F1F1D;">2. Type your name.</strong> Add your role or company for extra swagger.</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 20px 12px 20px"><strong style="color:#0F1F1D;">3. Download it and copy the caption.</strong> We wrote it so you do not have to stare at a blinking cursor.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Ask -->
+    <mj-section background-color="#FFFFFF" padding="6px 0 0 0">
+      <mj-column>
+        <mj-text>Then post it everywhere: LinkedIn, Instagram, WhatsApp status, the family group that never replies. Tag us on <a href="https://www.instagram.com/innovationandscaleforum" style="color:#1E6F64;text-decoration:underline;">Instagram</a> or <a href="https://www.linkedin.com/company/isfforum" style="color:#1E6F64;text-decoration:underline;">LinkedIn</a> so we can cheer you on.</mj-text>
+        <mj-button href="https://theisfforum.com/flyer" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="4px" inner-padding="14px 32px" align="center" padding="4px 36px 22px 36px">Make my flyer</mj-button>
+        <mj-text>P.S. Someone in your circle is still &ldquo;thinking about it&rdquo;. Seeing your flyer might be the nudge they need.</mj-text>
+        <mj-text padding="6px 36px 30px 36px">See you in Ibadan,<br />David Adeleke<br /><span style="color:#5E6B68;">Convener, ISF Forum 2026</span></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Countdown animation -->
+    <mj-section background-color="#FFFFFF" padding="0 0 24px 0">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/e111a0adfb0b442825b2c9f14e2fcd9f0303e4e5/isf-2026/countdown-nov/isf-12-days-countdown.gif" width="360px" align="center" border-radius="6px" href="https://theisfforum.com/flyer" alt="ISF Forum 2026: 12 days to go. Saturday 28 November 2026, International Conference Centre, Ibadan, Oyo State." />
+      </mj-column>
+    </mj-section>
+
+    <!-- FIXED BOTTOM: Ibadan banner -->
+    <mj-section background-color="#FFFFFF" border-radius="0 0 6px 6px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" border-radius="0 0 6px 6px" href="https://theisfforum.com/flyer" alt="ISF Forum 2026 banner showing the Ibadan skyline" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section padding="22px 0 30px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">ISF Forum &middot; Ibadan, Oyo State, Nigeria</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">You are receiving this email because you registered for ISF Forum 2026.</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px"><a href="{{UNSUBSCRIBE_URL}}" style="color:#666666;text-decoration:underline;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
