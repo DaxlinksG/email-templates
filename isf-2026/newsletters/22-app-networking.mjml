@@ -38,7 +38,7 @@
     <!-- App preview -->
     <mj-section background-color="#0F1F1D" padding="0">
       <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/f273579d96081bb3c7b285491a22ce498b74815e/isf-2026/app-nov/app-preview.jpg" width="600px" href="https://app.theisfforum.com" alt="The ISF Forum 2026 app on a phone. The Connect screen reads: The right people. A real conversation. Find your people before you find your seat. The home screen reads: Welcome to the Forum." />
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/b21217cdc67c7e11b4c866ea076f3d2a5265bb47/isf-2026/app-nov/app-preview.jpg" width="600px" href="https://app.theisfforum.com" alt="The ISF Forum 2026 app on a phone. The Connect screen reads: The right people. A real conversation. Find your people before you find your seat. The home screen reads: Welcome to the Forum." />
       </mj-column>
     </mj-section>
 
