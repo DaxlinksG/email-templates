@@ -1,0 +1,105 @@
+<mjml>
+  <mj-head>
+    <mj-title>Your ISF Forum ticket now comes with a network</mj-title>
+    <mj-preview>Find attendees by company, goal or interest, and say hello before the day.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text color="#222222" font-size="16px" line-height="1.65" padding="0 36px 16px 36px" />
+    </mj-attributes>
+    <mj-style>
+      a { color: #1E6F64; }
+      @media only screen and (max-width: 480px) {
+        .hero div { font-size: 31px !important; }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#F2F4F3" width="600px">
+
+    <mj-section padding="22px 0 10px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.5" color="#5E6B68" align="center" padding="0 24px">ISF Forum 2026 &middot; Saturday 28 November &middot; ICC Ibadan</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero -->
+    <mj-section background-color="#0F1F1D" border-radius="6px 6px 0 0" padding="40px 0 6px 0">
+      <mj-column>
+        <mj-text align="center" font-size="12px" font-weight="700" letter-spacing="3px" color="#5CC2B1" padding="0 30px 14px 30px">BEYOND THE BUSINESS CARD</mj-text>
+        <mj-text css-class="hero" align="center" font-size="38px" font-weight="700" line-height="1.12" color="#FFFFFF" padding="0 28px 14px 28px">Your ticket now comes with <span style="color:#F28C28;">a&nbsp;network.</span></mj-text>
+        <mj-text align="center" font-size="16px" line-height="1.6" color="#B9C7C4" padding="0 40px 24px 40px">The ISF Forum app is live. Find your people before you find your seat.</mj-text>
+        <mj-button href="https://app.theisfforum.com" background-color="#F28C28" color="#0F1F1D" font-size="17px" font-weight="700" border-radius="6px" inner-padding="16px 36px" align="center" padding="0 36px 30px 36px">Open the ISF Forum app</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- App preview -->
+    <mj-section background-color="#0F1F1D" padding="0">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/f273579d96081bb3c7b285491a22ce498b74815e/isf-2026/app-nov/app-preview.jpg" width="600px" href="https://app.theisfforum.com" alt="The ISF Forum 2026 app on a phone. The Connect screen reads: The right people. A real conversation. Find your people before you find your seat. The home screen reads: Welcome to the Forum." />
+      </mj-column>
+    </mj-section>
+
+    <!-- Intro -->
+    <mj-section background-color="#FFFFFF" padding="34px 0 0 0">
+      <mj-column>
+        <mj-text>Hi there,</mj-text>
+        <mj-text>Founders, investors and government will be in the same building on Saturday 28 November. The best conversations rarely happen by accident, so we built an app to help you plan them. Inside, you can:</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Features -->
+    <mj-section background-color="#FFFFFF" padding="0 36px 12px 36px">
+      <mj-column background-color="#EEF6F4" border-left="4px solid #2F988A" border-radius="6px" padding="18px 0 6px 0">
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 20px 12px 20px"><strong style="color:#0F1F1D;">Find attendees</strong> by company, goal or interest.</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 20px 12px 20px"><strong style="color:#0F1F1D;">Send a personal introduction,</strong> then meet at the Forum.</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 20px 12px 20px"><strong style="color:#0F1F1D;">Build your agenda</strong> across the halls and save the sessions you want.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- How to get in -->
+    <mj-section background-color="#FFFFFF" padding="6px 0 0 0">
+      <mj-column>
+        <mj-text>To get in, open the app, tap <strong>Connect</strong> and sign in with the email on your Forum ticket. No password needed. Your profile stays private until you choose to share it.</mj-text>
+        <mj-button href="https://app.theisfforum.com" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="6px" inner-padding="15px 34px" align="center" padding="4px 36px 30px 36px">Start connecting</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Flyer reminder -->
+    <mj-section background-color="#FFFFFF" padding="0 36px 8px 36px">
+      <mj-column background-color="#EEF6F4" border-radius="6px" padding="0">
+        <mj-text font-size="12px" font-weight="700" letter-spacing="1.5px" color="#1E6F64" padding="22px 24px 6px 24px">ONE MORE THING</mj-text>
+        <mj-text font-size="20px" font-weight="700" line-height="1.3" color="#0F1F1D" padding="0 24px 8px 24px">Have you made your &ldquo;I'm attending&rdquo; flyer?</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 24px 14px 24px">Add your photo and name, download it and post it. The people you want to meet will see you are coming. Tag us on <a href="https://www.instagram.com/innovationandscaleforum" style="color:#1E6F64;text-decoration:underline;">Instagram</a> or <a href="https://www.linkedin.com/company/isfforum" style="color:#1E6F64;text-decoration:underline;">LinkedIn</a>.</mj-text>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/d445e774325bbc10dd091c61a6784cb296f9525d/isf-2026/flyer-nov/flyer-example.jpg" width="230px" align="center" border-radius="6px" padding="0 24px 16px 24px" href="https://theisfforum.com/flyer" alt="Example I'm attending flyer: See you in Ibadan, with the attendee's photo, name and role, Saturday 28 November 2026." />
+        <mj-button href="https://theisfforum.com/flyer" background-color="#B83C27" color="#FFFFFF" font-size="15px" font-weight="700" border-radius="6px" inner-padding="13px 30px" align="center" padding="0 24px 26px 24px">Make my flyer</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Sign-off -->
+    <mj-section background-color="#FFFFFF" padding="18px 0 0 0">
+      <mj-column>
+        <mj-text padding="6px 36px 34px 36px">See you in Ibadan,<br />David Adeleke<br /><span style="color:#5E6B68;">Convener, ISF Forum 2026</span></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- FIXED BOTTOM: Ibadan banner -->
+    <mj-section background-color="#FFFFFF" border-radius="0 0 6px 6px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" border-radius="0 0 6px 6px" href="https://app.theisfforum.com" alt="ISF Forum 2026 banner showing the Ibadan skyline" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section padding="22px 0 30px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">ISF Forum &middot; Ibadan, Oyo State, Nigeria</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">You are receiving this email because you subscribed to updates from ISF Forum.</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px"><a href="{{UNSUBSCRIBE_URL}}" style="color:#666666;text-decoration:underline;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
