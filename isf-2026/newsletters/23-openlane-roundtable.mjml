@@ -1,0 +1,93 @@
+<mjml>
+  <mj-head>
+    <mj-title>OpenLane and ISF: a private roundtable in Ibadan</mj-title>
+    <mj-preview>By invitation. Expressions of interest are open for founders and ecosystem leaders.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text color="#222222" font-size="16px" line-height="1.65" padding="0 36px 16px 36px" />
+    </mj-attributes>
+    <mj-style>
+      a { color: #1E6F64; }
+      @media only screen and (max-width: 480px) {
+        .hero div { font-size: 29px !important; }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#F2F4F3" width="600px">
+
+    <mj-section padding="22px 0 10px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.5" color="#5E6B68" align="center" padding="0 24px">ISF Forum 2026 &middot; Saturday 28 November &middot; Ibadan</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero -->
+    <mj-section background-color="#0F1F1D" border-radius="6px 6px 0 0" padding="40px 0 12px 0">
+      <mj-column>
+        <mj-text align="center" font-size="12px" font-weight="700" letter-spacing="3px" color="#5CC2B1" padding="0 30px 14px 30px">OPENLANE &times; ISF &middot; BY INVITATION</mj-text>
+        <mj-text css-class="hero" align="center" font-size="34px" font-weight="700" line-height="1.14" color="#FFFFFF" padding="0 28px 12px 28px">International Growth Pathways.<br /><span style="color:#F28C28;">A private roundtable in&nbsp;Ibadan.</span></mj-text>
+        <mj-text align="center" font-size="16px" line-height="1.6" color="#B9C7C4" padding="0 40px 24px 40px">Saturday 28 November 2026 &middot; 2&ndash;4 pm &middot; Ibadan</mj-text>
+        <mj-button href="https://luma.com/e3m89ztl" background-color="#F28C28" color="#0F1F1D" font-size="17px" font-weight="700" border-radius="6px" inner-padding="16px 36px" align="center" padding="0 36px 32px 36px">Express your interest</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Intro -->
+    <mj-section background-color="#FFFFFF" padding="32px 0 0 0">
+      <mj-column>
+        <mj-text>Hi there,</mj-text>
+        <mj-text>POV, in collaboration with ISF Forum, is convening a private roundtable for growth-stage founders and ecosystem leaders in Ibadan and the wider South-West.</mj-text>
+        <mj-text>It is part of <strong>OpenLane</strong>, a POV initiative supported by the UK&ndash;Nigeria Tech Hub, exploring how Nigerian companies access international investment, customers and commercial partnerships, with a focus on the UK.</mj-text>
+        <mj-text>The conversation is about you: your international ambitions, your interest in the UK or the markets you are prioritising instead, and the opportunities and barriers you have met so far.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Who -->
+    <mj-section background-color="#FFFFFF" padding="0 36px 12px 36px">
+      <mj-column background-color="#EEF6F4" border-left="4px solid #2F988A" border-radius="6px" padding="20px 0 8px 0">
+        <mj-text font-size="12px" font-weight="700" letter-spacing="1.5px" color="#1E6F64" padding="0 20px 10px 20px">WHO SHOULD EXPRESS INTEREST</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 20px 12px 20px"><strong style="color:#0F1F1D;">Founders</strong> of tech-enabled companies in Ibadan with established commercial traction, preferably at least US$10,000 in monthly recurring revenue.</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 20px 12px 20px"><strong style="color:#0F1F1D;">Investors and ecosystem leaders</strong> actively supporting growth-stage companies.</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 20px 12px 20px">Priority goes to organisations with active operations in Ibadan.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- How it works -->
+    <mj-section background-color="#FFFFFF" padding="0 36px 12px 36px">
+      <mj-column background-color="#0F1F1D" border-radius="6px" padding="20px 0 8px 0">
+        <mj-text font-size="12px" font-weight="700" letter-spacing="1.5px" color="#5CC2B1" padding="0 22px 10px 22px">HOW IT WORKS</mj-text>
+        <mj-text font-size="15px" line-height="1.6" color="#FFFFFF" padding="0 22px 12px 22px">Participation is strictly by invitation. We review every expression of interest, and selected applicants are contacted directly with confirmation and venue details.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- CTA -->
+    <mj-section background-color="#FFFFFF" padding="14px 0 0 0">
+      <mj-column>
+        <mj-button href="https://luma.com/e3m89ztl" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="6px" inner-padding="15px 34px" align="center" padding="4px 36px 22px 36px">Express your interest</mj-button>
+        <mj-text>Know a founder in Ibadan who should be in this room? Forward them this email.</mj-text>
+        <mj-text padding="6px 36px 34px 36px">Warm regards,<br />The ISF Forum 2026 team</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- FIXED BOTTOM: Ibadan banner -->
+    <mj-section background-color="#FFFFFF" border-radius="0 0 6px 6px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" border-radius="0 0 6px 6px" href="https://luma.com/e3m89ztl" alt="ISF Forum 2026 banner showing the Ibadan skyline" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section padding="22px 0 30px 0">
+      <mj-column>
+        <mj-text font-size="13px" line-height="1.6" color="#666666" align="center" padding="0 32px 8px 32px">Follow us: <a href="https://www.instagram.com/innovationandscaleforum" style="color:#1E6F64;">Instagram</a> &middot; <a href="https://www.linkedin.com/company/isfforum" style="color:#1E6F64;">LinkedIn</a></mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">ISF Forum &middot; Ibadan, Oyo State, Nigeria</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">You are receiving this email because you subscribed to updates from ISF Forum.</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px"><a href="{{UNSUBSCRIBE_URL}}" style="color:#666666;text-decoration:underline;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
