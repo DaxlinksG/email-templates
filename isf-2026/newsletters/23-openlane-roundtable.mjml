@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
-    <mj-title>OpenLane and ISF: a private roundtable in Ibadan</mj-title>
-    <mj-preview>By invitation. Expressions of interest are open for founders and ecosystem leaders.</mj-preview>
+    <mj-title>Where does your growth go next?</mj-title>
+    <mj-preview>By invitation. Saturday 28 November, 2 to 4 pm, Ibadan. Express your interest.</mj-preview>
     <mj-attributes>
       <mj-all font-family="Arial, Helvetica, sans-serif" />
       <mj-section padding="0px" />
@@ -12,7 +12,8 @@
     <mj-style>
       a { color: #1E6F64; }
       @media only screen and (max-width: 480px) {
-        .hero div { font-size: 29px !important; }
+        .hero div { font-size: 32px !important; }
+        .tilev div { font-size: 19px !important; }
       }
     </mj-style>
   </mj-head>
@@ -26,12 +27,42 @@
     </mj-section>
 
     <!-- Hero -->
-    <mj-section background-color="#0F1F1D" border-radius="6px 6px 0 0" padding="40px 0 12px 0">
+    <mj-section background-color="#0F1F1D" border-radius="6px 6px 0 0" padding="40px 0 6px 0">
       <mj-column>
-        <mj-text align="center" font-size="12px" font-weight="700" letter-spacing="3px" color="#5CC2B1" padding="0 30px 14px 30px">OPENLANE &times; ISF &middot; BY INVITATION</mj-text>
-        <mj-text css-class="hero" align="center" font-size="34px" font-weight="700" line-height="1.14" color="#FFFFFF" padding="0 28px 12px 28px">International Growth Pathways.<br /><span style="color:#F28C28;">A private roundtable in&nbsp;Ibadan.</span></mj-text>
-        <mj-text align="center" font-size="16px" line-height="1.6" color="#B9C7C4" padding="0 40px 24px 40px">Saturday 28 November 2026 &middot; 2&ndash;4 pm &middot; Ibadan</mj-text>
-        <mj-button href="https://luma.com/e3m89ztl" background-color="#F28C28" color="#0F1F1D" font-size="17px" font-weight="700" border-radius="6px" inner-padding="16px 36px" align="center" padding="0 36px 32px 36px">Express your interest</mj-button>
+        <mj-text align="center" font-size="12px" font-weight="700" letter-spacing="3px" color="#5CC2B1" padding="0 30px 14px 30px">BY INVITATION ONLY</mj-text>
+        <mj-text css-class="hero" align="center" font-size="40px" font-weight="700" line-height="1.1" color="#FFFFFF" padding="0 28px 14px 28px">Where does your growth go <span style="color:#F28C28;">next?</span></mj-text>
+        <mj-text align="center" font-size="16px" line-height="1.6" color="#B9C7C4" padding="0 40px 24px 40px">International Growth Pathways: a private roundtable for founders and ecosystem leaders in Ibadan.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Route graphic -->
+    <mj-section background-color="#0F1F1D" padding="0">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/77e18c5466ac3a83c8dffeda57688de768ee8f23/isf-2026/roundtable-nov/roundtable-route.jpg" width="600px" href="https://luma.com/e3m89ztl" alt="A route from Ibadan, where you build, to the United Kingdom, the OpenLane focus, with other markets beyond. OpenLane and ISF." />
+      </mj-column>
+    </mj-section>
+
+    <!-- Date tiles -->
+    <mj-section background-color="#0F1F1D" padding="18px 24px 8px 24px">
+      <mj-group width="100%">
+        <mj-column width="33.33%" padding="0 6px" inner-background-color="#17332F" inner-border-radius="8px">
+          <mj-text align="center" font-size="11px" font-weight="700" letter-spacing="2px" color="#5CC2B1" padding="14px 6px 2px 6px">DATE</mj-text>
+          <mj-text css-class="tilev" align="center" font-size="26px" font-weight="700" line-height="1.2" color="#FFFFFF" padding="0 6px 14px 6px">28 NOV</mj-text>
+        </mj-column>
+        <mj-column width="33.33%" padding="0 6px" inner-background-color="#17332F" inner-border-radius="8px">
+          <mj-text align="center" font-size="11px" font-weight="700" letter-spacing="2px" color="#5CC2B1" padding="14px 6px 2px 6px">TIME</mj-text>
+          <mj-text css-class="tilev" align="center" font-size="26px" font-weight="700" line-height="1.2" color="#FFFFFF" padding="0 6px 14px 6px">2&ndash;4 PM</mj-text>
+        </mj-column>
+        <mj-column width="33.33%" padding="0 6px" inner-background-color="#17332F" inner-border-radius="8px">
+          <mj-text align="center" font-size="11px" font-weight="700" letter-spacing="2px" color="#5CC2B1" padding="14px 6px 2px 6px">PLACE</mj-text>
+          <mj-text css-class="tilev" align="center" font-size="26px" font-weight="700" line-height="1.2" color="#FFFFFF" padding="0 6px 14px 6px">IBADAN</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#0F1F1D" padding="20px 0 34px 0">
+      <mj-column>
+        <mj-button href="https://luma.com/e3m89ztl" background-color="#F28C28" color="#0F1F1D" font-size="17px" font-weight="700" border-radius="6px" inner-padding="16px 36px" align="center" padding="0 36px">Express your interest</mj-button>
       </mj-column>
     </mj-section>
 
@@ -39,35 +70,51 @@
     <mj-section background-color="#FFFFFF" padding="32px 0 0 0">
       <mj-column>
         <mj-text>Hi there,</mj-text>
-        <mj-text>POV, in collaboration with ISF Forum, is convening a private roundtable for growth-stage founders and ecosystem leaders in Ibadan and the wider South-West.</mj-text>
-        <mj-text>It is part of <strong>OpenLane</strong>, a POV initiative supported by the UK&ndash;Nigeria Tech Hub, exploring how Nigerian companies access international investment, customers and commercial partnerships, with a focus on the UK.</mj-text>
-        <mj-text>The conversation is about you: your international ambitions, your interest in the UK or the markets you are prioritising instead, and the opportunities and barriers you have met so far.</mj-text>
+        <mj-text>POV and ISF Forum are bringing growth-stage founders and ecosystem leaders in Ibadan and the wider South-West into one room to talk about <strong>going global</strong>, with a focus on the UK.</mj-text>
+        <mj-text>It is part of <strong>OpenLane</strong>, supported by the UK&ndash;Nigeria Tech Hub. We want to hear your ambitions, the markets you are eyeing, and the barriers you have met.</mj-text>
       </mj-column>
     </mj-section>
 
     <!-- Who -->
-    <mj-section background-color="#FFFFFF" padding="0 36px 12px 36px">
-      <mj-column background-color="#EEF6F4" border-left="4px solid #2F988A" border-radius="6px" padding="20px 0 8px 0">
-        <mj-text font-size="12px" font-weight="700" letter-spacing="1.5px" color="#1E6F64" padding="0 20px 10px 20px">WHO SHOULD EXPRESS INTEREST</mj-text>
-        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 20px 12px 20px"><strong style="color:#0F1F1D;">Founders</strong> of tech-enabled companies in Ibadan with established commercial traction, preferably at least US$10,000 in monthly recurring revenue.</mj-text>
-        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 20px 12px 20px"><strong style="color:#0F1F1D;">Investors and ecosystem leaders</strong> actively supporting growth-stage companies.</mj-text>
-        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 20px 12px 20px">Priority goes to organisations with active operations in Ibadan.</mj-text>
+    <mj-section background-color="#FFFFFF" padding="6px 0 8px 0">
+      <mj-column>
+        <mj-text font-size="12px" font-weight="700" letter-spacing="1.5px" color="#1E6F64" padding="0 36px 12px 36px">WHO SHOULD EXPRESS INTEREST</mj-text>
       </mj-column>
     </mj-section>
 
-    <!-- How it works -->
-    <mj-section background-color="#FFFFFF" padding="0 36px 12px 36px">
-      <mj-column background-color="#0F1F1D" border-radius="6px" padding="20px 0 8px 0">
-        <mj-text font-size="12px" font-weight="700" letter-spacing="1.5px" color="#5CC2B1" padding="0 22px 10px 22px">HOW IT WORKS</mj-text>
-        <mj-text font-size="15px" line-height="1.6" color="#FFFFFF" padding="0 22px 12px 22px">Participation is strictly by invitation. We review every expression of interest, and selected applicants are contacted directly with confirmation and venue details.</mj-text>
+    <mj-section background-color="#FFFFFF" padding="0 30px 10px 30px">
+      <mj-column width="50%" padding="0 6px 12px 6px" inner-background-color="#EEF6F4" inner-border-radius="8px">
+        <mj-text font-size="11px" font-weight="700" letter-spacing="1.5px" color="#1E6F64" padding="18px 18px 4px 18px">FOUNDERS</mj-text>
+        <mj-text font-size="38px" font-weight="700" line-height="1.1" color="#0F1F1D" padding="0 18px 2px 18px">US$10K</mj-text>
+        <mj-text font-size="13px" font-weight="700" line-height="1.4" color="#1E6F64" padding="0 18px 8px 18px">monthly recurring revenue, preferably</mj-text>
+        <mj-text font-size="14px" line-height="1.55" color="#3E4B48" padding="0 18px 18px 18px">Tech-enabled companies in Ibadan with established commercial traction.</mj-text>
+      </mj-column>
+      <mj-column width="50%" padding="0 6px 12px 6px" inner-background-color="#0F1F1D" inner-border-radius="8px">
+        <mj-text font-size="11px" font-weight="700" letter-spacing="1.5px" color="#5CC2B1" padding="18px 18px 4px 18px">INVESTORS AND ECOSYSTEM LEADERS</mj-text>
+        <mj-text font-size="30px" font-weight="700" line-height="1.15" color="#FFFFFF" padding="0 18px 8px 18px">Growth stage</mj-text>
+        <mj-text font-size="14px" line-height="1.55" color="#B9C7C4" padding="0 18px 18px 18px">Actively supporting growth-stage companies.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0 36px 24px 36px">
+      <mj-column background-color="#FFF3E6" border-left="4px solid #F28C28" border-radius="6px" padding="12px 0 0 0">
+        <mj-text font-size="14px" line-height="1.55" color="#5B3A12" padding="0 18px 12px 18px"><strong>Priority goes to organisations with active operations in Ibadan.</strong></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Steps -->
+    <mj-section background-color="#FFFFFF" padding="0 36px 8px 36px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/77e18c5466ac3a83c8dffeda57688de768ee8f23/isf-2026/roundtable-nov/roundtable-steps.jpg" width="528px" align="center" border-radius="8px" href="https://luma.com/e3m89ztl" alt="How it works. Step 1: express interest on the Luma page. Step 2: we review every application. Step 3: if you are selected, you hear from us directly with venue details." />
       </mj-column>
     </mj-section>
 
     <!-- CTA -->
-    <mj-section background-color="#FFFFFF" padding="14px 0 0 0">
+    <mj-section background-color="#FFFFFF" padding="16px 0 0 0">
       <mj-column>
-        <mj-button href="https://luma.com/e3m89ztl" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="6px" inner-padding="15px 34px" align="center" padding="4px 36px 22px 36px">Express your interest</mj-button>
-        <mj-text>Know a founder in Ibadan who should be in this room? Forward them this email.</mj-text>
+        <mj-text align="center" font-size="14px" color="#5E6B68" padding="0 36px 14px 36px">Participation is strictly by invitation.</mj-text>
+        <mj-button href="https://luma.com/e3m89ztl" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="6px" inner-padding="15px 34px" align="center" padding="0 36px 22px 36px">Express your interest</mj-button>
+        <mj-text>Know a founder in Ibadan who belongs in this room? Forward this email.</mj-text>
         <mj-text padding="6px 36px 34px 36px">Warm regards,<br />The ISF Forum 2026 team</mj-text>
       </mj-column>
     </mj-section>
