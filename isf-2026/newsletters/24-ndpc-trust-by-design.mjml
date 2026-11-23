@@ -13,6 +13,7 @@
       a { color: #1E6F64; }
       @media only screen and (max-width: 480px) {
         .hero div { font-size: 31px !important; }
+        .tilev div { font-size: 19px !important; }
       }
     </mj-style>
   </mj-head>
@@ -26,19 +27,36 @@
     </mj-section>
 
     <!-- Hero -->
-    <mj-section background-color="#0F1F1D" border-radius="6px 6px 0 0" padding="40px 0 12px 0">
+    <mj-section background-color="#F7FFFE" border-radius="6px 6px 0 0" padding="38px 0 0 0">
       <mj-column>
-        <mj-text align="center" font-size="12px" font-weight="700" letter-spacing="3px" color="#5CC2B1" padding="0 30px 14px 30px">SPECIAL ANNOUNCEMENT</mj-text>
-        <mj-text css-class="hero" align="center" font-size="40px" font-weight="700" line-height="1.1" color="#FFFFFF" padding="0 28px 14px 28px">Can your customers <span style="color:#F28C28;">trust&nbsp;you?</span></mj-text>
-        <mj-text align="center" font-size="16px" line-height="1.6" color="#B9C7C4" padding="0 40px 24px 40px">The Nigeria Data Protection Commission is hosting a special session at ISF Forum 2026.</mj-text>
-        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#F28C28" color="#0F1F1D" font-size="17px" font-weight="700" border-radius="6px" inner-padding="16px 36px" align="center" padding="0 36px 32px 36px">Get my pass</mj-button>
+        <mj-text align="center" font-size="12px" font-weight="700" letter-spacing="3px" color="#1E6F64" padding="0 30px 14px 30px">SPECIAL ANNOUNCEMENT</mj-text>
+        <mj-text css-class="hero" align="center" font-size="40px" font-weight="700" line-height="1.1" color="#0F1F1D" padding="0 28px 12px 28px">Can your customers <span style="color:#2E9A8A;">trust&nbsp;you?</span></mj-text>
+        <mj-text align="center" font-size="16px" line-height="1.6" color="#4A5A57" padding="0 40px 8px 40px">The Nigeria Data Protection Commission is hosting a special session at ISF Forum 2026.</mj-text>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/01fd68f9ee1f5ed66609f360d31b4133a404eb5a/isf-2026/ndpc-nov/ndpc-shield.jpg" width="420px" align="center" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" alt="A teal shield with a person icon, a padlock and a message bubble: protecting customer data." />
       </mj-column>
     </mj-section>
 
-    <!-- Flyer -->
-    <mj-section background-color="#EAF3F1" padding="28px 0 28px 0">
+    <!-- Tiles -->
+    <mj-section background-color="#F7FFFE" padding="6px 24px 10px 24px">
+      <mj-group width="100%">
+        <mj-column width="33.33%" padding="0 6px" inner-background-color="#E3F4F0" inner-border-radius="8px">
+          <mj-text align="center" font-size="11px" font-weight="700" letter-spacing="2px" color="#1E6F64" padding="14px 6px 2px 6px">DATE</mj-text>
+          <mj-text css-class="tilev" align="center" font-size="26px" font-weight="700" line-height="1.2" color="#0F1F1D" padding="0 6px 14px 6px">28 NOV</mj-text>
+        </mj-column>
+        <mj-column width="33.33%" padding="0 6px" inner-background-color="#E3F4F0" inner-border-radius="8px">
+          <mj-text align="center" font-size="11px" font-weight="700" letter-spacing="2px" color="#1E6F64" padding="14px 6px 2px 6px">SESSION</mj-text>
+          <mj-text css-class="tilev" align="center" font-size="26px" font-weight="700" line-height="1.2" color="#0F1F1D" padding="0 6px 14px 6px">90 MIN</mj-text>
+        </mj-column>
+        <mj-column width="33.33%" padding="0 6px" inner-background-color="#E3F4F0" inner-border-radius="8px">
+          <mj-text align="center" font-size="11px" font-weight="700" letter-spacing="2px" color="#1E6F64" padding="14px 6px 2px 6px">PLACE</mj-text>
+          <mj-text css-class="tilev" align="center" font-size="26px" font-weight="700" line-height="1.2" color="#0F1F1D" padding="0 6px 14px 6px">IBADAN</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#F7FFFE" padding="14px 0 34px 0">
       <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/4cbb0a0dd39b8289da57af9fe23779c576b71e03/isf-2026/ndpc-nov/ndpc-trust-by-design.jpg" width="400px" align="center" border-radius="8px" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" alt="Breakout session at ISF Forum 2026: Trust by Design, Protecting Customer Data and Building Responsible Businesses in the Digital Economy. Saturday 28 November 2026, ICC, Ibadan, Oyo State. Powered by the Nigeria Data Protection Commission." />
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#F28C28" color="#0F1F1D" font-size="17px" font-weight="700" border-radius="6px" inner-padding="16px 36px" align="center" padding="0 36px">Get my pass</mj-button>
       </mj-column>
     </mj-section>
 
@@ -104,11 +122,18 @@
       </mj-column>
     </mj-section>
 
+    <!-- Flyer -->
+    <mj-section background-color="#EAF3F1" padding="28px 0 20px 0">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/4cbb0a0dd39b8289da57af9fe23779c576b71e03/isf-2026/ndpc-nov/ndpc-trust-by-design.jpg" width="360px" align="center" border-radius="8px" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" alt="Breakout session at ISF Forum 2026: Trust by Design, Protecting Customer Data and Building Responsible Businesses in the Digital Economy. Saturday 28 November 2026, ICC, Ibadan, Oyo State. Powered by the Nigeria Data Protection Commission." />
+        <mj-text align="center" font-size="13px" line-height="1.5" color="#5E6B68" padding="14px 30px 0 30px">The session flyer. Share it with your team.</mj-text>
+      </mj-column>
+    </mj-section>
+
     <!-- CTA -->
     <mj-section background-color="#FFFFFF" padding="26px 0 0 0">
       <mj-column>
-        <mj-text>Basic passes start at &#8358;5,000 and General Admission is &#8358;15,000.</mj-text>
-        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="6px" inner-padding="15px 34px" align="center" padding="4px 36px 22px 36px">Get my pass</mj-button>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="6px" inner-padding="15px 34px" align="center" padding="18px 36px 22px 36px">Get my pass</mj-button>
         <mj-text>Bring the co-founder or team member who looks after your customer data.</mj-text>
         <mj-text padding="6px 36px 34px 36px">See you in Ibadan,<br />The ISF Forum 2026 team</mj-text>
       </mj-column>
