@@ -122,6 +122,15 @@
       </mj-column>
     </mj-section>
 
+    <!-- Speaker -->
+    <mj-section background-color="#FFFFFF" padding="28px 0 8px 0">
+      <mj-column>
+        <mj-text align="center" font-size="12px" font-weight="700" letter-spacing="3px" color="#1E6F64" padding="0 30px 14px 30px">SPEAKING AT ISF FORUM</mj-text>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/30164fd0d7148d0d2d40a547393546e370b53138/isf-2026/speaker-nov/olatunji-speaker-card.jpg" width="320px" align="center" border-radius="8px" padding="0 24px" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" alt="Speaker: Dr. Vincent O. Olatunji, National Commissioner and CEO, Nigeria Data Protection Commission (NDPC)." />
+        <mj-text align="center" font-size="15px" line-height="1.6" color="#3E4B48" padding="14px 36px 8px 36px">The NDPC is led by <strong style="color:#0F1F1D;">Dr. Vincent O. Olatunji</strong>, who will also join us in Ibadan.</mj-text>
+      </mj-column>
+    </mj-section>
+
     <!-- Flyer -->
     <mj-section background-color="#EAF3F1" padding="28px 0 20px 0">
       <mj-column>
