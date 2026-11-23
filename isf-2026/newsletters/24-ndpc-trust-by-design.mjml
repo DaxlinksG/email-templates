@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
-    <mj-title>Can your customers trust you with their data?</mj-title>
-    <mj-preview>A 90-minute breakout with the Nigeria Data Protection Commission, Saturday 28 November.</mj-preview>
+    <mj-title>Nigeria's data protection chief is coming to Ibadan</mj-title>
+    <mj-preview>Dr. Vincent O. Olatunji speaks at ISF Forum 2026, and the NDPC is hosting a session for founders.</mj-preview>
     <mj-attributes>
       <mj-all font-family="Arial, Helvetica, sans-serif" />
       <mj-section padding="0px" />
@@ -13,6 +13,8 @@
       a { color: #1E6F64; }
       @media only screen and (max-width: 480px) {
         .hero div { font-size: 31px !important; }
+        .tbd div { font-size: 34px !important; text-align: center !important; }
+        .ctr div { text-align: center !important; }
         .tilev div { font-size: 19px !important; }
       }
     </mj-style>
@@ -26,18 +28,36 @@
       </mj-column>
     </mj-section>
 
-    <!-- Hero -->
-    <mj-section background-color="#F7FFFE" border-radius="6px 6px 0 0" padding="38px 0 0 0">
+    <!-- Hero: headline on white, portrait fades into black -->
+    <mj-section background-color="#FFFFFF" border-radius="6px 6px 0 0" padding="36px 0 0 0">
       <mj-column>
-        <mj-text align="center" font-size="12px" font-weight="700" letter-spacing="3px" color="#1E6F64" padding="0 30px 14px 30px">SPECIAL ANNOUNCEMENT</mj-text>
-        <mj-text css-class="hero" align="center" font-size="40px" font-weight="700" line-height="1.1" color="#0F1F1D" padding="0 28px 12px 28px">Can your customers <span style="color:#2E9A8A;">trust&nbsp;you?</span></mj-text>
-        <mj-text align="center" font-size="16px" line-height="1.6" color="#4A5A57" padding="0 40px 8px 40px">The Nigeria Data Protection Commission is hosting a special session at ISF Forum 2026.</mj-text>
-        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/01fd68f9ee1f5ed66609f360d31b4133a404eb5a/isf-2026/ndpc-nov/ndpc-shield.jpg" width="420px" align="center" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" alt="A teal shield with a person icon, a padlock and a message bubble: protecting customer data." />
+        <mj-text align="center" font-size="11px" font-weight="700" letter-spacing="2px" line-height="1" padding="0 30px 18px 30px"><span style="background:#2E9A8A;color:#FFFFFF;padding:7px 14px;border-radius:14px;display:inline-block;">SPECIAL ANNOUNCEMENT</span></mj-text>
+        <mj-text css-class="hero" align="center" font-size="40px" font-weight="700" line-height="1.1" color="#0F1F1D" padding="0 30px 0 30px">Nigeria's data protection chief is <span style="color:#2E9A8A;">coming&nbsp;to&nbsp;Ibadan.</span></mj-text>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/aecf50229e5e770e70b4d27bd928754dd703897e/isf-2026/speaker-nov/olatunji-hero.jpg" width="600px" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" alt="Speaker: Dr. Vincent O. Olatunji, National Commissioner and CEO, Nigeria Data Protection Commission (NDPC)." />
       </mj-column>
     </mj-section>
 
-    <!-- Tiles -->
-    <mj-section background-color="#F7FFFE" padding="6px 24px 10px 24px">
+    <mj-section background-color="#000000" padding="4px 0 36px 0">
+      <mj-column>
+        <mj-text align="center" font-size="14px" line-height="1.7" color="#9FB0AC" padding="0 36px 18px 36px">30+&nbsp;years&nbsp;in&nbsp;ICT&nbsp;policy &nbsp;&middot;&nbsp; Former&nbsp;Acting&nbsp;DG,&nbsp;NITDA &nbsp;&middot;&nbsp; PhD,&nbsp;University&nbsp;of&nbsp;Lagos</mj-text>
+        <mj-text align="center" font-size="17px" line-height="1.6" color="#FFFFFF" padding="0 40px 24px 40px">He is speaking at ISF Forum 2026, and his Commission is bringing a special session for founders.</mj-text>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#F28C28" color="#0F1F1D" font-size="17px" font-weight="700" border-radius="6px" inner-padding="16px 38px" align="center" padding="0 36px">Get my pass</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Session: Trust by Design -->
+    <mj-section background-color="#F7FFFE" padding="34px 24px 6px 24px">
+      <mj-column width="56%" vertical-align="middle">
+        <mj-text css-class="ctr" font-size="12px" font-weight="700" letter-spacing="2px" color="#1E6F64" padding="0 12px 8px 12px">NDPC BREAKOUT SESSION</mj-text>
+        <mj-text css-class="tbd" font-size="36px" font-weight="700" line-height="1.05" color="#0F1F1D" padding="0 12px 10px 12px">Trust by <span style="color:#2E9A8A;">Design</span></mj-text>
+        <mj-text css-class="ctr" font-size="15px" line-height="1.55" color="#4A5A57" padding="0 12px 10px 12px">Protecting customer data and building responsible businesses in the digital economy.</mj-text>
+      </mj-column>
+      <mj-column width="44%" vertical-align="middle">
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/01fd68f9ee1f5ed66609f360d31b4133a404eb5a/isf-2026/ndpc-nov/ndpc-shield.jpg" width="240px" align="center" alt="A teal shield with a person icon, a padlock and a message bubble: protecting customer data." />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F7FFFE" padding="14px 24px 32px 24px">
       <mj-group width="100%">
         <mj-column width="33.33%" padding="0 6px" inner-background-color="#E3F4F0" inner-border-radius="8px">
           <mj-text align="center" font-size="11px" font-weight="700" letter-spacing="2px" color="#1E6F64" padding="14px 6px 2px 6px">DATE</mj-text>
@@ -54,18 +74,13 @@
       </mj-group>
     </mj-section>
 
-    <mj-section background-color="#F7FFFE" padding="14px 0 34px 0">
-      <mj-column>
-        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#F28C28" color="#0F1F1D" font-size="17px" font-weight="700" border-radius="6px" inner-padding="16px 36px" align="center" padding="0 36px">Get my pass</mj-button>
-      </mj-column>
-    </mj-section>
-
-    <!-- Intro -->
+    <!-- Intro + who -->
     <mj-section background-color="#FFFFFF" padding="32px 0 0 0">
       <mj-column>
         <mj-text>Hi there,</mj-text>
-        <mj-text>Every business that serves customers also holds their data. On Saturday 28 November, the <strong>Nigeria Data Protection Commission (NDPC)</strong>, through its Digital Privacy Awareness Campaign, will host a <strong>90-minute breakout session</strong> for founders, entrepreneurs, small business owners and young innovators.</mj-text>
-        <mj-text>Here is what is on the programme:</mj-text>
+        <mj-text>Every business that serves customers also holds their data. Through its Digital Privacy Awareness Campaign, the <strong>Nigeria Data Protection Commission</strong> is hosting a 90-minute breakout at ISF Forum for:</mj-text>
+        <mj-text align="center" font-size="14px" font-weight="700" line-height="2.9" color="#1E6F64" padding="0 30px 18px 30px"><span style="background:#E3F4F0;padding:7px 14px;border-radius:16px;white-space:nowrap;">Founders</span>&nbsp; <span style="background:#E3F4F0;padding:7px 14px;border-radius:16px;white-space:nowrap;">Entrepreneurs</span>&nbsp; <span style="background:#E3F4F0;padding:7px 14px;border-radius:16px;white-space:nowrap;">Small business owners</span>&nbsp; <span style="background:#E3F4F0;padding:7px 14px;border-radius:16px;white-space:nowrap;">Young innovators</span></mj-text>
+        <mj-text font-size="12px" font-weight="700" letter-spacing="2px" color="#1E6F64" padding="6px 36px 12px 36px">WHAT HAPPENS IN THE ROOM</mj-text>
       </mj-column>
     </mj-section>
 
@@ -100,7 +115,7 @@
     </mj-wrapper>
 
     <!-- Format 3 -->
-    <mj-wrapper background-color="#FFFFFF" padding="0 36px 14px 36px">
+    <mj-wrapper background-color="#FFFFFF" padding="0 36px 28px 36px">
       <mj-section background-color="#EEF6F4" border-radius="8px" padding="0">
       <mj-group width="100%">
         <mj-column width="18%" padding="18px 0 0 0">
@@ -114,37 +129,19 @@
       </mj-section>
     </mj-wrapper>
 
-    <!-- Outcome -->
-    <mj-section background-color="#0F1F1D" padding="26px 0 8px 0">
+    <!-- Outcome + CTA -->
+    <mj-section background-color="#0F1F1D" padding="30px 0 34px 0">
       <mj-column>
         <mj-text font-size="12px" font-weight="700" letter-spacing="2px" color="#5CC2B1" padding="0 36px 8px 36px">YOU WILL LEAVE KNOWING</mj-text>
-        <mj-text font-size="16px" line-height="1.6" color="#FFFFFF" padding="0 36px 16px 36px">Your responsibilities under the Nigeria Data Protection Act 2023, and how handling customer data well builds trust and lasting business growth.</mj-text>
+        <mj-text font-size="17px" line-height="1.6" color="#FFFFFF" padding="0 36px 22px 36px">Your responsibilities under the Nigeria Data Protection Act 2023, and how handling customer data well builds trust and lasting growth.</mj-text>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#F28C28" color="#0F1F1D" font-size="16px" font-weight="700" border-radius="6px" inner-padding="15px 36px" align="center" padding="0 36px 18px 36px">Get my pass</mj-button>
+        <mj-text align="center" font-size="14px" line-height="1.6" color="#B9C7C4" padding="0 36px">Bring the teammate who looks after your customer data.</mj-text>
       </mj-column>
     </mj-section>
 
-    <!-- Speaker -->
-    <mj-section background-color="#FFFFFF" padding="28px 0 8px 0">
+    <mj-section background-color="#FFFFFF" padding="26px 0 8px 0">
       <mj-column>
-        <mj-text align="center" font-size="12px" font-weight="700" letter-spacing="3px" color="#1E6F64" padding="0 30px 14px 30px">SPEAKING AT ISF FORUM</mj-text>
-        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/30164fd0d7148d0d2d40a547393546e370b53138/isf-2026/speaker-nov/olatunji-speaker-card.jpg" width="320px" align="center" border-radius="8px" padding="0 24px" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" alt="Speaker: Dr. Vincent O. Olatunji, National Commissioner and CEO, Nigeria Data Protection Commission (NDPC)." />
-        <mj-text align="center" font-size="15px" line-height="1.6" color="#3E4B48" padding="14px 36px 8px 36px">The NDPC is led by <strong style="color:#0F1F1D;">Dr. Vincent O. Olatunji</strong>, who will also join us in Ibadan.</mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- Flyer -->
-    <mj-section background-color="#EAF3F1" padding="28px 0 20px 0">
-      <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/4cbb0a0dd39b8289da57af9fe23779c576b71e03/isf-2026/ndpc-nov/ndpc-trust-by-design.jpg" width="360px" align="center" border-radius="8px" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" alt="Breakout session at ISF Forum 2026: Trust by Design, Protecting Customer Data and Building Responsible Businesses in the Digital Economy. Saturday 28 November 2026, ICC, Ibadan, Oyo State. Powered by the Nigeria Data Protection Commission." />
-        <mj-text align="center" font-size="13px" line-height="1.5" color="#5E6B68" padding="14px 30px 0 30px">The session flyer. Share it with your team.</mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- CTA -->
-    <mj-section background-color="#FFFFFF" padding="26px 0 0 0">
-      <mj-column>
-        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="6px" inner-padding="15px 34px" align="center" padding="18px 36px 22px 36px">Get my pass</mj-button>
-        <mj-text>Bring the co-founder or team member who looks after your customer data.</mj-text>
-        <mj-text padding="6px 36px 34px 36px">See you in Ibadan,<br />The ISF Forum 2026 team</mj-text>
+        <mj-text padding="0 36px 24px 36px">See you in Ibadan,<br />The ISF Forum 2026 team</mj-text>
       </mj-column>
     </mj-section>
 
