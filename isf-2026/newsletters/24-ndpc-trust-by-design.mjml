@@ -1,0 +1,135 @@
+<mjml>
+  <mj-head>
+    <mj-title>Can your customers trust you with their data?</mj-title>
+    <mj-preview>A 90-minute breakout with the Nigeria Data Protection Commission, Saturday 28 November.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text color="#222222" font-size="16px" line-height="1.65" padding="0 36px 16px 36px" />
+    </mj-attributes>
+    <mj-style>
+      a { color: #1E6F64; }
+      @media only screen and (max-width: 480px) {
+        .hero div { font-size: 31px !important; }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#F2F4F3" width="600px">
+
+    <mj-section padding="22px 0 10px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.5" color="#5E6B68" align="center" padding="0 24px">ISF Forum 2026 &middot; Saturday 28 November &middot; ICC Ibadan</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero -->
+    <mj-section background-color="#0F1F1D" border-radius="6px 6px 0 0" padding="40px 0 12px 0">
+      <mj-column>
+        <mj-text align="center" font-size="12px" font-weight="700" letter-spacing="3px" color="#5CC2B1" padding="0 30px 14px 30px">SPECIAL ANNOUNCEMENT</mj-text>
+        <mj-text css-class="hero" align="center" font-size="40px" font-weight="700" line-height="1.1" color="#FFFFFF" padding="0 28px 14px 28px">Can your customers <span style="color:#F28C28;">trust&nbsp;you?</span></mj-text>
+        <mj-text align="center" font-size="16px" line-height="1.6" color="#B9C7C4" padding="0 40px 24px 40px">The Nigeria Data Protection Commission is hosting a special session at ISF Forum 2026.</mj-text>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#F28C28" color="#0F1F1D" font-size="17px" font-weight="700" border-radius="6px" inner-padding="16px 36px" align="center" padding="0 36px 32px 36px">Get my pass</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Flyer -->
+    <mj-section background-color="#EAF3F1" padding="28px 0 28px 0">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/4cbb0a0dd39b8289da57af9fe23779c576b71e03/isf-2026/ndpc-nov/ndpc-trust-by-design.jpg" width="400px" align="center" border-radius="8px" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" alt="Breakout session at ISF Forum 2026: Trust by Design, Protecting Customer Data and Building Responsible Businesses in the Digital Economy. Saturday 28 November 2026, ICC, Ibadan, Oyo State. Powered by the Nigeria Data Protection Commission." />
+      </mj-column>
+    </mj-section>
+
+    <!-- Intro -->
+    <mj-section background-color="#FFFFFF" padding="32px 0 0 0">
+      <mj-column>
+        <mj-text>Hi there,</mj-text>
+        <mj-text>Every business that serves customers also holds their data. On Saturday 28 November, the <strong>Nigeria Data Protection Commission (NDPC)</strong>, through its Digital Privacy Awareness Campaign, will host a <strong>90-minute breakout session</strong> for founders, entrepreneurs, small business owners and young innovators.</mj-text>
+        <mj-text>Here is what is on the programme:</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Format 1 -->
+    <mj-wrapper background-color="#FFFFFF" padding="0 36px 10px 36px">
+      <mj-section background-color="#EEF6F4" border-radius="8px" padding="0">
+      <mj-group width="100%">
+        <mj-column width="18%" padding="18px 0 0 0">
+          <mj-text align="center" font-size="22px" font-weight="700" line-height="40px" color="#0F1F1D" padding="0"><span style="display:inline-block;width:40px;height:40px;line-height:40px;border-radius:20px;background:#F28C28;">1</span></mj-text>
+        </mj-column>
+        <mj-column width="82%" padding="16px 0 6px 0">
+          <mj-text font-size="12px" font-weight="700" letter-spacing="1.5px" color="#1E6F64" padding="0 18px 2px 0">PRIVACY MASTERCLASS</mj-text>
+          <mj-text font-size="16px" font-weight="700" line-height="1.4" color="#0F1F1D" padding="0 18px 10px 0">The Business of Personal Data: What Every Founder Needs to Know</mj-text>
+        </mj-column>
+      </mj-group>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Format 2 -->
+    <mj-wrapper background-color="#FFFFFF" padding="0 36px 10px 36px">
+      <mj-section background-color="#EEF6F4" border-radius="8px" padding="0">
+      <mj-group width="100%">
+        <mj-column width="18%" padding="18px 0 0 0">
+          <mj-text align="center" font-size="22px" font-weight="700" line-height="40px" color="#0F1F1D" padding="0"><span style="display:inline-block;width:40px;height:40px;line-height:40px;border-radius:20px;background:#F28C28;">2</span></mj-text>
+        </mj-column>
+        <mj-column width="82%" padding="16px 0 6px 0">
+          <mj-text font-size="12px" font-weight="700" letter-spacing="1.5px" color="#1E6F64" padding="0 18px 2px 0">FIRESIDE CHAT</mj-text>
+          <mj-text font-size="16px" font-weight="700" line-height="1.4" color="#0F1F1D" padding="0 18px 10px 0">Can Your Customers Trust You? Data Protection and the Future of Business in Nigeria</mj-text>
+        </mj-column>
+      </mj-group>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Format 3 -->
+    <mj-wrapper background-color="#FFFFFF" padding="0 36px 14px 36px">
+      <mj-section background-color="#EEF6F4" border-radius="8px" padding="0">
+      <mj-group width="100%">
+        <mj-column width="18%" padding="18px 0 0 0">
+          <mj-text align="center" font-size="22px" font-weight="700" line-height="40px" color="#0F1F1D" padding="0"><span style="display:inline-block;width:40px;height:40px;line-height:40px;border-radius:20px;background:#F28C28;">3</span></mj-text>
+        </mj-column>
+        <mj-column width="82%" padding="16px 0 6px 0">
+          <mj-text font-size="12px" font-weight="700" letter-spacing="1.5px" color="#1E6F64" padding="0 18px 2px 0">INTERACTIVE ENGAGEMENT</mj-text>
+          <mj-text font-size="16px" font-weight="700" line-height="1.4" color="#0F1F1D" padding="0 18px 10px 0">Practical scenarios on customer data protection and business privacy</mj-text>
+        </mj-column>
+      </mj-group>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Outcome -->
+    <mj-section background-color="#0F1F1D" padding="26px 0 8px 0">
+      <mj-column>
+        <mj-text font-size="12px" font-weight="700" letter-spacing="2px" color="#5CC2B1" padding="0 36px 8px 36px">YOU WILL LEAVE KNOWING</mj-text>
+        <mj-text font-size="16px" line-height="1.6" color="#FFFFFF" padding="0 36px 16px 36px">Your responsibilities under the Nigeria Data Protection Act 2023, and how handling customer data well builds trust and lasting business growth.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- CTA -->
+    <mj-section background-color="#FFFFFF" padding="26px 0 0 0">
+      <mj-column>
+        <mj-text>Basic passes start at &#8358;5,000 and General Admission is &#8358;15,000.</mj-text>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="6px" inner-padding="15px 34px" align="center" padding="4px 36px 22px 36px">Get my pass</mj-button>
+        <mj-text>Bring the co-founder or team member who looks after your customer data.</mj-text>
+        <mj-text padding="6px 36px 34px 36px">See you in Ibadan,<br />The ISF Forum 2026 team</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- FIXED BOTTOM: Ibadan banner -->
+    <mj-section background-color="#FFFFFF" border-radius="0 0 6px 6px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" border-radius="0 0 6px 6px" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" alt="ISF Forum 2026 banner showing the Ibadan skyline" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section padding="22px 0 30px 0">
+      <mj-column>
+        <mj-text font-size="13px" line-height="1.6" color="#666666" align="center" padding="0 32px 8px 32px">Follow us: <a href="https://www.instagram.com/innovationandscaleforum" style="color:#1E6F64;">Instagram</a> &middot; <a href="https://www.linkedin.com/company/isfforum" style="color:#1E6F64;">LinkedIn</a></mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">ISF Forum &middot; Ibadan, Oyo State, Nigeria</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">You are receiving this email because you subscribed to updates from ISF Forum.</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px"><a href="{{UNSUBSCRIBE_URL}}" style="color:#666666;text-decoration:underline;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
