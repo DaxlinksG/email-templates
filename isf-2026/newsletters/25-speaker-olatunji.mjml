@@ -1,0 +1,104 @@
+<mjml>
+  <mj-head>
+    <mj-title>Nigeria's data regulator is coming to Ibadan</mj-title>
+    <mj-preview>Meet Dr. Vincent O. Olatunji, National Commissioner and CEO of the NDPC, at ISF Forum 2026.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text color="#222222" font-size="16px" line-height="1.65" padding="0 36px 16px 36px" />
+    </mj-attributes>
+    <mj-style>
+      a { color: #1E6F64; }
+      @media only screen and (max-width: 480px) {
+        .hero div { font-size: 30px !important; }
+        .tilev div { font-size: 19px !important; }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#F2F4F3" width="600px">
+
+    <mj-section padding="22px 0 10px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.5" color="#5E6B68" align="center" padding="0 24px">ISF Forum 2026 &middot; Saturday 28 November &middot; ICC Ibadan</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero -->
+    <mj-section background-color="#0F1F1D" border-radius="6px 6px 0 0" padding="38px 0 24px 0">
+      <mj-column>
+        <mj-text align="center" font-size="12px" font-weight="700" letter-spacing="3px" color="#5CC2B1" padding="0 30px 14px 30px">SPEAKER ANNOUNCEMENT</mj-text>
+        <mj-text css-class="hero" align="center" font-size="38px" font-weight="700" line-height="1.12" color="#FFFFFF" padding="0 28px 22px 28px">The head of Nigeria's data regulator is <span style="color:#F28C28;">coming&nbsp;to&nbsp;Ibadan.</span></mj-text>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/30164fd0d7148d0d2d40a547393546e370b53138/isf-2026/speaker-nov/olatunji-speaker-card.jpg" width="400px" align="center" border-radius="8px" padding="0 24px" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" alt="Speaker: Dr. Vincent O. Olatunji, National Commissioner and CEO, Nigeria Data Protection Commission (NDPC)." />
+      </mj-column>
+    </mj-section>
+
+    <!-- Tiles -->
+    <mj-section background-color="#0F1F1D" padding="4px 24px 8px 24px">
+      <mj-group width="100%">
+        <mj-column width="33.33%" padding="0 6px" inner-background-color="#17332F" inner-border-radius="8px">
+          <mj-text align="center" font-size="11px" font-weight="700" letter-spacing="2px" color="#5CC2B1" padding="14px 6px 2px 6px">CAREER</mj-text>
+          <mj-text css-class="tilev" align="center" font-size="26px" font-weight="700" line-height="1.2" color="#FFFFFF" padding="0 6px 14px 6px">30+ YRS</mj-text>
+        </mj-column>
+        <mj-column width="33.33%" padding="0 6px" inner-background-color="#17332F" inner-border-radius="8px">
+          <mj-text align="center" font-size="11px" font-weight="700" letter-spacing="2px" color="#5CC2B1" padding="14px 6px 2px 6px">LEADS</mj-text>
+          <mj-text css-class="tilev" align="center" font-size="26px" font-weight="700" line-height="1.2" color="#FFFFFF" padding="0 6px 14px 6px">NDPC</mj-text>
+        </mj-column>
+        <mj-column width="33.33%" padding="0 6px" inner-background-color="#17332F" inner-border-radius="8px">
+          <mj-text align="center" font-size="11px" font-weight="700" letter-spacing="2px" color="#5CC2B1" padding="14px 6px 2px 6px">DEGREE</mj-text>
+          <mj-text css-class="tilev" align="center" font-size="26px" font-weight="700" line-height="1.2" color="#FFFFFF" padding="0 6px 14px 6px">PhD</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#0F1F1D" padding="16px 0 34px 0">
+      <mj-column>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#F28C28" color="#0F1F1D" font-size="17px" font-weight="700" border-radius="6px" inner-padding="16px 36px" align="center" padding="0 36px">Get my pass</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Bio -->
+    <mj-section background-color="#FFFFFF" padding="32px 0 0 0">
+      <mj-column>
+        <mj-text>Hi there,</mj-text>
+        <mj-text>We are proud to announce <strong>Dr. Vincent O. Olatunji</strong>, National Commissioner and CEO of the Nigeria Data Protection Commission (NDPC), as a speaker at ISF Forum 2026.</mj-text>
+        <mj-text>He is a technology policy expert with over three decades across ICT, policy and digital transformation. Before the NDPC, he spent more than a decade at NITDA, where he helped shape the Cloud First Policy and the Nigeria Data Protection Regulation.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0 36px 20px 36px">
+      <mj-column background-color="#EEF6F4" border-left="4px solid #2F988A" border-radius="6px" padding="16px 0 4px 0">
+        <mj-text font-size="15px" line-height="1.6" color="#3E4B48" padding="0 20px 12px 20px">At the NDPC he champions <strong style="color:#0F1F1D;">responsible data governance, privacy and digital trust</strong> as foundations for Nigeria's digital economy.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- CTA -->
+    <mj-section background-color="#FFFFFF" padding="4px 0 0 0">
+      <mj-column>
+        <mj-text>If you build products, hold customer data or are growing a business, this is a voice worth hearing in person.</mj-text>
+        <mj-button href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" background-color="#1E6F64" color="#FFFFFF" font-size="16px" font-weight="700" border-radius="6px" inner-padding="15px 34px" align="center" padding="4px 36px 22px 36px">Get my pass</mj-button>
+        <mj-text padding="6px 36px 34px 36px">See you in Ibadan,<br />The ISF Forum 2026 team</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- FIXED BOTTOM: Ibadan banner -->
+    <mj-section background-color="#FFFFFF" border-radius="0 0 6px 6px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" border-radius="0 0 6px 6px" href="https://tickets.theisfforum.com/#/buyTickets/selectTickets?lang=en" alt="ISF Forum 2026 banner showing the Ibadan skyline" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section padding="22px 0 30px 0">
+      <mj-column>
+        <mj-text font-size="13px" line-height="1.6" color="#666666" align="center" padding="0 32px 8px 32px">Follow us: <a href="https://www.instagram.com/innovationandscaleforum" style="color:#1E6F64;">Instagram</a> &middot; <a href="https://www.linkedin.com/company/isfforum" style="color:#1E6F64;">LinkedIn</a></mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">ISF Forum &middot; Ibadan, Oyo State, Nigeria</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">You are receiving this email because you subscribed to updates from ISF Forum.</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px"><a href="{{UNSUBSCRIBE_URL}}" style="color:#666666;text-decoration:underline;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
