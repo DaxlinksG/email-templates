@@ -33,7 +33,7 @@
       <mj-column>
         <mj-text align="center" font-size="11px" font-weight="700" letter-spacing="2px" line-height="1" padding="0 30px 18px 30px"><span style="background:#FFD23F;color:#111111;padding:7px 14px;border-radius:14px;display:inline-block;">THE ISF WEEKEND, EXTENDED</span></mj-text>
         <mj-text css-class="hero" align="center" font-size="42px" font-weight="700" line-height="1.12" color="#FFFFFF" padding="0 24px 14px 24px"><span style="color:#F28C28;">Popcorn</span> Friday.<br /><span style="color:#2EC4F1;">Poolside</span> Saturday.</mj-text>
-        <mj-text align="center" font-size="16px" line-height="1.6" color="#BDBDBD" padding="0 40px 0 40px">ISF Forum 2026 just got a prequel and an afterparty. You're invited to both.</mj-text>
+        <mj-text align="center" font-size="16px" line-height="1.6" color="#BDBDBD" padding="0 40px 0 40px">ISF Forum 2026 just got a prequel and an afterparty. You're invited to&nbsp;both.</mj-text>
       </mj-column>
     </mj-section>
 
