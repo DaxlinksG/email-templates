@@ -1,0 +1,118 @@
+<mjml>
+  <mj-head>
+    <mj-title>Doors open at 8. Breakfast is on us.</mj-title>
+    <mj-preview>ISF Forum 2026 is today at ICC Ibadan. Come early, eat well and get settled first.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-image padding="0px" />
+      <mj-text color="#222222" font-size="16px" line-height="1.65" padding="0 36px 16px 36px" />
+    </mj-attributes>
+    <mj-style>
+      a { color: #1E6F64; }
+      @media only screen and (max-width: 480px) {
+        .hero div { font-size: 32px !important; }
+        .tilev div { font-size: 20px !important; }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#F2F4F3" width="600px">
+
+    <mj-section padding="22px 0 10px 0">
+      <mj-column>
+        <mj-text font-size="12px" line-height="1.5" color="#5E6B68" align="center" padding="0 24px">ISF Forum 2026 &middot; Today &middot; ICC Ibadan</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero -->
+    <mj-section background-color="#0F1F1D" border-radius="6px 6px 0 0" padding="36px 0 26px 0">
+      <mj-column>
+        <mj-text align="center" font-size="11px" font-weight="700" letter-spacing="2px" line-height="1" padding="0 30px 18px 30px"><span style="background:#FFD23F;color:#0F1F1D;padding:7px 14px;border-radius:14px;display:inline-block;">IT'S ISF DAY</span></mj-text>
+        <mj-text css-class="hero" align="center" font-size="42px" font-weight="700" line-height="1.12" color="#FFFFFF" padding="0 24px 0 24px">Come early.<br /><span style="color:#F28C28;">Breakfast is on&nbsp;us.</span></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0F1F1D" padding="0">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/81b6d36ee696aa8418c61d55bc14bd9791e9a691/isf-2026/dday-nov/doors-8am-breakfast.jpg" width="600px" href="https://www.google.com/maps/search/?api=1&amp;query=International+Conference+Centre+University+of+Ibadan" alt="Doors open 8:00 AM at ICC Ibadan. A steaming ISF coffee cup at sunrise. Early birds eat." />
+      </mj-column>
+    </mj-section>
+
+    <!-- Tiles -->
+    <mj-section background-color="#FFFFFF" padding="28px 24px 8px 24px">
+      <mj-group width="100%">
+        <mj-column width="33.33%" padding="0 6px" inner-background-color="#EEF6F4" inner-border-radius="8px">
+          <mj-text align="center" font-size="11px" font-weight="700" letter-spacing="2px" color="#1E6F64" padding="14px 4px 2px 4px">DOORS</mj-text>
+          <mj-text css-class="tilev" align="center" font-size="26px" font-weight="700" line-height="1.2" color="#0F1F1D" padding="0 4px 14px 4px">8 AM</mj-text>
+        </mj-column>
+        <mj-column width="33.33%" padding="0 6px" inner-background-color="#FFF3E6" inner-border-radius="8px">
+          <mj-text align="center" font-size="11px" font-weight="700" letter-spacing="2px" color="#C2410C" padding="14px 4px 2px 4px">BREAKFAST</mj-text>
+          <mj-text css-class="tilev" align="center" font-size="26px" font-weight="700" line-height="1.2" color="#0F1F1D" padding="0 4px 14px 4px">ON US</mj-text>
+        </mj-column>
+        <mj-column width="33.33%" padding="0 6px" inner-background-color="#EEF6F4" inner-border-radius="8px">
+          <mj-text align="center" font-size="11px" font-weight="700" letter-spacing="2px" color="#1E6F64" padding="14px 4px 2px 4px">VENUE</mj-text>
+          <mj-text css-class="tilev" align="center" font-size="26px" font-weight="700" line-height="1.2" color="#0F1F1D" padding="0 4px 14px 4px">ICC</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- Body -->
+    <mj-section background-color="#FFFFFF" padding="22px 0 0 0">
+      <mj-column>
+        <mj-text>Good morning,</mj-text>
+        <mj-text>Today is the day. Doors at the International Conference Centre, Ibadan open at <strong>8:00&nbsp;AM</strong>, and breakfast is served for everyone who arrives early.</mj-text>
+        <mj-text>Come early, eat well, beat the queue and settle in before the halls fill up.</mj-text>
+        <mj-button href="https://www.google.com/maps/search/?api=1&amp;query=International+Conference+Centre+University+of+Ibadan" background-color="#F28C28" color="#0F1F1D" font-size="17px" font-weight="700" border-radius="6px" inner-padding="16px 38px" align="center" padding="6px 36px 28px 36px">Get directions to ICC</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Checklist -->
+    <mj-section background-color="#FFFFFF" padding="0 36px 28px 36px">
+      <mj-column background-color="#EEF6F4" border-radius="8px" padding="20px 0 6px 0">
+        <mj-text font-size="12px" font-weight="700" letter-spacing="2px" color="#1E6F64" padding="0 22px 10px 22px">BEFORE YOU LEAVE HOME</mj-text>
+        <mj-text font-size="15px" line-height="1.5" color="#0F1F1D" padding="0 22px 8px 22px"><span style="color:#F28C28;font-weight:700;">&#10003;</span>&nbsp; Your ticket email, just in case</mj-text>
+        <mj-text font-size="15px" line-height="1.5" color="#0F1F1D" padding="0 22px 8px 22px"><span style="color:#F28C28;font-weight:700;">&#10003;</span>&nbsp; A charged phone</mj-text>
+        <mj-text font-size="15px" line-height="1.5" color="#0F1F1D" padding="0 22px 8px 22px"><span style="color:#F28C28;font-weight:700;">&#10003;</span>&nbsp; Business cards or a LinkedIn QR code</mj-text>
+        <mj-text font-size="15px" line-height="1.5" color="#0F1F1D" padding="0 22px 12px 22px"><span style="color:#F28C28;font-weight:700;">&#10003;</span>&nbsp; An appetite</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Five halls -->
+    <mj-section background-color="#0F1F1D" padding="30px 0 32px 0">
+      <mj-column>
+        <mj-text align="center" font-size="12px" font-weight="700" letter-spacing="2px" color="#5CC2B1" padding="0 36px 8px 36px">FIVE HALLS. ONE DAY.</mj-text>
+        <mj-text align="center" font-size="13px" font-weight="700" line-height="2.9" color="#FFFFFF" padding="0 30px 14px 30px"><span style="background:#17332F;border:1px solid #2F988A;padding:6px 12px;border-radius:16px;white-space:nowrap;">Thomas Hall</span>&nbsp; <span style="background:#17332F;border:1px solid #2F988A;padding:6px 12px;border-radius:16px;white-space:nowrap;">Omolayole Hall</span>&nbsp; <span style="background:#17332F;border:1px solid #2F988A;padding:6px 12px;border-radius:16px;white-space:nowrap;">Ogunlana Hall</span>&nbsp; <span style="background:#17332F;border:1px solid #2F988A;padding:6px 12px;border-radius:16px;white-space:nowrap;">Onosode Hall</span>&nbsp; <span style="background:#17332F;border:1px solid #2F988A;padding:6px 12px;border-radius:16px;white-space:nowrap;">Aganga Hall</span></mj-text>
+        <mj-text align="center" font-size="15px" line-height="1.6" color="#B9C7C4" padding="0 40px 18px 40px">Plan your route through the day, and find the people you want to meet, in the ISF Forum app.</mj-text>
+        <mj-button href="https://app.theisfforum.com" background-color="#FFFFFF" color="#0F1F1D" font-size="15px" font-weight="700" border-radius="6px" inner-padding="13px 30px" align="center" padding="0 36px">Open the app</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Tonight + sign-off -->
+    <mj-section background-color="#FFFFFF" padding="28px 0 8px 0">
+      <mj-column>
+        <mj-text font-size="15px" color="#3E4B48">And when the last panel is done, the conversation moves to <strong>Pool-Up After ISF</strong> at Eden's Garden &amp; Lounge, Bodija.</mj-text>
+        <mj-text padding="4px 36px 24px 36px">See you at 8,<br />David Adeleke<br /><span style="color:#5E6B68;">Convener, ISF Forum 2026</span></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- FIXED BOTTOM: Ibadan banner -->
+    <mj-section background-color="#FFFFFF" border-radius="0 0 6px 6px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/DaxlinksG/email-templates/isf-newsletter-assets/isf-2026/speakers-oct/isf-big-ideas-banner.jpg" width="600px" border-radius="0 0 6px 6px" href="https://app.theisfforum.com" alt="ISF Forum 2026 banner showing the Ibadan skyline" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section padding="22px 0 30px 0">
+      <mj-column>
+        <mj-text font-size="13px" line-height="1.6" color="#666666" align="center" padding="0 32px 8px 32px">Follow the day live: <a href="https://www.instagram.com/innovationandscaleforum" style="color:#1E6F64;">Instagram</a> &middot; <a href="https://www.linkedin.com/company/isfforum" style="color:#1E6F64;">LinkedIn</a></mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">ISF Forum &middot; Ibadan, Oyo State, Nigeria</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px 6px 32px">You are receiving this email because you subscribed to updates from ISF Forum.</mj-text>
+        <mj-text font-size="12px" line-height="1.6" color="#666666" align="center" padding="0 32px"><a href="{{UNSUBSCRIBE_URL}}" style="color:#666666;text-decoration:underline;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
